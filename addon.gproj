@@ -1,0 +1,8 @@
+GameProject {
+ ID "ZXGLife"
+ GUID "610257B8058E10FE"
+ TITLE "ZXGLife"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

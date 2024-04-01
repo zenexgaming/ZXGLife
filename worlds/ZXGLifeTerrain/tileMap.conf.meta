@@ -1,0 +1,18 @@
+MetaFileClass {
+ Name "{1700FB5DCB9970D9}worlds/ZXGLifeTerrain/tileMap.conf"
+ Configurations {
+  CONFResourceClass PC {
+   Present No
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}
