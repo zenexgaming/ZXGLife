@@ -13,6 +13,9 @@ GenericWorldEntity world {
  OceanSimulation "{824449EC2DE478DD}Terrains/Common/Water/Ocean/Simulation/oceanSimIsland.emat"
 }
 GenericTerrainEntity ZXGLifeTerrain {
+ CloseDistanceMax 50
+ CloseDistaneBlend 50
+ MiddleDistanceBlend 673.8
  Layers 65
 }
 GenericWorldPPEffect : "{3AFFB0B0EC055284}Prefabs/World/DefaultWorld/GenericWorldPP_Default.et" {
