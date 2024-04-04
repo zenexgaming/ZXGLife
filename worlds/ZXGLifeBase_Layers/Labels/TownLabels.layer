@@ -1,0 +1,61 @@
+GenericEntity Argostolion {
+ components {
+  SCR_EditableCommentComponent "{610963C3BE38F2BE}" {
+   m_EntityType COMMENT
+   m_UIInfo SCR_EditableCommentUIInfo "{610963C3FBF3BBD6}" {
+    Name "Argostolion"
+   }
+   m_bAutoRegister ALWAYS
+   m_Flags 6200
+  }
+  SCR_MapDescriptorComponent "{610963C3C8866D7E}" {
+   DisplayName "Argostolion"
+   MainType "Name City"
+  }
+ }
+ coords 6865.591 28.508 7375.558
+}
+$grp GenericEntity : "{D264909385904B79}Prefabs/ScenarioFramework/MapMarker.et" {
+ Sami {
+  components {
+   SCR_EditableCommentComponent "{610963C3BE38F2BE}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{610963C3FBF3BBD6}" {
+     Name "Sami"
+    }
+   }
+   SCR_MapDescriptorComponent "{610963C3C8866D7E}" {
+    DisplayName "Sami"
+    MainType "Name City"
+   }
+  }
+  coords 11818.331 21.487 9752.967
+ }
+ Poros {
+  components {
+   SCR_EditableCommentComponent "{610963C3BE38F2BE}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{610963C3FBF3BBD6}" {
+     Name "Poros"
+    }
+   }
+   SCR_MapDescriptorComponent "{610963C3C8866D7E}" {
+    DisplayName "Poros"
+    MainType "Name City"
+   }
+  }
+  coords 15987.767 48.133 5818.125
+ }
+ Skala {
+  components {
+   SCR_EditableCommentComponent "{610963C3BE38F2BE}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{610963C3FBF3BBD6}" {
+     Name "Skala"
+    }
+   }
+   SCR_MapDescriptorComponent "{610963C3C8866D7E}" {
+    DisplayName "Skala"
+    MainType "Name City"
+   }
+  }
+  coords 16338.062 32.781 3145.911
+ }
+}

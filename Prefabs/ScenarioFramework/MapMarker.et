@@ -1,0 +1,15 @@
+GenericEntity {
+ ID "610963C24C6FC2A9"
+ components {
+  SCR_EditableCommentComponent "{610963C3BE38F2BE}" {
+   m_EntityType COMMENT
+   m_UIInfo SCR_EditableCommentUIInfo "{610963C3FBF3BBD6}" {
+   }
+   m_bAutoRegister ALWAYS
+   m_Flags 6200
+  }
+  SCR_MapDescriptorComponent "{610963C3C8866D7E}" {
+  }
+ }
+ coords 6865.591 28.508 7375.558
+}
