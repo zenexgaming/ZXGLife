@@ -13,7 +13,7 @@ GenericEntity Argostolion {
    MainType "Name City"
   }
  }
- coords 6865.591 28.508 7375.558
+ coords 7180.287 -7.738 7148.188
 }
 $grp GenericEntity : "{D264909385904B79}Prefabs/ScenarioFramework/MapMarker.et" {
  Sami {
