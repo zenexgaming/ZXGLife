@@ -1,4 +1,10 @@
 SCR_DestructibleBuildingEntity : "{11BFDE0724119A52}PrefabLibrary/Structures/Industrial/Garage_E_02.et" {
- coords 7465.348 0.234 6708.617
+ coords 7469.267 0.234 6713.27
  angleY -139.894
+}
+SCR_DestructibleBuildingEntity : "{C92E272A514F2CE0}PrefabLibrary/Structures/Houses/House_Prefab_2I02t.et" {
+ coords 7493.851 1.115 6690.315
+ angleX -1.263
+ angleY 41.002
+ angleZ 0.088
 }
