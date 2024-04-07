@@ -1,7 +1,7 @@
 SatGenDescClass {
- FileName "C:/Users/Michael/Pictures/ZXGLife/map_roads_final.png"
+ FileName "C:/Users/Michael/Downloads/mapfinal (2).png"
  sRGBOutput 1
- RenderRoads 0
+ RenderRoads 1
  Interpolation bilinear
  RoadsAA "8x"
 }
