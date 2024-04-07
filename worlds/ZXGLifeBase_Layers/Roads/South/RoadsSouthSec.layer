@@ -613,8 +613,26 @@ $grp SplineShapeEntity {
    ShapePoint "{61028727D39D6A42}" {
     Position -3405.493 53.614 -1896.849
    }
+   ShapePoint "{610B7BCA495ABEB5}" {
+    Position -3503.163 44.002 -1961.758
+   }
+   ShapePoint "{610B7BCA42EFFE9E}" {
+    Position -3526.772 43 -1985.293
+   }
+   ShapePoint "{610B7BCBF2A78138}" {
+    Position -3577.806 37.39 -2025.164
+   }
    ShapePoint "{61028727D2509E63}" {
     Position -3757.613 28.058 -2106.091
+   }
+   ShapePoint "{610B7BCE1C69A72D}" {
+    Position -3930.047 22.197 -2117.509
+   }
+   ShapePoint "{610B7BCE18CACBD3}" {
+    Position -4004.381 18.103 -2115.425
+   }
+   ShapePoint "{610B7BCE1753C8EF}" {
+    Position -4099.637 3.672 -2137.245
    }
    ShapePoint "{61028727D4F3DAF4}" {
     Position -4184.387 -7.571 -2165.107
@@ -727,21 +745,39 @@ $grp SplineShapeEntity {
         Position -3405.493 53.614 -1896.849
        }
        ShapePoint "{61028727D39DCFA0}" {
-        Position -3757.613 28.058 -2106.091
+        Position -3503.163 44.002 -1961.758
        }
        ShapePoint "{61028727D253472E}" {
-        Position -4184.387 -7.571 -2165.107
+        Position -3526.771 43 -1985.293
        }
        ShapePoint "{61028727D4F28A48}" {
-        Position -3995.334 -16.672 -2317.681
+        Position -3577.805 37.39 -2025.164
        }
        ShapePoint "{610287240E97D3EE}" {
-        Position -3816.686 -9.423 -2613.399
+        Position -3757.613 28.058 -2106.091
        }
        ShapePoint "{610287240C33B5B4}" {
-        Position -3898.878 -10.655 -2743.14
+        Position -3930.047 22.197 -2117.509
        }
        ShapePoint "{610287240CD3EAE7}" {
+        Position -4004.381 18.103 -2115.425
+       }
+       ShapePoint "{610B7BCBF2A44CFF}" {
+        Position -4099.637 3.672 -2137.244
+       }
+       ShapePoint "{610B7BCA495B06D1}" {
+        Position -4184.387 -7.571 -2165.107
+       }
+       ShapePoint "{610B7BCA42EC88E2}" {
+        Position -3995.334 -16.672 -2317.681
+       }
+       ShapePoint "{610B7BCE1D96225F}" {
+        Position -3816.686 -9.423 -2613.399
+       }
+       ShapePoint "{610B7BCE18CB97A0}" {
+        Position -3898.878 -10.655 -2743.14
+       }
+       ShapePoint "{610B7BCE17509CDC}" {
         Position -4004.897 -8.424 -2849.771
        }
       }
