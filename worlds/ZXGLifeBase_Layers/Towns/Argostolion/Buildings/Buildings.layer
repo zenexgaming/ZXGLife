@@ -1,0 +1,8 @@
+SCR_DestructibleBuildingEntity : "{9562159FDE627B33}Prefabs/Structures/Recreation/Houses/Cottage_E_01/Cottage_E_01.et" {
+ coords 7670.499 -0.661 6498.191
+ angleY -47.034
+}
+SCR_DestructibleBuildingEntity : "{CD370ECB385DE67A}Prefabs/Structures/Houses/Farm/FarmHouse_E_1L01/FarmHouse_E_1L01.et" {
+ coords 7653.802 0.158 6407.772
+ angleY 134.239
+}

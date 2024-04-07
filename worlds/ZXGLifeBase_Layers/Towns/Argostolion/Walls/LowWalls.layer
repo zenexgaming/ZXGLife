@@ -1,0 +1,184 @@
+PolylineShapeEntity {
+ coords 7669.863 7.797 6507.492
+ Points {
+  ShapePoint "{610E68FFF78CBFEF}" {
+   Position 1.489 0.052 -0.262
+  }
+  ShapePoint "{610E68FFF78CB58D}" {
+   Position -13.37 -1.229 11.304
+  }
+  ShapePoint "{610E68FFF92EC151}" {
+   Position -38.859 -2.771 31.157
+  }
+  ShapePoint "{610E68FFF997A20E}" {
+   Position -58.798 -3.512 47.234
+  }
+  ShapePoint "{610E68FFFB45D5FD}" {
+   Position -90.99 -4.097 72.406
+  }
+  ShapePoint "{610E68FFFA52A49C}" {
+   Position -101.099 -4.264 80.335
+  }
+ }
+ LineColor 0 0 0 0
+ {
+  WallGeneratorEntity : "{750314043E7EA87C}Prefabs/WEGenerators/Walls/Stone/WG_StoneWall_02.et" {
+   coords 0 0 0
+   Flags 1048579
+   {
+    $grp SCR_DestructibleEntity : "{1BF9335AB2008B33}Prefabs/Structures/Walls/Stone/StoneWall_02/StoneWall_02_4m_v2.et" {
+     {
+      coords -7.011 -0.681 6.355
+      angleY -142.105
+     }
+     {
+      coords -21.481 -1.712 17.621
+      angleY -142.087
+     }
+     {
+      coords -45.135 -2.966 36.261
+      angleY -141.23
+     }
+     {
+      coords -54.327 -3.334 43.643
+      angleY -141.23
+     }
+     {
+      coords -57.349 -3.454 46.07
+      angleY -141.945
+     }
+     {
+      coords -83.943 -3.962 66.889
+      angleY -141.945
+     }
+    }
+    $grp SCR_DestructibleEntity : "{6B08AEEC99A1CFE8}Prefabs/Structures/Walls/Stone/StoneWall_02/StoneWall_02_4m_v1.et" {
+     {
+      coords 1.545 0.057 -0.305
+      angleY -142.105
+     }
+     {
+      coords -1.307 -0.189 1.915
+      angleY -142.105
+     }
+     {
+      coords -4.159 -0.435 4.135
+      angleY -142.105
+     }
+     {
+      coords -10.037 -0.942 8.709
+      angleY -142.105
+     }
+     {
+      coords -12.916 -1.19 10.951
+      angleY -142.087
+     }
+     {
+      coords -15.771 -1.364 13.174
+      angleY -142.087
+     }
+     {
+      coords -18.626 -1.538 15.398
+      angleY -142.087
+     }
+     {
+      coords -27.642 -2.087 22.42
+      angleY -142.087
+     }
+     {
+      coords -30.497 -2.261 24.644
+      angleY -142.087
+     }
+     {
+      coords -33.352 -2.435 26.867
+      angleY -142.087
+     }
+     {
+      coords -42.312 -2.854 33.993
+      angleY -141.23
+     }
+     {
+      coords -63.505 -3.572 50.889
+      angleY -141.945
+     }
+     {
+      coords -69.367 -3.684 55.478
+      angleY -141.945
+     }
+     {
+      coords -78.238 -3.853 62.423
+      angleY -141.945
+     }
+     {
+      coords -81.09 -3.908 64.656
+      angleY -141.945
+     }
+     {
+      coords -86.968 -4.02 69.257
+      angleY -141.945
+     }
+     {
+      coords -92.976 -4.127 73.965
+      angleY -141.895
+     }
+     {
+      coords -95.827 -4.175 76.201
+      angleY -141.895
+     }
+    }
+    $grp SCR_DestructibleEntity : "{85D69C0818E79907}Prefabs/Structures/Walls/Stone/StoneWall_02/StoneWall_02_d.et" {
+     {
+      coords -24.509 -1.896 19.98
+      angleY -142.087
+     }
+     {
+      coords -39.213 -2.73 31.505
+      angleY -141.23
+     }
+     {
+      coords -48.129 -3.086 38.666
+      angleY -141.23
+     }
+     {
+      coords -51.228 -3.21 41.154
+      angleY -141.23
+     }
+     {
+      coords -60.374 -3.512 48.438
+      angleY -141.945
+     }
+     {
+      coords -89.848 -4.075 71.512
+      angleY -141.895
+     }
+    }
+    SCR_DestructibleEntity : "{AA29DDBF1CD8EE47}Prefabs/Structures/Walls/Stone/StoneWall_02/StoneWall_02_start.et" {
+     coords -98.705 -4.223 78.458
+     angleY -141.895
+    }
+    SCR_DestructibleEntity : "{D84A36F4699A8743}Prefabs/Structures/Walls/Stone/StoneWall_02/StoneWall_02_end.et" {
+     coords 1.489 0.052 -0.262
+     angleY -142.105
+    }
+    $grp SCR_DestructibleEntity : "{FE657FA3BEE51C58}Prefabs/Structures/Walls/Stone/StoneWall_02/StoneWall_02_4m_v3.et" {
+     {
+      coords -36.234 -2.611 29.112
+      angleY -141.23
+     }
+     {
+      coords -66.357 -3.626 53.122
+      angleY -141.945
+     }
+     {
+      coords -72.219 -3.738 57.711
+      angleY -141.945
+     }
+     {
+      coords -75.229 -3.796 60.067
+      angleY -141.945
+     }
+    }
+   }
+  }
+ }
+}
