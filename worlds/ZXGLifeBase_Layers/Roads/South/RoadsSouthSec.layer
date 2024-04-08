@@ -2498,7 +2498,7 @@ $grp SplineShapeEntity {
   coords 7649.393 23.509 6536.92
   Points {
    ShapePoint "{61096CB817988D57}" {
-    Position 0 -17.851 0
+    Position 0 -16.09 0
    }
    ShapePoint "{61096CB817988986}" {
     Position -34.776 -19.103 146.741
@@ -2530,7 +2530,7 @@ $grp SplineShapeEntity {
       ID "556C6C02C8F45A73"
       SplinePoints {
        ShapePoint "{556C6C02BD077CFC}" {
-        Position 0 -17.851 0
+        Position 0 -16.09 0
        }
        ShapePoint "{556C6C02BD077389}" {
         Position -34.776 -19.103 146.741
