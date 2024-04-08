@@ -14,16 +14,16 @@ SplineShapeEntity {
    Position -266.74 -19.273 409.585
   }
   ShapePoint "{610E85BCDD2BF78C}" {
-   Position -346.707 -19.103 492.125
+   Position -318.009 -19.713 505.432
   }
   ShapePoint "{61096CB82BEB6DE3}" {
-   Position -367.554 -19.314 560.769
+   Position -320.741 -19.602 577.479
   }
   ShapePoint "{61096CB82AF46469}" {
-   Position -404.328 -17.431 663.154
+   Position -398.433 -17.65 651.258
   }
   ShapePoint "{61096CB82923767B}" {
-   Position -501.681 -17.716 652.63
+   Position -497.583 -16.886 665.976
   }
  }
  {
@@ -46,16 +46,16 @@ SplineShapeEntity {
        Position -266.74 -19.273 409.585
       }
       ShapePoint "{610E85B3D950ECBC}" {
-       Position -346.707 -19.103 492.124
+       Position -318.009 -19.713 505.432
       }
       ShapePoint "{610E85B3D950ECE9}" {
-       Position -367.554 -19.314 560.769
+       Position -320.741 -19.602 577.479
       }
       ShapePoint "{610E85B3D950EC2F}" {
-       Position -404.328 -17.431 663.154
+       Position -398.433 -17.65 651.258
       }
       ShapePoint "{610E85B3D950EB99}" {
-       Position -501.681 -17.716 652.63
+       Position -497.583 -16.886 665.976
       }
      }
      IsClosedSpline 0

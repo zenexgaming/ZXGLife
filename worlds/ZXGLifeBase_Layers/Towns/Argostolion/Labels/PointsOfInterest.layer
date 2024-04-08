@@ -1,0 +1,96 @@
+$grp GenericEntity : "{D264909385904B79}Prefabs/ScenarioFramework/MapMarker.et" {
+ {
+  components {
+   SCR_EditableCommentComponent "{610963C3BE38F2BE}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{610963C3FBF3BBD6}" {
+     Name "Bridge Start"
+    }
+   }
+   SCR_MapDescriptorComponent "{610963C3C8866D7E}" {
+    DisplayName "Bridge Start"
+   }
+  }
+  coords 7504.257 4.409 6809.979
+ }
+ BoatYard {
+  components {
+   SCR_EditableCommentComponent "{610963C3BE38F2BE}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{610963C3FBF3BBD6}" {
+     Name "BoatYard"
+    }
+   }
+   SCR_MapDescriptorComponent "{610963C3C8866D7E}" {
+    DisplayName "BoatYard"
+   }
+  }
+  coords 7177.358 0 7379.7
+ }
+ Pier {
+  components {
+   SCR_EditableCommentComponent "{610963C3BE38F2BE}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{610963C3FBF3BBD6}" {
+     Name "Pier"
+    }
+   }
+   SCR_MapDescriptorComponent "{610963C3C8866D7E}" {
+    DisplayName "Pier"
+   }
+  }
+  coords 7247.144 6.863 7316.181
+ }
+ Dock {
+  components {
+   SCR_EditableCommentComponent "{610963C3BE38F2BE}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{610963C3FBF3BBD6}" {
+     Name "Dock"
+    }
+   }
+   SCR_MapDescriptorComponent "{610963C3C8866D7E}" {
+    DisplayName "Dock"
+   }
+  }
+  coords 7296.115 4.054 7252.561
+ }
+ Parking {
+  components {
+   SCR_EditableCommentComponent "{610963C3BE38F2BE}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{610963C3FBF3BBD6}" {
+     Name "Parking"
+    }
+   }
+   SCR_MapDescriptorComponent "{610963C3C8866D7E}" {
+    DisplayName "Parking"
+   }
+  }
+  coords 7316.36 3.322 7203.425
+ }
+ BigDock {
+  components {
+   SCR_EditableCommentComponent "{610963C3BE38F2BE}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{610963C3FBF3BBD6}" {
+     Name "BigDock"
+    }
+   }
+   SCR_MapDescriptorComponent "{610963C3C8866D7E}" {
+    DisplayName "BigDock"
+   }
+  }
+  coords 7332.91 1.548 7164.49
+ }
+ MoreDocking {
+  components {
+   SCR_EditableCommentComponent "{610963C3BE38F2BE}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{610963C3FBF3BBD6}" {
+     Name "MoreDocking"
+    }
+   }
+   SCR_MapDescriptorComponent "{610963C3C8866D7E}" {
+    DisplayName "MoreDocking"
+   }
+  }
+  coords 7363.243 1.896 7019.772
+  angleX -16.47
+  angleY -1.074
+  angleZ 3.734
+ }
+}
