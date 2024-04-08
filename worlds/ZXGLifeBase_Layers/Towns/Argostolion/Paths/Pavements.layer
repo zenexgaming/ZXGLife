@@ -1,0 +1,411 @@
+$grp PolylineShapeEntity {
+ {
+  coords 7537.724 4.283 6766.164
+  angleX 1.789
+  angleY -0.028
+  angleZ -0.896
+  Points {
+   ShapePoint "{611095E7CA37A886}" {
+    Position 1.609 -0.004 0.097
+   }
+   ShapePoint "{611095E7CA37D86A}" {
+    Position -38.568 -0.112 40.252
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{F3A64585B7A6ED01}Prefabs/WEGenerators/Pavements/Tile/WG_TilePavement_01_Narrow.et" {
+    coords 0 0 0
+    Flags 1048579
+    m_bEnableLastObject 0
+    {
+     $grp StaticModelEntity : "{0D189AAC0603B503}Prefabs/Structures/Infrastructure/Pavements/TilePavement_01/TilePavement_01_Narrow_4m_C.et" {
+      {
+       coords -4.023 -0.019 5.726
+       angleY -135.016
+      }
+      {
+       coords -6.83 -0.027 8.531
+       angleY -135.016
+      }
+      {
+       coords -9.636 -0.034 11.336
+       angleY -135.016
+      }
+      {
+       coords -23.668 -0.072 25.361
+       angleY -135.016
+      }
+     }
+     $grp StaticModelEntity : "{302CBF94736F3C34}Prefabs/Structures/Infrastructure/Pavements/TilePavement_01/TilePavement_01_Narrow_4m_D.et" {
+      {
+       coords -12.443 -0.042 14.141
+       angleY -135.016
+      }
+      {
+       coords -18.056 -0.057 19.751
+       angleY -135.016
+      }
+      {
+       coords -26.475 -0.08 28.166
+       angleY -135.016
+      }
+      {
+       coords -29.281 -0.087 30.971
+       angleY -135.016
+      }
+      {
+       coords -32.088 -0.095 33.776
+       angleY -135.016
+      }
+     }
+     StaticModelEntity : "{35DA27E777486978}Prefabs/Structures/Infrastructure/Pavements/TilePavement_01/TilePavement_01_Narrow_End_Left.et" {
+      coords 1.609 -0.004 0.097
+      angleY -135.016
+     }
+     $grp StaticModelEntity : "{84D0E2B5B622AD46}Prefabs/Structures/Infrastructure/Pavements/TilePavement_01/TilePavement_01_Narrow_4m_A.et" {
+      {
+       coords -1.217 -0.012 2.921
+       angleY -135.016
+      }
+      {
+       coords -34.014 -0.102 35.701
+       angleY -135.016
+      }
+     }
+     $grp StaticModelEntity : "{E884D6550AE62268}Prefabs/Structures/Infrastructure/Pavements/TilePavement_01/TilePavement_01_Narrow_4m_B.et" {
+      {
+       coords -15.249 -0.049 16.946
+       angleY -135.016
+      }
+      {
+       coords -20.862 -0.065 22.556
+       angleY -135.016
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 7536.612 4.285 6766.814
+  Points {
+   ShapePoint "{611095E7CF0BB28E}" {
+    Position -132.55 -2.035 -46.366
+   }
+   ShapePoint "{611095E7C1B01FB1}" {
+    Position -71.779 -1.731 -84.203
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{F3A64585B7A6ED01}Prefabs/WEGenerators/Pavements/Tile/WG_TilePavement_01_Narrow.et" {
+    coords 0 0 0
+    Flags 1048579
+    m_bEnableLastObject 0
+    {
+     $grp StaticModelEntity : "{0D189AAC0603B503}Prefabs/Structures/Infrastructure/Pavements/TilePavement_01/TilePavement_01_Narrow_4m_C.et" {
+      {
+       coords -129.158 -2.018 -48.478
+       angleY 31.907
+      }
+      {
+       coords -122.422 -1.985 -52.672
+       angleY 31.907
+      }
+      {
+       coords -112.317 -1.934 -58.964
+       angleY 31.907
+      }
+      {
+       coords -82.002 -1.782 -77.838
+       angleY 31.907
+      }
+     }
+     $grp StaticModelEntity : "{302CBF94736F3C34}Prefabs/Structures/Infrastructure/Pavements/TilePavement_01/TilePavement_01_Narrow_4m_D.et" {
+      {
+       coords -115.685 -1.951 -56.867
+       angleY 31.907
+      }
+      {
+       coords -108.948 -1.917 -61.061
+       angleY 31.907
+      }
+      {
+       coords -95.475 -1.85 -69.449
+       angleY 31.907
+      }
+      {
+       coords -92.107 -1.833 -71.547
+       angleY 31.907
+      }
+     }
+     StaticModelEntity : "{35DA27E777486978}Prefabs/Structures/Infrastructure/Pavements/TilePavement_01/TilePavement_01_Narrow_End_Left.et" {
+      coords -132.55 -2.035 -46.366
+      angleY 31.907
+     }
+     $grp StaticModelEntity : "{84D0E2B5B622AD46}Prefabs/Structures/Infrastructure/Pavements/TilePavement_01/TilePavement_01_Narrow_4m_A.et" {
+      {
+       coords -125.79 -2.001 -50.575
+       angleY 31.907
+      }
+      {
+       coords -119.053 -1.968 -54.769
+       angleY 31.907
+      }
+      {
+       coords -98.843 -1.867 -67.352
+       angleY 31.907
+      }
+      {
+       coords -88.738 -1.816 -73.644
+       angleY 31.907
+      }
+      {
+       coords -85.37 -1.799 -75.741
+       angleY 31.907
+      }
+      {
+       coords -78.633 -1.766 -79.935
+       angleY 31.907
+      }
+     }
+     $grp StaticModelEntity : "{E884D6550AE62268}Prefabs/Structures/Infrastructure/Pavements/TilePavement_01/TilePavement_01_Narrow_4m_B.et" {
+      {
+       coords -105.58 -1.9 -63.158
+       angleY 31.907
+      }
+      {
+       coords -102.212 -1.883 -65.255
+       angleY 31.907
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 7536.612 4.285 6766.814
+  Points {
+   ShapePoint "{611095E7C1B01FB1}" {
+    Position -75.704 -1.802 -86.312
+   }
+   ShapePoint "{611095E7C2ABDBE4}" {
+    Position 3.606 0.043 1.953
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{F3A64585B7A6ED01}Prefabs/WEGenerators/Pavements/Tile/WG_TilePavement_01_Narrow.et" {
+    coords 0 0 0
+    Flags 1048579
+    m_bEnableLastObject 0
+    {
+     StaticModelEntity : "{0D189AAC0603B503}Prefabs/Structures/Infrastructure/Pavements/TilePavement_01/TilePavement_01_Narrow_4m_C.et" {
+      coords -20 -0.506 -24.319
+      angleY -48.059
+     }
+     $grp StaticModelEntity : "{302CBF94736F3C34}Prefabs/Structures/Infrastructure/Pavements/TilePavement_01/TilePavement_01_Narrow_4m_D.et" {
+      {
+       coords -67.73 -1.617 -77.438
+       angleY -48.059
+      }
+      {
+       coords -62.427 -1.493 -71.536
+       angleY -48.059
+      }
+      {
+       coords -59.775 -1.432 -68.585
+       angleY -48.059
+      }
+      {
+       coords -54.472 -1.308 -62.683
+       angleY -48.059
+      }
+      {
+       coords -51.82 -1.247 -59.732
+       angleY -48.059
+      }
+      {
+       coords -35.91 -0.877 -42.025
+       angleY -48.059
+      }
+      {
+       coords -33.258 -0.815 -39.074
+       angleY -48.059
+      }
+      {
+       coords -30.607 -0.753 -36.123
+       angleY -48.059
+      }
+      {
+       coords -25.303 -0.63 -30.221
+       angleY -48.059
+      }
+      {
+       coords -14.697 -0.383 -18.417
+       angleY -48.059
+      }
+     }
+     StaticModelEntity : "{35DA27E777486978}Prefabs/Structures/Infrastructure/Pavements/TilePavement_01/TilePavement_01_Narrow_End_Left.et" {
+      coords -75.704 -1.802 -86.312
+      angleY -48.059
+     }
+     $grp StaticModelEntity : "{84D0E2B5B622AD46}Prefabs/Structures/Infrastructure/Pavements/TilePavement_01/TilePavement_01_Narrow_4m_A.et" {
+      {
+       coords -73.033 -1.74 -83.34
+       angleY -48.059
+      }
+      {
+       coords -70.382 -1.678 -80.389
+       angleY -48.059
+      }
+      {
+       coords -43.865 -1.062 -50.878
+       angleY -48.059
+      }
+      {
+       coords -38.562 -0.938 -44.976
+       angleY -48.059
+      }
+      {
+       coords -22.652 -0.568 -27.27
+       angleY -48.059
+      }
+      {
+       coords -17.348 -0.445 -21.368
+       angleY -48.059
+      }
+      {
+       coords -9.393 -0.26 -12.514
+       angleY -48.059
+      }
+     }
+     $grp StaticModelEntity : "{E884D6550AE62268}Prefabs/Structures/Infrastructure/Pavements/TilePavement_01/TilePavement_01_Narrow_4m_B.et" {
+      {
+       coords -65.078 -1.555 -74.487
+       angleY -48.059
+      }
+      {
+       coords -57.123 -1.37 -65.634
+       angleY -48.059
+      }
+      {
+       coords -49.168 -1.185 -56.781
+       angleY -48.059
+      }
+      {
+       coords -46.517 -1.123 -53.83
+       angleY -48.059
+      }
+      {
+       coords -41.213 -1 -47.927
+       angleY -48.059
+      }
+      {
+       coords -27.955 -0.691 -33.172
+       angleY -48.059
+      }
+      {
+       coords -12.045 -0.321 -15.465
+       angleY -48.059
+      }
+      {
+       coords -6.742 -0.198 -9.563
+       angleY -48.059
+      }
+      {
+       coords -4.09 -0.136 -6.612
+       angleY -48.059
+      }
+      {
+       coords -1.438 -0.075 -3.661
+       angleY -48.059
+      }
+     }
+    }
+   }
+  }
+ }
+}
+SplineShapeEntity {
+ coords 7575.263 4.247 6729.603
+ angleY 0.505
+ Points {
+  ShapePoint "{611095E83A2BDDBA}" {
+   Position 0 0 0
+  }
+  ShapePoint "{611095E83A2BD068}" {
+   Position -34.144 -0.031 34.504
+  }
+ }
+ LineColor 0 0 0 0
+ {
+  WallGeneratorEntity : "{F3A64585B7A6ED01}Prefabs/WEGenerators/Pavements/Tile/WG_TilePavement_01_Narrow.et" {
+   coords 0 0 0
+   Flags 1048579
+   {
+    $grp StaticModelEntity : "{302CBF94736F3C34}Prefabs/Structures/Infrastructure/Pavements/TilePavement_01/TilePavement_01_Narrow_4m_D.et" {
+     {
+      coords -11.183 -0.01 11.301
+      angleY -134.699
+     }
+     {
+      coords -16.765 -0.015 16.942
+      angleY -134.699
+     }
+     {
+      coords -22.347 -0.02 22.583
+      angleY -134.699
+     }
+    }
+    StaticModelEntity : "{35DA27E777486978}Prefabs/Structures/Infrastructure/Pavements/TilePavement_01/TilePavement_01_Narrow_End_Left.et" {
+     coords 0 0 0
+     angleY -134.699
+    }
+    StaticModelEntity : "{7CF85AB7814609C1}Prefabs/Structures/Infrastructure/Pavements/TilePavement_01/TilePavement_01_Narrow_End_Right.et" {
+     coords -27.947 -0.026 28.242
+     angleY -134.699
+    }
+    $grp StaticModelEntity : "{84D0E2B5B622AD46}Prefabs/Structures/Infrastructure/Pavements/TilePavement_01/TilePavement_01_Narrow_4m_A.et" {
+     {
+      coords -2.81 -0.003 2.84
+      angleY -134.699
+     }
+     {
+      coords -5.601 -0.005 5.661
+      angleY -134.699
+     }
+     {
+      coords -19.556 -0.018 19.763
+      angleY -134.699
+     }
+    }
+    $grp StaticModelEntity : "{E884D6550AE62268}Prefabs/Structures/Infrastructure/Pavements/TilePavement_01/TilePavement_01_Narrow_4m_B.et" {
+     {
+      coords -8.392 -0.008 8.481
+      angleY -134.699
+     }
+     {
+      coords -13.974 -0.013 14.122
+      angleY -134.699
+     }
+     {
+      coords -25.138 -0.023 25.403
+      angleY -134.699
+     }
+    }
+   }
+  }
+ }
+}
+Tree : "{61D918F6575A3231}PrefabLibrary/Vegetation/Trees/t_alnus_glutinosa_2s.et" {
+ coords 7527.228 0.197 6769.883
+ angleY 72.38
+ scale 0.859
+}
+Tree : "{B3453920EE605F13}PrefabLibrary/Vegetation/Trees/t_carpinus_betulus_2s.et" {
+ coords 7514.949 0 6750.748
+ angleY -105.34
+ scale 0.968
+}

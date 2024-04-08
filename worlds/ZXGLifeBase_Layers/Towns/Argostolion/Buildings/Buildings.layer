@@ -1,8 +1,44 @@
+SplineShapeEntity {
+ coords 7584.348 4.406 6697.813
+ Points {
+  ShapePoint "{611095EE77B5E064}" {
+   Position 0.995 0 1.144
+  }
+ }
+}
+GenericEntity : "{66F9B70496CD89C2}PrefabLibrary/Infrastructure/Sings/SignNoParking.et" {
+ coords 7575.481 4.406 6704.313
+ angleX 0.869
+ angleY 40.017
+ angleZ 0.578
+}
+$grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
+ {
+  coords 7584.154 0 6701.212
+  angleY 40.313
+ }
+ {
+  coords 7582.155 0 6702.874
+  angleY 40.313
+ }
+ {
+  coords 7579.988 0 6704.739
+  angleY 40.313
+ }
+}
 SCR_DestructibleBuildingEntity : "{9562159FDE627B33}Prefabs/Structures/Recreation/Houses/Cottage_E_01/Cottage_E_01.et" {
  coords 7670.499 -0.661 6498.191
  angleY -47.034
 }
+SCR_DestructibleBuildingEntity : "{965AFAD159CB0C8A}Prefabs/Structures/Commercial/Pubs/PubVillage_E_2L01/PubVillage_E_2L01_V8_ProgresBar.et" {
+ coords 7551.924 0.632 6731.135
+ angleY -44.999
+}
 SCR_DestructibleBuildingEntity : "{CD370ECB385DE67A}Prefabs/Structures/Houses/Farm/FarmHouse_E_1L01/FarmHouse_E_1L01.et" {
  coords 7653.802 0.158 6407.772
  angleY 134.239
+}
+SCR_DestructibleBuildingEntity : "{CFE8511B2B7E8AAA}Prefabs/Structures/Commercial/Shops/ShopModern_E_01.et" {
+ coords 7572.944 1.295 6697.695
+ angleY 40.264
 }
