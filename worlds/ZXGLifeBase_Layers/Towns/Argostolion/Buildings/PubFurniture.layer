@@ -1,0 +1,56 @@
+$grp SCR_DestructibleEntity : "{2DAC8D663D5F3E2E}Prefabs/Props/Commercial/MarketStand_01_Umbrella.et" {
+ {
+  coords 7556.562 4.02 6719.079
+  angleY 136.259
+  {
+   SCR_DestructibleEntity : "{C8A5C92E74ABB5EA}Prefabs/Props/Civilian/PicnicTable/PicnicTable_01.et" {
+    coords 0.01 0.129 -0.008
+   }
+  }
+ }
+ {
+  coords 7552.937 4.276 6712.784
+  angleY 166.646
+  {
+   SCR_DestructibleEntity : "{C8A5C92E74ABB5EA}Prefabs/Props/Civilian/PicnicTable/PicnicTable_01.et" {
+    coords 0.01 0.129 -0.008
+   }
+  }
+ }
+ {
+  coords 7544.92 4.149 6721.048
+  angleY 136.259
+  {
+   SCR_DestructibleEntity : "{C8A5C92E74ABB5EA}Prefabs/Props/Civilian/PicnicTable/PicnicTable_01.et" {
+    coords 0.01 0.129 -0.008
+   }
+  }
+ }
+ {
+  coords 7548.286 4.261 6743.183
+  angleY 136.259
+  {
+   SCR_DestructibleEntity : "{C8A5C92E74ABB5EA}Prefabs/Props/Civilian/PicnicTable/PicnicTable_01.et" {
+    coords 0.01 0.129 -0.008
+   }
+  }
+ }
+ {
+  coords 7537.274 4.273 6732.595
+  angleY 136.259
+  {
+   SCR_DestructibleEntity : "{C8A5C92E74ABB5EA}Prefabs/Props/Civilian/PicnicTable/PicnicTable_01.et" {
+    coords 0.01 0.129 -0.008
+   }
+  }
+ }
+ {
+  coords 7543.183 4.245 6729.94
+  angleY 88.202
+  {
+   SCR_DestructibleEntity : "{C8A5C92E74ABB5EA}Prefabs/Props/Civilian/PicnicTable/PicnicTable_01.et" {
+    coords 0.01 0.129 -0.008
+   }
+  }
+ }
+}

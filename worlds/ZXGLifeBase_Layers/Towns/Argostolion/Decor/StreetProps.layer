@@ -1,0 +1,38 @@
+GenericEntity : "{3C27BF2D94E61103}PrefabLibrary/Infrastructure/Lamps/LampStreet_E_02_doubleStraight/LampStreet_E_02_doubleStraight.et" {
+ coords 7573.599 0 6729.949
+}
+$grp SCR_DestructibleEntity : "{41DBB422CDB858C1}PrefabLibrary/Props/Civilian/TrashBin_01.et" {
+ {
+  coords 7586.768 4.187 6729.062
+  angleY 133.507
+ }
+ {
+  coords 7593.504 4.219 6722.094
+  angleY -43.744
+ }
+}
+SCR_DestructibleEntity : "{876DAC3BB3F5DA5C}PrefabLibrary/Props/Decoration/FlowerpotStreet_01_octa/FlowerpotStreet_01_octa_Empty.et" {
+ coords 7527.287 4.419 6770.066
+ angleY 49.124
+ scale 1.25
+}
+GenericEntity : "{9096F3C3D040A2F3}PrefabLibrary/Infrastructure/Lamps/LampStreet_E_01_4m/LampStreet_E_01_4m.et" {
+ coords 7593.583 -0 6728.812
+ angleX -1.811
+ angleY 199.518
+ angleZ 0.797
+}
+SCR_DestructibleBuildingEntity : "{97380F89AA02D20B}Prefabs/Structures/Infrastructure/Bus/BusShed_E_01/BusShed_E_01_blue.et" {
+ coords 7585.406 0 6732.557
+ angleY -134.604
+}
+$grp GenericEntity : "{DB28F5B556BB4B02}PrefabLibrary/Props/Civilian/Garden/BenchWooden_02_Worn.et" {
+ {
+  coords 7588.262 4.182 6730.344
+  angleY 134.144
+ }
+ {
+  coords 7594.851 4.202 6723.552
+  angleY -45.365
+ }
+}

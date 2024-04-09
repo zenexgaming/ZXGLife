@@ -36,22 +36,22 @@ SCR_DestructibleBuildingEntity : "{65ED02B8B05842F8}Prefabs/Structures/Commercia
  angleY -130.809
 }
 GenericEntity : "{66F9B70496CD89C2}PrefabLibrary/Infrastructure/Sings/SignNoParking.et" {
- coords 7575.481 4.406 6704.313
+ coords 7577.104 4.385 6702.951
  angleX 0.869
  angleY 40.017
  angleZ 0.578
 }
 $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
  {
-  coords 7584.154 0 6701.212
+  coords 7586.024 0 6699.628
   angleY 40.313
  }
  {
-  coords 7582.155 0 6702.874
+  coords 7584.025 0 6701.29
   angleY 40.313
  }
  {
-  coords 7579.988 0 6704.739
+  coords 7581.857 0 6703.155
   angleY 40.313
  }
 }
@@ -104,7 +104,7 @@ GenericEntity : "{CDD0712FD6215F03}Prefabs/Compositions/Slotted/SlotFlatMedium/F
  angleY 41.074
 }
 SCR_DestructibleBuildingEntity : "{CFE8511B2B7E8AAA}Prefabs/Structures/Commercial/Shops/ShopModern_E_01.et" {
- coords 7572.944 1.295 6697.695
+ coords 7574.813 1.295 6696.111
  angleY 40.264
 }
 SCR_DestructibleBuildingEntity : "{E9F0814557EC3DA9}Prefabs/Structures/Commercial/FuelStations/FuelStation_E_01/FuelStation_E_01_roof.et" {

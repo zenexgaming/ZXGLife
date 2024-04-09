@@ -523,7 +523,10 @@ $grp PolylineShapeEntity {
   coords 7550.207 3.892 6689.084
   Points {
    ShapePoint "{611095EE09E32947}" {
-    Position -0.894 -0.048 1.556
+    Position 27.55 0.296 33.496
+   }
+   ShapePoint "{6112A582B0A01318}" {
+    Position -0.425 -0.044 1.424
    }
    ShapePoint "{611095EE09E323F5}" {
     Position 25.417 0.514 -21.607
@@ -540,67 +543,116 @@ $grp PolylineShapeEntity {
     {
      $grp SCR_DestructibleEntity : "{24EBCCFD22E56256}PrefabLibrary/Walls/Metal/TinWall_01_6m_C.et" {
       {
-       coords -0.923 -0.049 1.581
-       angleY 41.359
+       _layer 27
+       coords 19.715 0.2 24.513
+       angleY -228.903
       }
       {
-       coords 8.052 0.143 -6.32
-       angleY 41.359
+       _layer 27
+       coords 0.011 -0.039 1.982
+       angleY 42.876
       }
       {
-       coords 31.704 0.471 -11.26
-       angleY -48.389
+       _layer 27
+       coords 24.112 0.486 -20.448
+       angleY -49.013
+      }
+      {
+       _layer 27
+       coords 43.721 0.46 2.12
+       angleY -49.013
       }
      }
      $grp SCR_DestructibleEntity : "{5326C298427D91A3}PrefabLibrary/Walls/Metal/TinWall_01_3m.et" {
       {
-       coords 21.514 0.431 -18.171
-       angleY 41.359
+       _layer 27
+       coords 21.917 0.438 -18.358
+       angleY 42.876
       }
       {
-       coords 47.586 0.454 6.622
-       angleY -48.389
+       _layer 27
+       coords 47.642 0.455 6.633
+       angleY -49.013
       }
      }
      $grp SCR_DestructibleEntity : "{AD23B4E492C47A13}PrefabLibrary/Walls/Metal/TinWall_01_6m_A.et" {
       {
-       coords 17.027 0.335 -14.221
-       angleY 41.359
+       _layer 27
+       coords 27.575 0.296 33.525
+       angleY -228.903
       }
       {
-       coords 27.734 0.475 -15.731
-       angleY -48.389
+       _layer 27
+       coords 15.785 0.153 20.007
+       angleY -228.903
       }
       {
-       coords 35.675 0.467 -6.79
-       angleY -48.389
+       _layer 27
+       coords 11.855 0.105 15.502
+       angleY -228.903
+      }
+      {
+       _layer 27
+       coords 7.924 0.058 10.996
+       angleY -228.903
+      }
+      {
+       _layer 27
+       coords 3.994 0.01 6.49
+       angleY -228.903
+      }
+      {
+       _layer 27
+       coords 8.774 0.152 -6.154
+       angleY 42.876
+      }
+      {
+       _layer 27
+       coords 31.956 0.476 -11.421
+       angleY -49.013
       }
      }
      $grp SCR_DestructibleEntity : "{C17780042E00F53D}PrefabLibrary/Walls/Metal/TinWall_01_6m_B.et" {
       {
-       coords 3.565 0.047 -2.37
-       angleY 41.359
+       _layer 27
+       coords 23.645 0.248 29.019
+       angleY -228.903
       }
       {
-       coords 12.54 0.239 -10.27
-       angleY 41.359
+       _layer 27
+       coords 4.393 0.057 -2.086
+       angleY 42.876
       }
       {
-       coords 23.763 0.48 -20.201
-       angleY -48.389
+       _layer 27
+       coords 13.155 0.247 -10.222
+       angleY 42.876
       }
       {
-       coords 39.645 0.463 -2.319
-       angleY -48.389
+       _layer 27
+       coords 17.536 0.343 -14.29
+       angleY 42.876
       }
       {
-       coords 43.616 0.458 2.151
-       angleY -48.389
+       _layer 27
+       coords 28.034 0.481 -15.934
+       angleY -49.013
+      }
+      {
+       _layer 27
+       coords 35.877 0.47 -6.907
+       angleY -49.013
+      }
+      {
+       _layer 27
+       coords 39.799 0.465 -2.394
+       angleY -49.013
       }
      }
      SCR_DestructibleEntity : "{D7D4B9C12ADA4FA0}PrefabLibrary/Walls/Metal/TinWall_01_6m_Pole.et" {
-      coords 49.571 0.452 8.856
-      angleY -48.389
+      _layer 27
+      coords 49.603 0.452 8.89
+      angleY -49.013
      }
     }
    }
@@ -610,10 +662,10 @@ $grp PolylineShapeEntity {
   coords 7574.315 4.312 6729.451
   Points {
    ShapePoint "{611095E8EA385764}" {
-    Position -11.925 -0.187 -13.213
+    Position -0.228 -0.124 -0.769
    }
    ShapePoint "{611095E8EA38616C}" {
-    Position -20.083 -0.312 -21.892
+    Position -18.803 -0.281 -20.567
    }
    ShapePoint "{611095E8EF767DA9}" {
     Position -43.305 0.094 0.549
@@ -622,7 +674,7 @@ $grp PolylineShapeEntity {
     Position -24.089 0.041 21.694
    }
    ShapePoint "{611095E8CDD33BA6}" {
-    Position -12.776 0 11.629
+    Position -7.472 -0.124 6.91
    }
   }
   LineColor 0 0 0 0
@@ -633,226 +685,278 @@ $grp PolylineShapeEntity {
     {
      $grp SCR_DestructibleEntity : "{8055E769FC548190}PrefabLibrary/Walls/Net/NetFence_01_Pole.et" {
       {
-       coords -14.569 -0.631 -16.026
-       angleY 133.229
+       coords -2.87 -0.55 -3.584
+       angleY 133.174
       }
       {
-       coords -17.282 -0.672 -18.912
-       angleY 133.229
+       coords -5.58 -0.573 -6.473
+       angleY 133.174
       }
       {
-       coords -19.995 -0.714 -21.797
-       angleY 133.229
+       coords -8.29 -0.595 -9.362
+       angleY 133.174
       }
       {
-       coords -22.842 -0.666 -19.19
-       angleY -136.032
+       coords -11.017 -0.618 -12.269
+       angleY 133.174
       }
       {
-       coords -25.692 -0.616 -16.44
-       angleY -136.032
+       coords -13.727 -0.641 -15.157
+       angleY 133.174
       }
       {
-       coords -28.543 -0.567 -13.691
-       angleY -136.032
+       coords -16.437 -0.664 -18.045
+       angleY 133.174
       }
       {
-       coords -31.393 -0.517 -10.941
-       angleY -136.032
+       coords -19.147 -0.687 -20.934
+       angleY 133.174
       }
       {
-       coords -34.244 -0.467 -8.192
-       angleY -136.032
+       coords -22.092 -0.642 -18.433
+       angleY -138.177
       }
       {
-       coords -37.094 -0.417 -5.442
-       angleY -136.032
+       coords -25.044 -0.596 -15.792
+       angleY -138.177
       }
       {
-       coords -39.944 -0.368 -2.692
-       angleY -136.032
+       coords -27.995 -0.549 -13.15
+       angleY -138.177
       }
       {
-       coords -42.795 -0.318 0.057
-       angleY -136.032
+       coords -30.947 -0.503 -10.509
+       angleY -138.177
       }
       {
-       coords -44.235 -0.293 1.446
-       angleY -136.032
+       coords -33.898 -0.457 -7.868
+       angleY -138.177
       }
       {
-       coords -41.574 -0.301 4.243
-       angleY -44.945
+       coords -36.85 -0.41 -5.228
+       angleY -138.177
       }
       {
-       coords -38.771 -0.311 7.041
-       angleY -44.945
+       coords -39.801 -0.364 -2.586
+       angleY -138.177
       }
       {
-       coords -35.949 -0.321 9.856
-       angleY -44.945
+       coords -42.752 -0.318 0.055
+       angleY -138.177
       }
       {
-       coords -33.146 -0.33 12.654
-       angleY -44.945
+       coords -44.243 -0.294 1.389
+       angleY -138.177
       }
       {
-       coords -30.343 -0.34 15.453
-       angleY -44.945
+       coords -41.588 -0.302 4.186
+       angleY -45.014
       }
       {
-       coords -27.539 -0.35 18.25
-       angleY -44.945
+       coords -38.788 -0.312 6.987
+       angleY -45.014
       }
       {
-       coords -24.736 -0.36 21.048
-       angleY -44.945
+       coords -35.988 -0.321 9.789
+       angleY -45.014
       }
       {
-       coords -23.32 -0.365 22.461
-       angleY -44.945
+       coords -33.188 -0.331 12.59
+       angleY -45.014
       }
       {
-       coords -20.575 -0.375 19.748
-       angleY 46.153
+       coords -30.388 -0.341 15.392
+       angleY -45.014
       }
       {
-       coords -17.813 -0.385 16.873
-       angleY 46.153
+       coords -27.588 -0.35 18.193
+       angleY -45.014
       }
       {
-       coords -15.07 -0.395 14.017
-       angleY 46.153
+       coords -24.788 -0.36 20.995
+       angleY -45.014
       }
       {
-       coords -12.326 -0.405 11.16
-       angleY 46.153
+       coords -23.374 -0.364 22.409
+       angleY -45.014
+      }
+      {
+       coords -20.551 -0.393 19.773
+       angleY 44.522
+      }
+      {
+       coords -17.727 -0.422 16.996
+       angleY 44.522
+      }
+      {
+       coords -14.903 -0.451 14.218
+       angleY 44.522
+      }
+      {
+       coords -12.079 -0.48 11.441
+       angleY 44.522
+      }
+      {
+       coords -9.255 -0.509 8.664
+       angleY 44.522
+      }
+      {
+       coords -7.829 -0.524 7.262
+       angleY 44.522
       }
      }
      $grp SCR_DestructibleEntity : "{BF6DA4D2C6133846}PrefabLibrary/Walls/Wooden/WoodenFence_03_4m.et" {
       {
-       _layer 10
-       coords -11.892 -0.251 -13.178
-       angleY -226.771
+       _layer 27
+       coords -0.195 -0.189 -0.734
+       angleY -226.826
       }
       {
-       _layer 10
-       coords -14.605 -0.293 -16.064
-       angleY -226.771
+       _layer 27
+       coords -2.905 -0.212 -3.623
+       angleY -226.826
       }
       {
-       _layer 10
-       coords -17.317 -0.335 -18.95
-       angleY -226.771
+       _layer 27
+       coords -5.615 -0.235 -6.511
+       angleY -226.826
       }
       {
-       _layer 10
-       coords -20.028 -0.377 -21.904
-       angleY -136.032
+       _layer 27
+       coords -11.052 -0.281 -12.306
+       angleY -226.826
       }
       {
-       _layer 10
-       coords -22.879 -0.328 -19.154
-       angleY -136.032
+       _layer 27
+       coords -13.763 -0.303 -15.195
+       angleY -226.826
       }
       {
-       _layer 10
-       coords -25.73 -0.278 -16.404
-       angleY -136.032
+       _layer 27
+       coords -16.473 -0.326 -18.083
+       angleY -226.826
       }
       {
-       _layer 10
-       coords -28.58 -0.228 -13.655
-       angleY -136.032
+       _layer 27
+       coords -19.18 -0.35 -21.039
+       angleY -138.177
       }
       {
-       _layer 10
-       coords -31.431 -0.178 -10.905
-       angleY -136.032
+       _layer 27
+       coords -22.131 -0.303 -18.398
+       angleY -138.177
       }
       {
-       _layer 10
-       coords -34.281 -0.129 -8.156
-       angleY -136.032
+       _layer 27
+       coords -25.083 -0.257 -15.757
+       angleY -138.177
       }
       {
-       _layer 10
-       coords -37.131 -0.079 -5.406
-       angleY -136.032
+       _layer 27
+       coords -28.034 -0.211 -13.116
+       angleY -138.177
       }
       {
-       _layer 10
-       coords -39.982 -0.029 -2.656
-       angleY -136.032
+       _layer 27
+       coords -30.985 -0.164 -10.475
+       angleY -138.177
       }
       {
-       _layer 10
-       coords -44.341 0.047 1.481
-       angleY -44.945
+       _layer 27
+       coords -33.937 -0.118 -7.834
+       angleY -138.177
       }
       {
-       _layer 10
-       coords -41.537 0.037 4.279
-       angleY -44.945
+       _layer 27
+       coords -36.888 -0.072 -5.193
+       angleY -138.177
       }
       {
-       _layer 10
-       coords -35.913 0.017 9.893
-       angleY -44.945
+       _layer 27
+       coords -39.84 -0.025 -2.552
+       angleY -138.177
       }
       {
-       _layer 10
-       coords -33.109 0.007 12.691
-       angleY -44.945
+       _layer 27
+       coords -44.352 0.045 1.421
+       angleY -45.014
       }
       {
-       _layer 10
-       coords -30.306 -0.002 15.489
-       angleY -44.945
+       _layer 27
+       coords -41.552 0.035 4.223
+       angleY -45.014
       }
       {
-       _layer 10
-       coords -27.502 -0.012 18.287
-       angleY -44.945
+       _layer 27
+       coords -38.751 0.026 7.024
+       angleY -45.014
       }
       {
-       _layer 10
-       coords -23.282 -0.027 22.567
-       angleY 46.153
+       _layer 27
+       coords -35.951 0.016 9.825
+       angleY -45.014
       }
       {
-       _layer 10
-       coords -17.777 -0.047 16.836
-       angleY 46.153
+       _layer 27
+       coords -33.151 0.007 12.627
+       angleY -45.014
       }
       {
-       _layer 10
-       coords -15.034 -0.057 13.979
-       angleY 46.153
+       _layer 27
+       coords -30.351 -0.003 15.428
+       angleY -45.014
+      }
+      {
+       _layer 27
+       coords -27.551 -0.012 18.23
+       angleY -45.014
+      }
+      {
+       _layer 27
+       coords -23.338 -0.026 22.514
+       angleY 44.522
+      }
+      {
+       _layer 27
+       coords -20.514 -0.055 19.736
+       angleY 44.522
+      }
+      {
+       _layer 27
+       coords -17.69 -0.084 16.959
+       angleY 44.522
+      }
+      {
+       _layer 27
+       coords -14.866 -0.113 14.182
+       angleY 44.522
+      }
+      {
+       _layer 27
+       coords -12.042 -0.142 11.405
+       angleY 44.522
       }
      }
-     $grp SCR_DestructibleEntity : "{C084F3CC25780DF6}PrefabLibrary/Walls/Wooden/WoodenFence_03_4m_D.et" {
-      {
-       _layer 10
-       coords -38.734 0.027 7.077
-       angleY -44.945
-      }
-      {
-       _layer 10
-       coords -20.539 -0.037 19.71
-       angleY 46.153
-      }
+     SCR_DestructibleEntity : "{C084F3CC25780DF6}PrefabLibrary/Walls/Wooden/WoodenFence_03_4m_D.et" {
+      _layer 27
+      coords -8.325 -0.258 -9.399
+      angleY -226.826
      }
      $grp SCR_DestructibleEntity : "{CFA0360B54376DF5}PrefabLibrary/Walls/Wooden/WoodenFence_03_2m.et" {
       {
-       _layer 10
-       coords -42.832 0.021 0.093
-       angleY -136.032
+       _layer 27
+       coords -42.791 0.021 0.089
+       angleY -138.177
       }
       {
-       _layer 10
-       coords -24.699 -0.022 21.085
-       angleY -44.945
+       _layer 27
+       coords -24.751 -0.022 21.031
+       angleY -45.014
+      }
+      {
+       _layer 27
+       coords -9.218 -0.172 8.628
+       angleY 44.522
       }
      }
     }
@@ -862,7 +966,7 @@ $grp PolylineShapeEntity {
 }
 $grp GenericEntity : "{72E42BEAFED9B5A7}Prefabs/Props/Garbage/Bins/GarbageContainer_01.et" {
  {
-  coords 7563.393 4.406 6687.173
+  coords 7565.264 4.406 6685.589
   angleY -138.146
   {
    GenericEntity {
@@ -873,7 +977,7 @@ $grp GenericEntity : "{72E42BEAFED9B5A7}Prefabs/Props/Garbage/Bins/GarbageContai
   }
  }
  {
-  coords 7564.627 4.406 6685.962
+  coords 7566.498 4.406 6684.377
   angleY -140.398
   {
    GenericEntity {
@@ -885,5 +989,5 @@ $grp GenericEntity : "{72E42BEAFED9B5A7}Prefabs/Props/Garbage/Bins/GarbageContai
  }
 }
 GenericEntity : "{E7117284012B39A4}Prefabs/Props/Garbage/Bins/TrashBin_02_patched.et" {
- coords 7565.747 4.406 6685.3
+ coords 7567.618 4.406 6683.716
 }
