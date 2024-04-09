@@ -15,11 +15,6 @@ $grp SCR_DestructibleBuildingEntity : "{506702C2AE56D8B6}PrefabLibrary/Infrastru
 }
 $grp SCR_DestructibleBuildingEntity : "{F09400CC1A27BE39}PrefabLibrary/Infrastructure/Naval/PierConcrete_01_20m.et" {
  {
-  coords 7346.27 -4.301 7112.921
-  angleY 81.701
-  scale 2
- }
- {
   coords 7337.788 -4.301 7171.16
   angleY 81.701
   scale 2
