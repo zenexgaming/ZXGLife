@@ -1,53 +1,152 @@
-SplineShapeEntity {
- coords 7536.696 4.292 6767.013
+PolylineShapeEntity {
+ coords 7513.955 3.824 6742.966
  Points {
-  ShapePoint "{611095E68B5175DC}" {
-   Position 0 0 0
+  ShapePoint "{6114A62F44007FA4}" {
+   Position -0.278 -0.107 -3.124
   }
-  ShapePoint "{611095E68B508658}" {
-   Position -8.554 0.114 -0.825
+  ShapePoint "{6114A62F44006C06}" {
+   Position 24.817 0.463 24.604
   }
-  ShapePoint "{611095E68014CF3C}" {
-   Position -24.71 0.114 3.484
+  ShapePoint "{6114A62F3856759D}" {
+   Position 22.261 0.43 27.374
   }
-  ShapePoint "{611095E681D70411}" {
-   Position -29.171 0.114 8.166
+  ShapePoint "{6114A62F3AE4F034}" {
+   Position -11.56 -0.07 60.503
   }
-  ShapePoint "{611095E687B8AA64}" {
-   Position -36.778 0.145 27.573
+  ShapePoint "{6114A62F3A1C2C21}" {
+   Position -16.179 -0.246 57.738
   }
-  ShapePoint "{611095E687DBC3C9}" {
-   Position -36.844 -0.138 37.036
+  ShapePoint "{6114A62F3DB37A70}" {
+   Position -39.787 -1.01 35.415
   }
  }
+ LineColor 0 0 0 0
  {
-  RoadGeneratorEntity : "{F49A6A9439B063BB}Prefabs/WEGenerators/Roads/Dirt/RG_TrailGravel_01.et" {
+  WallGeneratorEntity : "{20C867FF2CC43B0D}Prefabs/WEGenerators/Pavements/Asphalt/WG_Asphalt_Pavement_01_Narrow.et" {
    coords 0 0 0
+   Flags 1048579
    {
-    RoadEntity {
-     ID "5262CB47BB2B3833"
-     SplinePoints {
-      ShapePoint "{5256DA7852E4536F}" {
-       Position 0 0 0
-      }
-      ShapePoint "{5256DA7852E450A5}" {
-       Position -8.554 0.114 -0.825
-      }
-      ShapePoint "{611095E64ECF2165}" {
-       Position -24.71 0.114 3.484
-      }
-      ShapePoint "{611095E64ECF21FE}" {
-       Position -29.171 0.114 8.166
-      }
-      ShapePoint "{611095E64ECF205C}" {
-       Position -36.778 0.145 27.573
-      }
-      ShapePoint "{611095E64ECF203A}" {
-       Position -36.844 -0.138 37.036
-      }
+    $grp StaticModelEntity : "{1B2F4654BAEFFB71}PrefabLibrary/Infrastructure/Pavements/Asphalt/AsphaltPavement_01_Narrow_4m_A.et" {
+     {
+      coords -0.419 -0.111 -3.278
+      angleY -47.853
      }
-     IsClosedSpline 0
-     Width 1.75
+     {
+      coords 2.237 -0.05 -0.345
+      angleY -47.853
+     }
+     {
+      coords 4.892 0.01 2.589
+      angleY -47.853
+     }
+     {
+      coords 7.547 0.07 5.522
+      angleY -47.853
+     }
+     {
+      coords 10.202 0.131 8.456
+      angleY -47.853
+     }
+     {
+      coords 12.857 0.191 11.389
+      angleY -47.853
+     }
+     {
+      coords 15.512 0.251 14.323
+      angleY -47.853
+     }
+     {
+      coords 18.167 0.312 17.256
+      angleY -47.853
+     }
+     {
+      coords 20.822 0.372 20.19
+      angleY -47.853
+     }
+     {
+      coords 23.683 0.436 23.08
+      angleY -108.321
+     }
+     {
+      coords 22.522 0.432 26.888
+      angleY -135.395
+     }
+     {
+      coords 19.705 0.391 29.667
+      angleY -135.395
+     }
+     {
+      coords 16.888 0.349 32.445
+      angleY -135.395
+     }
+     {
+      coords 14.071 0.308 35.224
+      angleY -135.395
+     }
+     {
+      coords 11.253 0.266 38.003
+      angleY -135.395
+     }
+     {
+      coords 8.436 0.225 40.781
+      angleY -135.395
+     }
+     {
+      coords 5.619 0.183 43.56
+      angleY -135.395
+     }
+     {
+      coords 2.802 0.142 46.338
+      angleY -135.395
+     }
+     {
+      coords -0.015 0.1 49.117
+      angleY -135.395
+     }
+     {
+      coords -2.833 0.059 51.895
+      angleY -135.395
+     }
+     {
+      coords -5.65 0.017 54.674
+      angleY -135.395
+     }
+     {
+      coords -8.407 -0.02 57.596
+      angleY -178.948
+     }
+     {
+      coords -12.409 -0.136 57.804
+      angleY -219.275
+     }
+     {
+      coords -15.471 -0.234 55.3
+      angleY -219.275
+     }
+     {
+      coords -18.533 -0.332 52.796
+      angleY -219.275
+     }
+     {
+      coords -21.596 -0.429 50.291
+      angleY -219.275
+     }
+     {
+      coords -24.658 -0.527 47.787
+      angleY -219.275
+     }
+     {
+      coords -27.72 -0.625 45.283
+      angleY -219.275
+     }
+     {
+      coords -30.783 -0.723 42.779
+      angleY -219.275
+     }
+     {
+      coords -33.845 -0.821 40.274
+      angleY -219.275
+     }
     }
    }
   }
