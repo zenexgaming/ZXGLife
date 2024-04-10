@@ -575,4 +575,73 @@ $grp SplineShapeEntity {
    }
   }
  }
+ {
+  coords 7102.487 10.341 7409.857
+  Points {
+   ShapePoint "{61142291DF6DFBAD}" {
+    Position 0 -0.014 -0.076
+   }
+   ShapePoint "{61142291DF6DE6FD}" {
+    Position 6.776 -0.554 4.191
+   }
+   ShapePoint "{61142291D2380D14}" {
+    Position 21.797 -5.121 7.976
+   }
+   ShapePoint "{61142291D2407854}" {
+    Position 32.628 -6.56 1.94
+   }
+   ShapePoint "{61142291D62C0FD5}" {
+    Position 47.733 -6.56 -17.935
+   }
+   ShapePoint "{61142291D665E2D8}" {
+    Position 70.871 -6.684 -40.718
+   }
+   ShapePoint "{61142291C81C4ECF}" {
+    Position 98.898 -4.149 -138.91
+   }
+  }
+  {
+   RoadGeneratorEntity : "{8E689EDC77E2A3DC}Prefabs/WEGenerators/Roads/Asphalt/RG_Road_Asphalt_E_01_Narrow.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "556C6554AF23997E"
+      SplinePoints {
+       ShapePoint "{556C6554868CB1B0}" {
+        Position 0 -0.014 -0.076
+       }
+       ShapePoint "{556C6554868CB0CE}" {
+        Position 6.776 -0.554 4.191
+       }
+       ShapePoint "{61142291CBF89C34}" {
+        Position 21.797 -5.121 7.976
+       }
+       ShapePoint "{61142291CBF89C82}" {
+        Position 32.628 -6.56 1.94
+       }
+       ShapePoint "{61142291CBF96377}" {
+        Position 47.733 -6.56 -17.935
+       }
+       ShapePoint "{61142291CBF963DC}" {
+        Position 70.871 -6.684 -40.718
+       }
+       ShapePoint "{61142291CBF9638F}" {
+        Position 98.898 -4.149 -138.91
+       }
+      }
+      IsClosedSpline 0
+      Width 8
+     }
+    }
+   }
+  }
+ }
+}
+SCR_DestructibleBuildingEntity : "{73AEA0148D58F723}Prefabs/Structures/Infrastructure/Naval/Sheds/FishermanShed_02_V1.et" {
+ coords 7121.759 0 7405.723
+ angleY 74.089
+}
+SCR_DestructibleBuildingEntity : "{CEC3DC0C3A8B7691}Prefabs/Structures/Infrastructure/Naval/Sheds/BoatShed_01_land.et" {
+ coords 7136.027 -0.538 7384.775
+ angleY 71.045
 }
