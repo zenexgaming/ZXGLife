@@ -1,0 +1,22 @@
+$grp SCR_DestructibleBuildingEntity : "{2D0A93C80A6A5C5D}Prefabs/Structures/Infrastructure/Naval/Piers/PierWooden_02/PierWooden_02_bridge.et" {
+ {
+  coords 7606.58 5.564 6902.752
+  angleY 49.424
+ }
+ {
+  coords 7682.626 4.378 6967.851
+  angleY 49.424
+ }
+ {
+  coords 7568.549 5.564 6870.187
+  angleY 49.424
+ }
+ {
+  coords 7644.552 5.569 6935.236
+  angleY 49.424
+ }
+ {
+  coords 7530.51 4.82 6837.61
+  angleY 49.424
+ }
+}

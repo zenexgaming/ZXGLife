@@ -3,6 +3,24 @@ SCR_DestructibleBuildingEntity : "{30FA25F9465270A2}PrefabLibrary/Infrastructure
  angleY -98.389
  scale 2
 }
+$grp SCR_DestructibleBuildingEntity : "{401E516FD6CA886B}Prefabs/Structures/Infrastructure/Naval/Piers/PierWooden_02/PierWooden_02_pier.et" {
+ {
+  coords 7333.965 6.102 7254.441
+  angleY 63.905
+ }
+ {
+  coords 7350.875 10.448 7219.917
+  angleY 63.905
+ }
+ {
+  coords 7322.558 7.813 7248.832
+  angleY 63.905
+ }
+ {
+  coords 7339.458 10.492 7214.327
+  angleY 63.905
+ }
+}
 $grp SCR_DestructibleBuildingEntity : "{506702C2AE56D8B6}PrefabLibrary/Infrastructure/Naval/PierWooden_01_25m/PierWooden_01_25m.et" {
  {
   coords 7251.363 0.78 7329.638
@@ -12,6 +30,14 @@ $grp SCR_DestructibleBuildingEntity : "{506702C2AE56D8B6}PrefabLibrary/Infrastru
   coords 7261.343 0.805 7350.822
   angleY 24.987
  }
+}
+SCR_DestructibleBuildingEntity : "{88024E0E7D9FF438}Prefabs/Structures/Infrastructure/Naval/Piers/PierConcrete_01_wall_5m.et" {
+ coords 7182.386 -0.566 7399.445
+ angleY -91.161
+}
+SCR_DestructibleBuildingEntity : "{D988B6959B31AC3E}Prefabs/Structures/Infrastructure/Naval/Piers/PierConcrete_01_wall_20m.et" {
+ coords 7179.113 -2.439 7411.735
+ angleY 74.702
 }
 $grp SCR_DestructibleBuildingEntity : "{F09400CC1A27BE39}PrefabLibrary/Infrastructure/Naval/PierConcrete_01_20m.et" {
  {

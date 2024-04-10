@@ -2,8 +2,13 @@ SCR_DestructibleBuildingEntity : "{3961F81016AAE7CD}Prefabs/Structures/Infrastru
  coords 7129.192 0 7395.892
  angleY 67.614
 }
-GenericEntity : "{5BA952DAADCB9C5B}Prefabs/Structures/Infrastructure/Naval/Piers/Pier_Tires_01.et" {
- coords 7147.619 3.719 7410.591
+SCR_DestructibleBuildingEntity : "{73AEA0148D58F723}Prefabs/Structures/Infrastructure/Naval/Sheds/FishermanShed_02_V1.et" {
+ coords 7121.759 0 7405.723
+ angleY 74.089
+}
+SCR_DestructibleBuildingEntity : "{CEC3DC0C3A8B7691}Prefabs/Structures/Infrastructure/Naval/Sheds/BoatShed_01_land.et" {
+ coords 7136.027 -0.538 7384.775
+ angleY 71.045
 }
 $grp SCR_DestructibleBuildingEntity : "{DB3F36604A282237}Prefabs/Structures/Infrastructure/Naval/Piers/PierConcrete_01_20m.et" {
  {
