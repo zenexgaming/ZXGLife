@@ -431,7 +431,10 @@ $grp SplineShapeEntity {
   coords 7518.333 5.151 6817.437
   Points {
    ShapePoint "{61107AD2B75DA43A}" {
-    Position -15.436 -0.82 -5.119
+    Position -13.489 -0.827 -7.564
+   }
+   ShapePoint "{6114716793DF9F1F}" {
+    Position -32.901 -2.064 -23.938
    }
    ShapePoint "{61107AD5E30B3549}" {
     Position -118.75 -2.776 -95.597
@@ -448,12 +451,15 @@ $grp SplineShapeEntity {
       ID "556C6554AF23997E"
       SplinePoints {
        ShapePoint "{556C6554868CB1B0}" {
-        Position -15.436 -0.82 -5.119
+        Position -13.489 -0.827 -7.564
        }
        ShapePoint "{556C6554868CB0CE}" {
-        Position -118.75 -2.776 -95.597
+        Position -32.901 -2.064 -23.938
        }
        ShapePoint "{61107AD5E543CC51}" {
+        Position -118.75 -2.776 -95.597
+       }
+       ShapePoint "{6114716793DC4E3E}" {
         Position -184.714 3.919 -165.95
        }
       }
@@ -468,7 +474,7 @@ $grp SplineShapeEntity {
   coords 7475.646 4.043 6787.483
   Points {
    ShapePoint "{61107AD5D07CE7FB}" {
-    Position 3.839 0.01 -3.184
+    Position 3.839 -0.855 -3.184
    }
    ShapePoint "{61107AD5D07C188D}" {
     Position -76.961 -0.097 84.408
@@ -482,7 +488,7 @@ $grp SplineShapeEntity {
       ID "556C6554AF23997E"
       SplinePoints {
        ShapePoint "{556C6554868CB1B0}" {
-        Position 3.839 0.01 -3.184
+        Position 3.839 -0.855 -3.184
        }
        ShapePoint "{556C6554868CB0CE}" {
         Position -76.961 -0.097 84.408
@@ -530,7 +536,7 @@ $grp SplineShapeEntity {
   coords 7472.423 3.457 6779.184
   Points {
    ShapePoint "{61120BE5A380A23F}" {
-    Position -11.962 -0.405 -10.795
+    Position -13.36 -0.425 -4.212
    }
    ShapePoint "{61120BE5A380D15F}" {
     Position 37.78 0.074 -54.174
@@ -544,7 +550,7 @@ $grp SplineShapeEntity {
       ID "556C6554AF23997E"
       SplinePoints {
        ShapePoint "{556C6554868CB1B0}" {
-        Position -11.962 -0.405 -10.795
+        Position -13.36 -0.425 -4.212
        }
        ShapePoint "{556C6554868CB0CE}" {
         Position 37.78 0.074 -54.174

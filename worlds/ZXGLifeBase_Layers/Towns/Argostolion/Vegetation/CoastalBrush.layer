@@ -529,7 +529,7 @@ $grp Tree : "{68C5231808D63103}PrefabLibrary/Vegetation/Trees/t_betula_pendula_2
   scale 0.933
  }
  {
-  coords 7513.613 0 6814.814
+  coords 7516.408 0.058 6813.246
   angleX 1.659
   angleY 299.299
   angleZ 2.191
@@ -788,7 +788,7 @@ $grp Tree : "{B1062DFA6850D829}PrefabLibrary/Vegetation/Bushes/b_juniperus_commu
   scale 0.995
  }
  {
-  coords 7505.301 0 6822.585
+  coords 7501.242 -0.227 6823.854
   angleX 2.828
   angleY 17.357
   angleZ -0.054

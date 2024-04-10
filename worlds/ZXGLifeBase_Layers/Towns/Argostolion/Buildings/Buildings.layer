@@ -18,15 +18,6 @@ SCR_DestructibleBuildingEntity : "{2F830B9B3A7D4855}Prefabs/Structures/Commercia
  coords 7458.912 0.42 6831.375
  angleY 45.011
 }
-$grp SCR_DestructibleBuildingEntity : "{3D9B780ABF8DEE7C}Prefabs/Props/Recreation/Beach/Caravan_03/Caravan_03.et" {
- {
-  coords 7611.687 0 6641.597
- }
- {
-  coords 7593.279 0 6653.656
-  angleY 20.556
- }
-}
 SCR_DestructibleBuildingEntity : "{578B698AE1F03DE9}Prefabs/Structures/Houses/Village/House_Village_E_1I04/House_Village_E_1I04_base.et" {
  coords 7435.352 0 6726.574
  angleY 40.703
@@ -40,6 +31,16 @@ GenericEntity : "{66F9B70496CD89C2}PrefabLibrary/Infrastructure/Sings/SignNoPark
  angleX 0.869
  angleY 40.017
  angleZ 0.578
+}
+$grp GenericEntity : "{777E723C6902DB47}Prefabs/Structures/Civilian/SportGrounds/GoalPost_01.et" {
+ {
+  coords 7616.673 4.406 6636.272
+  angleY -47.395
+ }
+ {
+  coords 7593.212 4.406 6657.965
+  angleY 132.534
+ }
 }
 $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
  {
@@ -67,10 +68,6 @@ SCR_DestructibleBuildingEntity : "{965AFAD159CB0C8A}Prefabs/Structures/Commercia
  coords 7551.924 0.632 6731.135
  angleY -44.999
 }
-GenericEntity : "{9E026C6D62171AF3}Prefabs/Props/Recreation/Camp/TentBig_01/TentBig_01_blue.et" {
- coords 7601.017 4.406 6664.83
- angleY 165.791
-}
 $grp SCR_DestructibleBuildingEntity : "{A4D0B331414901A5}Prefabs/Structures/Commercial/FuelStations/FuelStation_E_01/FuelStation_E_01_tankpistol.et" {
  {
   coords 7412.066 0.055 6895.977
@@ -90,10 +87,6 @@ $grp SCR_DestructibleBuildingEntity : "{A4D0B331414901A5}Prefabs/Structures/Comm
 SCR_DestructibleBuildingEntity : "{AD57E850A575A54F}Prefabs/Structures/Houses/Village/House_Village_E_1I06/House_Village_E_1I06.et" {
  coords 7462.438 1.355 6702.422
  angleY 38.162
-}
-GenericEntity : "{CC98E67AC15E257D}Prefabs/Props/Recreation/Camp/TentBig_01/TentBig_01_orange.et" {
- coords 7604.496 4.406 6641.655
- angleY 38.455
 }
 SCR_DestructibleBuildingEntity : "{CD370ECB385DE67A}Prefabs/Structures/Houses/Farm/FarmHouse_E_1L01/FarmHouse_E_1L01.et" {
  coords 7653.802 0.158 6407.772

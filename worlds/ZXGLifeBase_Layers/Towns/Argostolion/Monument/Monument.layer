@@ -1,0 +1,149 @@
+SCR_DestructibleEntity : "{0EA052417A880006}PrefabLibrary/Props/Decoration/FlowerpotStreet_01_octa_Tagetes/FlowerpotStreet_01_octa_Tagetes_yellow.et" {
+ coords 7254.323 3.625 7341.633
+ angleY 41.212
+}
+GenericEntity : "{22918CB2DA6F935B}PrefabLibrary/Infrastructure/Stairs/ConcreteStairs_02_Wide.et" {
+ coords 7255.591 8.949 7334.018
+ angleY 129.228
+ scale 2.5
+}
+$grp GenericEntity : "{32300543F3DBA4C9}PrefabLibrary/Infrastructure/Stairs/ConcreteStairs_02_SideSquareWide.et" {
+ {
+  coords 7248.873 3.849 7349.993
+  angleY -88.678
+  angleZ -18.066
+  scale 2
+ }
+ {
+  coords 7256.34 3.842 7349.817
+  angleY -88.678
+  angleZ -18.066
+  scale 2
+ }
+ {
+  coords 7241.354 3.862 7350.19
+  angleY -88.678
+  angleZ -18.066
+  scale 2
+ }
+ {
+  coords 7233.813 3.831 7350.374
+  angleY -88.678
+  angleZ -18.066
+  scale 2
+ }
+ {
+  coords 7226.299 3.855 7350.567
+  angleY -88.678
+  angleZ -18.066
+  scale 2
+ }
+ {
+  coords 7218.82 3.816 7350.73
+  angleY -88.678
+  angleZ -18.066
+  scale 2
+ }
+ {
+  coords 7211.321 3.899 7350.885
+  angleY -88.678
+  angleZ -18.066
+  scale 2
+ }
+ {
+  coords 7203.73 3.958 7351.087
+  angleY -88.678
+  angleZ -18.066
+  scale 2
+ }
+ {
+  coords 7272.363 3.873 7317.287
+  angleX 0.194
+  angleY -0.841
+  angleZ -18.873
+  scale 2
+ }
+ {
+  coords 7272.568 3.86 7302.223
+  angleX 0.194
+  angleY -0.841
+  angleZ -18.873
+  scale 2
+ }
+ {
+  coords 7272.447 3.86 7309.743
+  angleX 0.194
+  angleY -0.841
+  angleZ -18.873
+  scale 2
+ }
+ {
+  coords 7272.268 3.923 7324.8
+  angleX 0.194
+  angleY -0.841
+  angleZ -18.873
+  scale 2
+ }
+ {
+  coords 7272.153 3.91 7332.28
+  angleX 0.194
+  angleY -0.841
+  angleZ -18.873
+  scale 2
+ }
+ {
+  coords 7269.2 3.891 7340.973
+  angleX -0.957
+  angleY -45.411
+  angleZ -16.28
+  scale 2
+ }
+ {
+  coords 7263.852 3.752 7346.181
+  angleX -0.957
+  angleY -45.411
+  angleZ -16.28
+  scale 2
+ }
+}
+StaticModelEntity : "{3AF5AB0B270607FE}PrefabLibrary/Structures/Cultural/StatueStPeter_01_pedestal.et" {
+ coords 7251.991 5.324 7336.965
+ angleY 129.228
+ scale 2
+}
+SCR_DestructibleEntity : "{41DBB422CDB858C1}PrefabLibrary/Props/Civilian/TrashBin_01.et" {
+ coords 7257.918 3.625 7338.654
+ angleY 41.604
+}
+$grp GenericEntity : "{4D797B18EB473B0B}PrefabLibrary/Props/Military/FlagPole_01_empty.et" {
+ {
+  coords 7249.029 9.119 7339.321
+ }
+ {
+  coords 7247.746 8.949 7336.247
+ }
+ {
+  coords 7251.934 8.949 7341.763
+ }
+}
+$grp SCR_DestructibleEntity : "{C7BA8907568AA96F}PrefabLibrary/Props/Civilian/BenchStreet_02.et" {
+ {
+  coords 7259.604 3.625 7337.627
+  angleY 38.632
+ }
+ {
+  coords 7256.555 3.625 7340.113
+  angleY 38.632
+ }
+}
+GenericEntity : "{E30CE01FF01AE490}PrefabLibrary/Infrastructure/Stairs/ConcreteStairs_02_SideSquareNarrow.et" {
+ coords 7272.05 3.886 7337.084
+ angleX 0.54
+ angleY -11.841
+ angleZ -22.237
+ scale 2
+}
+SCR_DestructibleEntity : "{FA0F05C23C2E5111}PrefabLibrary/Props/Decoration/FlowerpotStreet_01_octa/FlowerpotStreet_01_octa_begonia_pink.et" {
+ coords 7261.396 3.625 7335.909
+ angleY 36.496
+}
