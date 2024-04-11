@@ -1,3 +1,21 @@
+$grp GenericEntity : "{0364A92598A826F3}Prefabs/Props/Furniture/BenchStadium_01.et" {
+ {
+  coords 7598.847 4.952 6630.646
+  angleY 40.638
+ }
+ {
+  coords 7595.744 4.952 6633.305
+  angleY 40.638
+ }
+ {
+  coords 7593.171 4.952 6636.758
+  angleY 40.638
+ }
+}
+SCR_DestructibleBuildingEntity : "{322D245123EEDC90}Prefabs/Structures/Houses/Village/House_Village_E_1I01/House_Village_E_1I01_V2.et" {
+ coords 7274.073 0.964 6812.575
+ angleY 154.084
+}
 GenericEntity : "{3C27BF2D94E61103}PrefabLibrary/Infrastructure/Lamps/LampStreet_E_02_doubleStraight/LampStreet_E_02_doubleStraight.et" {
  coords 7573.599 0 6729.949
 }
@@ -11,13 +29,37 @@ $grp SCR_DestructibleEntity : "{41DBB422CDB858C1}PrefabLibrary/Props/Civilian/Tr
   angleY -43.744
  }
 }
+$grp GenericEntity : "{72E42BEAFED9B5A7}Prefabs/Props/Garbage/Bins/GarbageContainer_01.et" {
+ {
+  coords 7565.264 4.406 6685.589
+  angleY -138.146
+  {
+   GenericEntity {
+    ID "5C64CC0693F240E3"
+    coords -0.019 0.82 0.1
+    angleX -17.607
+   }
+  }
+ }
+ {
+  coords 7566.498 4.406 6684.377
+  angleY -140.398
+  {
+   GenericEntity {
+    ID "5C64CC0693F240E3"
+    coords -0.018 0.82 0.097
+    angleX -37.329
+   }
+  }
+ }
+}
 SCR_DestructibleEntity : "{876DAC3BB3F5DA5C}PrefabLibrary/Props/Decoration/FlowerpotStreet_01_octa/FlowerpotStreet_01_octa_Empty.et" {
  coords 7527.287 4.419 6770.066
  angleY 49.124
  scale 1.25
 }
 GenericEntity : "{9096F3C3D040A2F3}PrefabLibrary/Infrastructure/Lamps/LampStreet_E_01_4m/LampStreet_E_01_4m.et" {
- coords 7593.583 -0 6728.812
+ coords 7593.583 0 6728.812
  angleX -1.811
  angleY 199.518
  angleZ 0.797
@@ -35,4 +77,7 @@ $grp GenericEntity : "{DB28F5B556BB4B02}PrefabLibrary/Props/Civilian/Garden/Benc
   coords 7594.851 4.202 6723.552
   angleY -45.365
  }
+}
+GenericEntity : "{E7117284012B39A4}Prefabs/Props/Garbage/Bins/TrashBin_02_patched.et" {
+ coords 7567.618 4.406 6683.716
 }

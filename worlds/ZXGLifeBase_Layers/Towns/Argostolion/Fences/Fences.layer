@@ -1512,49 +1512,644 @@ $grp PolylineShapeEntity {
    }
   }
  }
-}
-$grp GenericEntity : "{0364A92598A826F3}Prefabs/Props/Furniture/BenchStadium_01.et" {
  {
-  coords 7598.847 4.952 6630.646
-  angleY 40.638
- }
- {
-  coords 7595.744 4.952 6633.305
-  angleY 40.638
- }
- {
-  coords 7593.171 4.952 6636.758
-  angleY 40.638
- }
-}
-SCR_DestructibleBuildingEntity : "{322D245123EEDC90}Prefabs/Structures/Houses/Village/House_Village_E_1I01/House_Village_E_1I01_V2.et" {
- coords 7274.073 0.964 6812.575
- angleY 154.084
-}
-$grp GenericEntity : "{72E42BEAFED9B5A7}Prefabs/Props/Garbage/Bins/GarbageContainer_01.et" {
- {
-  coords 7565.264 4.406 6685.589
-  angleY -138.146
+  coords 7281.919 3.118 6774.54
+  Points {
+   ShapePoint "{611694054FCE61C9}" {
+    Position -0.072 0.004 -0.171
+   }
+   ShapePoint "{611694054FC8D28E}" {
+    Position -19.509 1.053 -9.033
+   }
+  }
+  LineColor 0 0 0 0
   {
-   GenericEntity {
-    ID "5C64CC0693F240E3"
-    coords -0.019 0.82 0.1
-    angleX -17.607
+   WallGeneratorEntity : "{3BBE8E0E68E0BE9C}Prefabs/WEGenerators/Walls/Metal/WG_TinWall_01.et" {
+    coords 0 0 0
+    Flags 1048579
+    {
+     SCR_DestructibleEntity : "{5326C298427D91A3}PrefabLibrary/Walls/Metal/TinWall_01_3m.et" {
+      coords -16.339 0.882 -7.588
+      angleY -204.509
+     }
+     $grp SCR_DestructibleEntity : "{C17780042E00F53D}PrefabLibrary/Walls/Metal/TinWall_01_6m_B.et" {
+      {
+       coords -0.037 0.002 -0.156
+       angleY -204.509
+      }
+      {
+       coords -5.471 0.295 -2.633
+       angleY -204.509
+      }
+      {
+       coords -10.905 0.589 -5.111
+       angleY -204.509
+      }
+     }
+     SCR_DestructibleEntity : "{D7D4B9C12ADA4FA0}PrefabLibrary/Walls/Metal/TinWall_01_6m_Pole.et" {
+      coords -19.055 1.028 -8.826
+      angleY -204.509
+     }
+    }
    }
   }
  }
  {
-  coords 7566.498 4.406 6684.377
-  angleY -140.398
+  coords 7291.653 3.026 6767.036
+  Points {
+   ShapePoint "{611694052F3D86D5}" {
+    Position -0.674 0.021 -0.019
+   }
+   ShapePoint "{611694052F3DB700}" {
+    Position -24.407 1.392 -8.784
+   }
+  }
+  LineColor 0 0 0 0
   {
-   GenericEntity {
-    ID "5C64CC0693F240E3"
-    coords -0.018 0.82 0.097
-    angleX -37.329
+   WallGeneratorEntity : "{3BBE8E0E68E0BE9C}Prefabs/WEGenerators/Walls/Metal/WG_TinWall_01.et" {
+    coords 0 0 0
+    Flags 1048579
+    {
+     $grp SCR_DestructibleEntity : "{24EBCCFD22E56256}PrefabLibrary/Walls/Metal/TinWall_01_6m_C.et" {
+      {
+       coords -6.239 0.343 -2.074
+       angleY -200.272
+      }
+      {
+       coords -11.84 0.666 -4.143
+       angleY -200.272
+      }
+      {
+       coords -17.441 0.99 -6.211
+       angleY -200.272
+      }
+     }
+     SCR_DestructibleEntity : "{C17780042E00F53D}PrefabLibrary/Walls/Metal/TinWall_01_6m_B.et" {
+      coords -0.639 0.019 -0.005
+      angleY -200.272
+     }
+     SCR_DestructibleEntity : "{D7D4B9C12ADA4FA0}PrefabLibrary/Walls/Metal/TinWall_01_6m_Pole.et" {
+      coords -23.039 1.313 -8.279
+      angleY -200.272
+     }
+    }
    }
   }
  }
-}
-GenericEntity : "{E7117284012B39A4}Prefabs/Props/Garbage/Bins/TrashBin_02_patched.et" {
- coords 7567.618 4.406 6683.716
+ {
+  coords 7300.783 2.875 6759.555
+  Points {
+   ShapePoint "{611694051668D7A2}" {
+    Position 0.175 -0 0.519
+   }
+   ShapePoint "{611694051668C32B}" {
+    Position -19.72 1.605 -18.083
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{3BBE8E0E68E0BE9C}Prefabs/WEGenerators/Walls/Metal/WG_TinWall_01.et" {
+    coords 0 0 0
+    Flags 1048579
+    {
+     SCR_DestructibleEntity : "{24EBCCFD22E56256}PrefabLibrary/Walls/Metal/TinWall_01_6m_C.et" {
+      coords -4.157 0.349 -3.532
+      angleY -223.077
+     }
+     SCR_DestructibleEntity : "{5326C298427D91A3}PrefabLibrary/Walls/Metal/TinWall_01_3m.et" {
+      coords -17.237 1.404 -15.762
+      angleY -223.077
+     }
+     SCR_DestructibleEntity : "{AD23B4E492C47A13}PrefabLibrary/Walls/Metal/TinWall_01_6m_A.et" {
+      coords -12.877 1.053 -11.685
+      angleY -223.077
+     }
+     $grp SCR_DestructibleEntity : "{C17780042E00F53D}PrefabLibrary/Walls/Metal/TinWall_01_6m_B.et" {
+      {
+       coords 0.203 -0.002 0.544
+       angleY -223.077
+      }
+      {
+       coords -8.517 0.701 -7.609
+       angleY -223.077
+      }
+     }
+     SCR_DestructibleEntity : "{D7D4B9C12ADA4FA0}PrefabLibrary/Walls/Metal/TinWall_01_6m_Pole.et" {
+      coords -19.416 1.58 -17.8
+      angleY -223.077
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 7310.752 2.875 6752.711
+  Points {
+   ShapePoint "{61169402E2B5DC62}" {
+    Position 0 0 0
+   }
+   ShapePoint "{61169402E2B5C835}" {
+    Position -16.95 1.402 -20.472
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{3BBE8E0E68E0BE9C}Prefabs/WEGenerators/Walls/Metal/WG_TinWall_01.et" {
+    coords 0 0 0
+    Flags 1048579
+    {
+     SCR_DestructibleEntity : "{5326C298427D91A3}PrefabLibrary/Walls/Metal/TinWall_01_3m.et" {
+      coords -15.207 1.258 -18.367
+      angleY -230.376
+     }
+     $grp SCR_DestructibleEntity : "{AD23B4E492C47A13}PrefabLibrary/Walls/Metal/TinWall_01_6m_A.et" {
+      {
+       coords -3.784 0.313 -4.57
+       angleY -230.376
+      }
+      {
+       coords -11.399 0.943 -13.768
+       angleY -230.376
+      }
+     }
+     $grp SCR_DestructibleEntity : "{C17780042E00F53D}PrefabLibrary/Walls/Metal/TinWall_01_6m_B.et" {
+      {
+       coords 0.024 -0.002 0.029
+       angleY -230.376
+      }
+      {
+       coords -7.592 0.628 -9.169
+       angleY -230.376
+      }
+     }
+     SCR_DestructibleEntity : "{D7D4B9C12ADA4FA0}PrefabLibrary/Walls/Metal/TinWall_01_6m_Pole.et" {
+      coords -17.111 1.415 -20.666
+      angleY -230.376
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 7320.296 2.875 6744.906
+  Points {
+   ShapePoint "{61169402DE36C7CB}" {
+    Position -0.067 0 0.659
+   }
+   ShapePoint "{61169402DE36ED8C}" {
+    Position -18.907 1.483 -19.751
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{3BBE8E0E68E0BE9C}Prefabs/WEGenerators/Walls/Metal/WG_TinWall_01.et" {
+    coords 0 0 0
+    Flags 1048579
+    {
+     SCR_DestructibleEntity : "{5326C298427D91A3}PrefabLibrary/Walls/Metal/TinWall_01_3m.et" {
+      coords -16.24 1.273 -16.862
+      angleY -227.291
+     }
+     $grp SCR_DestructibleEntity : "{AD23B4E492C47A13}PrefabLibrary/Walls/Metal/TinWall_01_6m_A.et" {
+      {
+       coords -0.041 -0.002 0.687
+       angleY -227.291
+      }
+      {
+       coords -4.091 0.317 -3.7
+       angleY -227.291
+      }
+      {
+       coords -8.141 0.636 -8.087
+       angleY -227.291
+      }
+     }
+     SCR_DestructibleEntity : "{C17780042E00F53D}PrefabLibrary/Walls/Metal/TinWall_01_6m_B.et" {
+      coords -12.19 0.954 -12.475
+      angleY -227.291
+     }
+     SCR_DestructibleEntity : "{D7D4B9C12ADA4FA0}PrefabLibrary/Walls/Metal/TinWall_01_6m_Pole.et" {
+      coords -18.265 1.433 -19.055
+      angleY -227.291
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 7329.978 2.875 6738.39
+  Points {
+   ShapePoint "{61169402CD86FB5A}" {
+    Position 0 0 0
+   }
+   ShapePoint "{61169402CD861CFE}" {
+    Position -17.517 1.331 -20.58
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{3BBE8E0E68E0BE9C}Prefabs/WEGenerators/Walls/Metal/WG_TinWall_01.et" {
+    coords 0 0 0
+    Flags 1048579
+    {
+     SCR_DestructibleEntity : "{24EBCCFD22E56256}PrefabLibrary/Walls/Metal/TinWall_01_6m_C.et" {
+      coords -3.846 0.292 -4.519
+      angleY -229.596
+     }
+     SCR_DestructibleEntity : "{5326C298427D91A3}PrefabLibrary/Walls/Metal/TinWall_01_3m.et" {
+      coords -15.459 1.175 -18.162
+      angleY -229.596
+     }
+     SCR_DestructibleEntity : "{AD23B4E492C47A13}PrefabLibrary/Walls/Metal/TinWall_01_6m_A.et" {
+      coords -7.717 0.586 -9.066
+      angleY -229.596
+     }
+     $grp SCR_DestructibleEntity : "{C17780042E00F53D}PrefabLibrary/Walls/Metal/TinWall_01_6m_B.et" {
+      {
+       coords 0.025 -0.002 0.029
+       angleY -229.596
+      }
+      {
+       coords -11.588 0.881 -13.614
+       angleY -229.596
+      }
+     }
+     SCR_DestructibleEntity : "{D7D4B9C12ADA4FA0}PrefabLibrary/Walls/Metal/TinWall_01_6m_Pole.et" {
+      coords -17.394 1.322 -20.435
+      angleY -229.596
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 7339.156 2.875 6730.399
+  Points {
+   ShapePoint "{61169402C6F5EAD2}" {
+    Position 0.217 0 1.11
+   }
+   ShapePoint "{61169402C6F5162D}" {
+    Position -16.865 1.35 -20.636
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{3BBE8E0E68E0BE9C}Prefabs/WEGenerators/Walls/Metal/WG_TinWall_01.et" {
+    coords 0 0 0
+    Flags 1048579
+    {
+     SCR_DestructibleEntity : "{5326C298427D91A3}PrefabLibrary/Walls/Metal/TinWall_01_3m.et" {
+      coords -14.516 1.165 -17.645
+      angleY -231.85
+     }
+     $grp SCR_DestructibleEntity : "{AD23B4E492C47A13}PrefabLibrary/Walls/Metal/TinWall_01_6m_A.et" {
+      {
+       coords -7.138 0.581 -8.253
+       angleY -231.85
+      }
+      {
+       coords -10.827 0.873 -12.949
+       angleY -231.85
+      }
+     }
+     $grp SCR_DestructibleEntity : "{C17780042E00F53D}PrefabLibrary/Walls/Metal/TinWall_01_6m_B.et" {
+      {
+       coords 0.241 -0.002 1.14
+       angleY -231.85
+      }
+      {
+       coords -3.448 0.29 -3.556
+       angleY -231.85
+      }
+     }
+     SCR_DestructibleEntity : "{D7D4B9C12ADA4FA0}PrefabLibrary/Walls/Metal/TinWall_01_6m_Pole.et" {
+      coords -16.36 1.31 -19.993
+      angleY -231.85
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 7348.586 2.875 6723.542
+  Points {
+   ShapePoint "{61169402A3FDFFBB}" {
+    Position 0 -0 0.739
+   }
+   ShapePoint "{61169402A3FDEB28}" {
+    Position -16.129 1.576 -21.897
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{3BBE8E0E68E0BE9C}Prefabs/WEGenerators/Walls/Metal/WG_TinWall_01.et" {
+    coords 0 0 0
+    Flags 1048579
+    {
+     SCR_DestructibleEntity : "{5326C298427D91A3}PrefabLibrary/Walls/Metal/TinWall_01_3m.et" {
+      coords -13.835 1.351 -18.677
+      angleY -234.528
+     }
+     $grp SCR_DestructibleEntity : "{AD23B4E492C47A13}PrefabLibrary/Walls/Metal/TinWall_01_6m_A.et" {
+      {
+       coords 0.022 -0.002 0.77
+       angleY -234.528
+      }
+      {
+       coords -3.442 0.336 -4.092
+       angleY -234.528
+      }
+      {
+       coords -6.906 0.675 -8.953
+       angleY -234.528
+      }
+      {
+       coords -10.37 1.013 -13.815
+       angleY -234.528
+      }
+     }
+     SCR_DestructibleEntity : "{D7D4B9C12ADA4FA0}PrefabLibrary/Walls/Metal/TinWall_01_6m_Pole.et" {
+      coords -15.566 1.521 -21.107
+      angleY -234.528
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 7358.146 2.887 6715.235
+  Points {
+   ShapePoint "{611694028A99F167}" {
+    Position -0.297 0.01 -0.612
+   }
+   ShapePoint "{611694028A991D7D}" {
+    Position -15.01 1.765 -21.227
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{3BBE8E0E68E0BE9C}Prefabs/WEGenerators/Walls/Metal/WG_TinWall_01.et" {
+    coords 0 0 0
+    Flags 1048579
+    {
+     SCR_DestructibleEntity : "{AD23B4E492C47A13}PrefabLibrary/Walls/Metal/TinWall_01_6m_A.et" {
+      coords -0.275 0.007 -0.581
+      angleY -234.485
+     }
+     $grp SCR_DestructibleEntity : "{C17780042E00F53D}PrefabLibrary/Walls/Metal/TinWall_01_6m_B.et" {
+      {
+       coords -3.74 0.42 -5.437
+       angleY -234.485
+      }
+      {
+       coords -7.206 0.834 -10.292
+       angleY -234.485
+      }
+      {
+       coords -10.671 1.247 -15.147
+       angleY -234.485
+      }
+     }
+     SCR_DestructibleEntity : "{D7D4B9C12ADA4FA0}PrefabLibrary/Walls/Metal/TinWall_01_6m_Pole.et" {
+      coords -14.134 1.66 -20
+      angleY -234.485
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 7394.012 4.449 6921.244
+  Points {
+   ShapePoint "{611694027530B1A7}" {
+    Position 0 0 0
+   }
+   ShapePoint "{611694027530DD07}" {
+    Position 27.537 0.003 -30.739
+   }
+   ShapePoint "{6116940268567FE6}" {
+    Position -38.833 -1.668 -69.609
+   }
+   ShapePoint "{611694026DF7A30C}" {
+    Position -63.017 -1.796 -33.394
+   }
+   ShapePoint "{611694026D4FEC56}" {
+    Position -79.854 -1.731 -3.722
+   }
+   ShapePoint "{611694026FA74A6E}" {
+    Position -95.839 -1.104 29.62
+   }
+   ShapePoint "{6116940260A060EE}" {
+    Position -39.754 -0.155 58.443
+   }
+   ShapePoint "{6116940263652901}" {
+    Position -15.747 -0.043 17.495
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{1D54F9B155264349}Prefabs/WEGenerators/Walls/Brick/WG_BrickWall_01.et" {
+    coords 0 0 0
+    Flags 1048579
+    {
+     $grp SCR_DestructibleEntity : "{3F2E6FB8EDB0BF0F}PrefabLibrary/Walls/Brick/BrickWall_01_4m.et" {
+      {
+       coords -60.997 -1.784 -36.372
+       angleY -124.146
+      }
+      {
+       coords -93.798 -1.185 25.356
+       angleY -115.585
+      }
+      {
+       coords -46.059 -0.264 55.113
+       angleY -27.847
+      }
+     }
+     SCR_DestructibleEntity : "{40EA2C27A26EF15A}PrefabLibrary/Walls/Brick/BrickWall_01_Pole.et" {
+      coords -16.46 -0.047 18.648
+      angleY 58.272
+     }
+     $grp SCR_DestructibleEntity : "{4FE3FD617F94EABC}PrefabLibrary/Walls/Brick/BrickWall_01_2m.et" {
+      {
+       coords -78.999 -1.734 -5.231
+       angleY -119.515
+      }
+      {
+       coords -42.529 -0.203 56.978
+       angleY -27.847
+      }
+     }
+     $grp SCR_DestructibleEntity : "{A675F37CFBFDE046}PrefabLibrary/Walls/Brick/BrickWall_01_4m_D.et" {
+      {
+       coords 26.701 0.003 -29.772
+       angleY -211.295
+      }
+      {
+       coords 21.406 -0.132 -32.99
+       angleY -211.295
+      }
+      {
+       coords -40.754 -0.172 57.941
+       angleY 58.272
+      }
+     }
+     $grp SCR_DestructibleEntity : "{DEB54A0BC9F81469}PrefabLibrary/Walls/Brick/BrickWall_01_8m.et" {
+      {
+       coords -0.015 -0 0.017
+       angleY 48.145
+      }
+      {
+       coords 5.321 0.001 -5.94
+       angleY 48.145
+      }
+      {
+       coords 10.657 0.001 -11.896
+       angleY 48.145
+      }
+      {
+       coords 15.993 0.002 -17.853
+       angleY 48.145
+      }
+      {
+       coords 21.33 0.002 -23.81
+       angleY 48.145
+      }
+      {
+       coords 16.112 -0.267 -36.209
+       angleY -211.295
+      }
+      {
+       coords 9.28 -0.441 -40.362
+       angleY -211.295
+      }
+      {
+       coords 2.448 -0.615 -44.515
+       angleY -211.295
+      }
+      {
+       coords -4.385 -0.789 -48.668
+       angleY -211.295
+      }
+      {
+       coords -11.217 -0.964 -52.822
+       angleY -211.295
+      }
+      {
+       coords -18.049 -1.138 -56.975
+       angleY -211.295
+      }
+      {
+       coords -24.881 -1.312 -61.128
+       angleY -211.295
+      }
+      {
+       coords -31.713 -1.486 -65.281
+       angleY -211.295
+      }
+      {
+       coords -38.552 -1.661 -69.465
+       angleY -124.146
+      }
+      {
+       coords -43.041 -1.686 -62.847
+       angleY -124.146
+      }
+      {
+       coords -47.53 -1.711 -56.228
+       angleY -124.146
+      }
+      {
+       coords -52.019 -1.735 -49.61
+       angleY -124.146
+      }
+      {
+       coords -56.508 -1.76 -42.991
+       angleY -124.146
+      }
+      {
+       coords -63.24 -1.797 -33.069
+       angleY -119.515
+      }
+      {
+       coords -67.179 -1.781 -26.109
+       angleY -119.515
+      }
+      {
+       coords -71.119 -1.766 -19.15
+       angleY -119.515
+      }
+      {
+       coords -75.059 -1.75 -12.19
+       angleY -119.515
+      }
+      {
+       coords -79.985 -1.731 -3.493
+       angleY -115.585
+      }
+      {
+       coords -83.438 -1.594 3.719
+       angleY -115.585
+      }
+      {
+       coords -86.891 -1.458 10.932
+       angleY -115.585
+      }
+      {
+       coords -90.344 -1.321 18.144
+       angleY -115.585
+      }
+      {
+       coords -95.552 -1.116 28.967
+       angleY -27.847
+      }
+      {
+       coords -88.481 -0.995 32.702
+       angleY -27.847
+      }
+      {
+       coords -81.411 -0.873 36.437
+       angleY -27.847
+      }
+      {
+       coords -74.34 -0.751 40.172
+       angleY -27.847
+      }
+      {
+       coords -67.27 -0.629 43.907
+       angleY -27.847
+      }
+      {
+       coords -60.2 -0.507 47.643
+       angleY -27.847
+      }
+      {
+       coords -53.129 -0.385 51.378
+       angleY -27.847
+      }
+      {
+       coords -37.495 -0.155 52.67
+       angleY 58.272
+      }
+      {
+       coords -33.289 -0.134 45.868
+       angleY 58.272
+      }
+      {
+       coords -29.083 -0.112 39.066
+       angleY 58.272
+      }
+      {
+       coords -24.878 -0.09 32.263
+       angleY 58.272
+      }
+      {
+       coords -20.672 -0.068 25.461
+       angleY 58.272
+      }
+     }
+    }
+   }
+  }
+ }
 }
