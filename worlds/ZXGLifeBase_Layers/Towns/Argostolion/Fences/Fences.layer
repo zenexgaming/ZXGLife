@@ -1349,7 +1349,7 @@ $grp PolylineShapeEntity {
   coords 7369.379 2.875 6705.777
   Points {
    ShapePoint "{61165DB038E33F12}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{61165DB038E36644}" {
     Position -15.827 1.93 -19.411
@@ -1526,6 +1526,10 @@ $grp GenericEntity : "{0364A92598A826F3}Prefabs/Props/Furniture/BenchStadium_01.
   coords 7593.171 4.952 6636.758
   angleY 40.638
  }
+}
+SCR_DestructibleBuildingEntity : "{322D245123EEDC90}Prefabs/Structures/Houses/Village/House_Village_E_1I01/House_Village_E_1I01_V2.et" {
+ coords 7274.073 0.964 6812.575
+ angleY 154.084
 }
 $grp GenericEntity : "{72E42BEAFED9B5A7}Prefabs/Props/Garbage/Bins/GarbageContainer_01.et" {
  {
