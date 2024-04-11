@@ -51,6 +51,32 @@ $grp SCR_DestructibleBuildingEntity : "{506702C2AE56D8B6}PrefabLibrary/Infrastru
   angleY 24.987
  }
 }
+$grp StaticModelEntity : "{59886E834739DCA2}Prefabs/Structures/Infrastructure/Pavements/ConcreteKerb_01/ConcreteKerb_01_2m_v2.et" {
+ {
+  coords 7180.337 0 7419.883
+  angleY 87.973
+ }
+ {
+  coords 7180.355 0 7415.89
+  angleY 87.973
+ }
+ {
+  coords 7180.71 0 7411.372
+  angleY 87.973
+ }
+ {
+  coords 7180.682 -0 7407.655
+  angleY 87.973
+ }
+ {
+  coords 7180.805 0 7403.871
+  angleY 87.973
+ }
+ {
+  coords 7181.117 0 7399.598
+  angleY 87.973
+ }
+}
 $grp SCR_DestructibleBuildingEntity : "{686B4C83AC940895}Prefabs/Structures/Infrastructure/Naval/Piers/PierConcrete_01_flat.et" {
  {
   coords 7379.397 -5.773 7009.097
@@ -76,8 +102,10 @@ SCR_DestructibleEntity : "{82B1323A72934C8F}PrefabLibrary/Props/Decoration/Flowe
  angleZ 1.299
 }
 SCR_DestructibleBuildingEntity : "{88024E0E7D9FF438}Prefabs/Structures/Infrastructure/Naval/Piers/PierConcrete_01_wall_5m.et" {
- coords 7182.386 -0.566 7399.445
- angleY -91.161
+ coords 7183.465 -0.354 7399.375
+ angleX -9.165
+ angleY -90.877
+ angleZ -0.001
 }
 $grp SCR_DestructibleEntity : "{ABD42182D8F3E85A}PrefabLibrary/Props/Decoration/FlowerpotStreet_01_rect_long/FlowerpotStreet_01_rect_long_begonia_pink.et" {
  {
@@ -108,8 +136,10 @@ $grp SCR_DestructibleEntity : "{C7BA8907568AA96F}PrefabLibrary/Props/Civilian/Be
  }
 }
 SCR_DestructibleBuildingEntity : "{D988B6959B31AC3E}Prefabs/Structures/Infrastructure/Naval/Piers/PierConcrete_01_wall_20m.et" {
- coords 7179.113 -2.439 7411.735
- angleY 74.702
+ coords 7182.956 -1.365 7411.875
+ angleX 11.347
+ angleY 89.186
+ angleZ 0.011
 }
 $grp SCR_DestructibleBuildingEntity : "{F09400CC1A27BE39}PrefabLibrary/Infrastructure/Naval/PierConcrete_01_20m.et" {
  {

@@ -340,7 +340,8 @@ SplineShapeEntity {
       scale 1.062
      }
      {
-      coords 17.786 15.012 -55.184
+      coords -2.397 7.285 -55.184
+      angleZ -12.726
       scale 0.794
      }
      {
@@ -351,10 +352,10 @@ SplineShapeEntity {
       scale 1.065
      }
      {
-      coords 14.807 14.614 -58.863
-      angleX 18.296
-      angleY -13.139
-      angleZ -36.633
+      coords 8.626 11.636 -62.475
+      angleX 2.031
+      angleY -8.085
+      angleZ -16.028
       scale 1.026
      }
      {
@@ -467,7 +468,6 @@ SplineShapeEntity {
       angleX -5.957
       angleY -1.308
       angleZ 12.407
-      scale 1
      }
      {
       coords -57.567 10.896 -54.715

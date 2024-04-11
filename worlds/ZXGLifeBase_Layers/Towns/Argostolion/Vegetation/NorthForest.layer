@@ -1096,7 +1096,6 @@ $grp Tree : "{1CE46A53F513E951}PrefabLibrary/Vegetation/Plants/p_artemisia_vulga
   angleX -4.88
   angleY 41.848
   angleZ 4.747
-  scale 1
  }
  {
   coords 6936.884 0 7561.917
@@ -2181,7 +2180,6 @@ $grp Tree : "{1CE46A53F513E951}PrefabLibrary/Vegetation/Plants/p_artemisia_vulga
   angleX 3.798
   angleY 26.049
   angleZ -1.5
-  scale 1
  }
  {
   coords 6919.557 0 7212.963
@@ -2251,7 +2249,6 @@ $grp Tree : "{1CE46A53F513E951}PrefabLibrary/Vegetation/Plants/p_artemisia_vulga
   angleX -1.724
   angleY 33.993
   angleZ 2.28
-  scale 1
  }
  {
   coords 6970.383 0 7334.985
@@ -3681,10 +3678,6 @@ $grp Tree : "{1CE46A53F513E951}PrefabLibrary/Vegetation/Plants/p_artemisia_vulga
   angleZ -4.067
   scale 0.883
  }
-}
-SCR_DestructibleBuildingEntity : "{29CABA57BEA2A188}Prefabs/Structures/Houses/Villa/Villa_E_2I01/Villa_E_2I01_Police_Base.et" {
- coords 7333.83 0.001 6850.719
- angleY 57.703
 }
 $grp Tree : "{6813E89F9EF2BDAC}PrefabLibrary/Vegetation/Bushes/b_rosa_canina_1s.et" {
  {
@@ -9987,7 +9980,6 @@ $grp Tree : "{68C5231808D63103}PrefabLibrary/Vegetation/Trees/t_betula_pendula_2
   angleX -0.628
   angleY 329.007
   angleZ -2.658
-  scale 1
  }
  {
   coords 7015.082 0 7226.544
@@ -12313,7 +12305,6 @@ $grp Tree : "{AC43B039B67361F6}PrefabLibrary/Vegetation/Trees/t_betula_pendula_3
   angleX -3.449
   angleY 24.017
   angleZ -0.856
-  scale 1
  }
  {
   coords 7038.789 0 7283.768
@@ -13582,7 +13573,6 @@ $grp Tree : "{B1062DFA6850D829}PrefabLibrary/Vegetation/Bushes/b_juniperus_commu
   angleX -24.824
   angleY 58.934
   angleZ -12.229
-  scale 1
  }
  {
   coords 6933.377 0 7639.401
@@ -19008,7 +18998,6 @@ $grp Tree : "{B3453920EE605F13}PrefabLibrary/Vegetation/Trees/t_carpinus_betulus
   angleX 2.116
   angleY 237.213
   angleZ 2.125
-  scale 1
  }
  {
   coords 7100.299 0 7209.649
@@ -19148,7 +19137,6 @@ $grp Tree : "{B3453920EE605F13}PrefabLibrary/Vegetation/Trees/t_carpinus_betulus
   angleX -0.201
   angleY 271.426
   angleZ 1.357
-  scale 1
  }
  {
   coords 7121.617 0 6949.64
@@ -19969,7 +19957,6 @@ $grp Tree : "{F1DB9A8115310093}PrefabLibrary/Vegetation/Trees/t_betula_pendula_1
   angleX 0.512
   angleY 8.163
   angleZ -3.019
-  scale 1
  }
  {
   coords 6924.472 0 7619.451
@@ -20235,7 +20222,6 @@ $grp Tree : "{F1DB9A8115310093}PrefabLibrary/Vegetation/Trees/t_betula_pendula_1
   angleX 1.197
   angleY 180.884
   angleZ -1.088
-  scale 1
  }
  {
   coords 7050.455 0 7482.983
@@ -20267,7 +20253,6 @@ $grp Tree : "{F1DB9A8115310093}PrefabLibrary/Vegetation/Trees/t_betula_pendula_1
  }
  {
   coords 7025.742 0 7410.452
-  angleX 0
   angleY 194.244
   angleZ 3.929
   scale 0.862
@@ -21313,7 +21298,6 @@ $grp Tree : "{F1DB9A8115310093}PrefabLibrary/Vegetation/Trees/t_betula_pendula_1
   angleX -2.091
   angleY 142.541
   angleZ 3.774
-  scale 1
  }
  {
   coords 6896.305 0 7372.435
@@ -23091,7 +23075,6 @@ $grp Tree : "{F1DB9A8115310093}PrefabLibrary/Vegetation/Trees/t_betula_pendula_1
   angleX -1.902
   angleY 290.817
   angleZ 1.251
-  scale 1
  }
  {
   coords 7039.674 0 7144.369
@@ -23395,9 +23378,9 @@ $grp Tree : "{F1DB9A8115310093}PrefabLibrary/Vegetation/Trees/t_betula_pendula_1
   scale 1.109
  }
  {
-  coords 7143.587 0 7086.202
+  coords 7137.905 0 7080.092
   angleX 1.276
-  angleY 267.778
+  angleY -92.222
   angleZ 0.535
   scale 1.12
  }
