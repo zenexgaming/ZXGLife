@@ -1,3 +1,13 @@
+$grp GenericEntity : "{0364A92598A826F3}Prefabs/Props/Furniture/BenchStadium_01.et" {
+ {
+  coords 7587.206 4.952 6642.524
+  angleY 40.638
+ }
+ {
+  coords 7590.165 4.952 6639.652
+  angleY 40.638
+ }
+}
 SCR_DestructibleBuildingEntity : "{8C72A5F00F23120F}PrefabLibrary/Props/Cultural/Fountain_01.et" {
  coords 7508.058 0.876 6771.651
  angleY 46.075
