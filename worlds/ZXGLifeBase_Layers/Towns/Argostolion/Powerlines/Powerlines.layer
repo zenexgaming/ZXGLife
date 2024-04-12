@@ -1,514 +1,1146 @@
-PolylineShapeEntity {
- coords 7624.949 7.633 6472.321
- Points {
-  ShapePoint "{610E68F2FF4AC570}" {
-   Position 0 0 0
-   Data {
-    SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+$grp PolylineShapeEntity {
+ {
+  coords 7624.949 7.633 6472.321
+  Points {
+   ShapePoint "{610E68F2FF4AC570}" {
+    Position 0 0 0
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{610E7D7B311056E1}" {
+    Position -418.394 -3.439 317.29
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{610E68F2FF4ADAC5}" {
+    Position 23.534 2.752 -21.265
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{610E68F2FEF9DCE8}" {
+    Position 67.514 6.708 -58.036
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{610E68F2F9EC3CDA}" {
+    Position 128.747 18.33 -108.694
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{610E68F2F8726FB8}" {
+    Position 179.508 20.175 -222.671
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{610E68F2FBE78C8F}" {
+    Position 281.743 25.827 -478.604
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
     }
    }
   }
-  ShapePoint "{610E7D7B311056E1}" {
-   Position -418.394 -3.439 317.29
-   Data {
-    SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
-    }
-   }
-  }
-  ShapePoint "{610E68F2FF4ADAC5}" {
-   Position 23.534 2.752 -21.265
-   Data {
-    SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
-    }
-   }
-  }
-  ShapePoint "{610E68F2FEF9DCE8}" {
-   Position 67.514 6.708 -58.036
-   Data {
-    SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
-    }
-   }
-  }
-  ShapePoint "{610E68F2F9EC3CDA}" {
-   Position 128.747 18.33 -108.694
-   Data {
-    SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
-    }
-   }
-  }
-  ShapePoint "{610E68F2F8726FB8}" {
-   Position 179.508 20.175 -222.671
-   Data {
-    SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
-    }
-   }
-  }
-  ShapePoint "{610E68F2FBE78C8F}" {
-   Position 281.743 25.827 -478.604
-   Data {
-    SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+  LineColor 0 0 0 0
+  {
+   SCR_PowerlineGeneratorEntity : "{9F275D81015AEFEA}Prefabs/WEGenerators/Powerline/PG_LightningRod_01.et" {
+    coords 0 0 0
+    Flags 1048579
+    {
+     $grp PowerlineEntity {
+      {
+       coords -48.382 10.209 36.56
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B4495292D}" {
+         StartPoint 0 0 0
+         EndPoint 47.848 2.935 -36.137
+        }
+       }
+      }
+      {
+       coords -95.963 9.961 72.516
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B4495057C}" {
+         StartPoint 0 0 0
+         EndPoint 47.582 0.247 -35.956
+        }
+       }
+      }
+      {
+       coords -143.94 9.899 109.588
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B44957242}" {
+         StartPoint 0 0 0
+         EndPoint 47.977 0.063 -37.072
+        }
+       }
+      }
+      {
+       coords -191.6 9.905 145.814
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B44956027}" {
+         StartPoint 0 0 0
+         EndPoint 47.66 -0.007 -36.226
+        }
+       }
+      }
+      {
+       coords -239.313 10.024 181.812
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B44955C2D}" {
+         StartPoint 0 0 0
+         EndPoint 47.713 -0.118 -35.998
+        }
+       }
+      }
+      {
+       coords -287.264 10.754 218.301
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B4495497D}" {
+         StartPoint 0 0 0
+         EndPoint 47.951 -0.73 -36.49
+        }
+       }
+      }
+      {
+       coords -335.052 9.699 254.662
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B4495A6A2}" {
+         StartPoint 0 0 0
+         EndPoint 47.789 1.055 -36.361
+        }
+       }
+      }
+      {
+       coords -382.727 9.73 290.221
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B4495957D}" {
+         StartPoint 0 0 0
+         EndPoint 47.675 -0.031 -35.559
+        }
+       }
+      }
+      {
+       coords -405.989 9.761 307.484
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B44958300}" {
+         StartPoint 0 0 0
+         EndPoint 23.262 -0.031 -17.264
+        }
+       }
+      }
+      {
+       coords -358.897 9.681 271.433
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B4495F201}" {
+         StartPoint 0 0 0
+         EndPoint -47.092 0.08 36.052
+        }
+       }
+      }
+      {
+       coords -310.862 10.754 234.506
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B4495EFBC}" {
+         StartPoint 0 0 0
+         EndPoint -48.035 -1.073 36.927
+        }
+       }
+      }
+      {
+       coords -262.856 10.608 198.54
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B4495DEE7}" {
+         StartPoint 0 0 0
+         EndPoint -48.005 0.146 35.966
+        }
+       }
+      }
+      {
+       coords -215.52 9.63 161.464
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B4495CDC6}" {
+         StartPoint 0 0 0
+         EndPoint -47.336 0.978 37.076
+        }
+       }
+      }
+      {
+       coords -167.884 9.921 125.547
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B44943C8F}" {
+         StartPoint 0 0 0
+         EndPoint -47.636 -0.29 35.917
+        }
+       }
+      }
+      {
+       coords -120.195 9.894 88.476
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B44942B3B}" {
+         StartPoint 0 0 0
+         EndPoint -47.688 0.027 37.072
+        }
+       }
+      }
+      {
+       coords -72.443 10.019 52.461
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B449419D4}" {
+         StartPoint 0 0 0
+         EndPoint -47.752 -0.126 36.014
+        }
+       }
+      }
+      {
+       coords -24.929 11.528 16.331
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B44940914}" {
+         StartPoint 0 0 0
+         EndPoint -47.514 -1.508 36.13
+        }
+       }
+      }
+      {
+       coords 23.181 15.652 -20.479
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B44946791}" {
+         StartPoint 0 0 0
+         EndPoint -48.11 -4.125 36.81
+        }
+       }
+      }
+      {
+       coords 68.307 19.461 -58.791
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B4494575F}" {
+         StartPoint 0 0 0
+         EndPoint -45.126 -3.808 38.312
+        }
+       }
+      }
+      {
+       coords 114.729 31.069 -96.76
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B4494587A}" {
+         StartPoint 0 0 0
+         EndPoint -46.421 -11.608 37.969
+        }
+       }
+      }
+      {
+       coords 145.517 31.651 -145.791
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B4494B753}" {
+         StartPoint 0 0 0
+         EndPoint -30.789 -0.583 49.031
+        }
+       }
+      }
+      {
+       coords 169.398 32.811 -200.983
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B4494B87D}" {
+         StartPoint 0 0 0
+         EndPoint -23.881 -1.16 55.192
+        }
+       }
+      }
+      {
+       coords 193.224 33.8 -256.123
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B4494A9C9}" {
+         StartPoint 0 0 0
+         EndPoint -23.825 -0.989 55.14
+        }
+       }
+      }
+      {
+       coords 215.438 34.927 -311.81
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B44949B8B}" {
+         StartPoint 0 0 0
+         EndPoint -22.215 -1.126 55.687
+        }
+       }
+      }
+      {
+       coords 237.435 34.778 -368.091
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B44948989}" {
+         StartPoint 0 0 0
+         EndPoint -21.996 0.149 56.281
+        }
+       }
+      }
+      {
+       coords 259.561 36.621 -423.222
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B4494E79F}" {
+         StartPoint 0 0 0
+         EndPoint -22.126 -1.843 55.131
+        }
+       }
+      }
+      {
+       coords 282.041 38.961 -479.3
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B4494D56A}" {
+         StartPoint 0 0 0
+         EndPoint -22.48 -2.34 56.078
+        }
+       }
+      }
+      {
+       coords 281.503 38.971 -477.966
+       Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
+       Cables {
+        Cable "{610E7D7B4494D86E}" {
+         StartPoint 0 0 0
+         EndPoint 0.538 -0.01 -1.333
+        }
+       }
+      }
+     }
+     $grp SCR_PowerPole : "{0F4569CE231DF603}Prefabs/Structures/Infrastructure/Power/Powerlines/LightningRod_01/LightningRod_01.et" {
+      {
+       coords 0 0 0
+       angleY 307.175
+      }
+      {
+       coords -47.807 -2.937 36.254
+       angleX 0.167
+       angleY 307.175
+       angleZ -0.517
+      }
+      {
+       coords -95.613 -3.195 72.509
+       angleX 1.733
+       angleY 307.175
+       angleZ -0.96
+      }
+      {
+       coords -147.301 -3.313 111.706
+       angleX -1.013
+       angleY 307.175
+       angleZ 1.433
+      }
+      {
+       coords -191.226 -3.227 145.017
+       angleX -0.429
+       angleY 307.175
+       angleZ 1.723
+      }
+      {
+       coords -239.033 -3.124 181.271
+       angleX 0.575
+       angleY 307.175
+       angleZ 1.077
+      }
+      {
+       coords -286.84 -2.378 217.526
+       angleX -0.547
+       angleY 307.175
+       angleZ 1.515
+      }
+      {
+       coords -334.646 -3.427 253.78
+       angleX -0.765
+       angleY 307.175
+       angleZ 1.936
+      }
+      {
+       coords -382.453 -3.428 290.034
+       angleX 1.525
+       angleY 307.175
+       angleZ -0.134
+      }
+      {
+       coords -406.572 -3.366 308.234
+       angleX -1.038
+       angleY 127.455
+       angleZ 0.986
+      }
+      {
+       coords -358.945 -3.477 271.748
+       angleX 1.967
+       angleY 127.455
+       angleZ 0.9
+      }
+      {
+       coords -311.319 -2.378 235.261
+       angleX -0.616
+       angleY 127.455
+       angleZ 1.341
+      }
+      {
+       coords -263.692 -2.525 198.775
+       angleX -0.547
+       angleY 127.455
+       angleZ -1.46
+      }
+      {
+       coords -216.065 -3.494 162.289
+       angleX -1.107
+       angleY 127.455
+       angleZ 1.348
+      }
+      {
+       coords -168.438 -3.227 125.803
+       angleX 0.372
+       angleY 127.455
+       angleZ -0.648
+      }
+      {
+       coords -120.812 -3.227 89.316
+       angleX -1.395
+       angleY 127.455
+       angleZ 1.216
+      }
+      {
+       coords -73.185 -3.116 52.83
+       angleX -0.577
+       angleY 127.455
+       angleZ -0.754
+      }
+      {
+       coords -25.558 -1.619 16.344
+       angleX 0.758
+       angleY 127.455
+       angleZ -1.684
+      }
+      {
+       coords 22.069 2.542 -20.142
+       angleX -1.775
+       angleY 127.455
+       angleZ -1.845
+      }
+      {
+       coords 68.041 6.306 -58.472
+       angleX 1.186
+       angleY 129.601
+       angleZ 0.271
+      }
+      {
+       coords 113.784 17.949 -96.315
+       angleX -1.439
+       angleY 129.601
+       angleZ -1.193
+      }
+      {
+       coords 145.171 18.496 -145.572
+       angleX 1.482
+       angleY 155.994
+       angleZ -1.051
+      }
+      {
+       coords 169.579 19.665 -200.376
+       angleX 0.869
+       angleY 155.994
+       angleZ 1.735
+      }
+      {
+       coords 192.708 20.655 -255.716
+       angleX 0.487
+       angleY 158.225
+       angleZ -1.491
+      }
+      {
+       coords 214.961 21.779 -311.423
+       angleX 0.632
+       angleY 158.225
+       angleZ -1.368
+      }
+      {
+       coords 237.214 21.653 -367.13
+       angleX -1.278
+       angleY 158.225
+       angleZ 0.6
+      }
+      {
+       coords 259.466 23.465 -422.837
+       angleX 1.259
+       angleY 158.225
+       angleZ 0.179
+      }
+      {
+       coords 281.719 25.825 -478.545
+       angleX -0.61
+       angleY 158.225
+       angleZ -0.142
+      }
+      {
+       coords 281.743 25.827 -478.604
+       angleY 338.225
+      }
+     }
     }
    }
   }
  }
- LineColor 0 0 0 0
  {
-  SCR_PowerlineGeneratorEntity : "{9F275D81015AEFEA}Prefabs/WEGenerators/Powerline/PG_LightningRod_01.et" {
-   coords 0 0 0
-   Flags 1048579
-   {
-    $grp PowerlineEntity {
-     {
-      coords -48.382 10.209 36.56
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B4495292D}" {
-        StartPoint 0 0 0
-        EndPoint 47.848 2.935 -36.137
-       }
-      }
-     }
-     {
-      coords -95.963 9.961 72.516
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B4495057C}" {
-        StartPoint 0 0 0
-        EndPoint 47.582 0.247 -35.956
-       }
-      }
-     }
-     {
-      coords -143.94 9.899 109.588
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B44957242}" {
-        StartPoint 0 0 0
-        EndPoint 47.977 0.063 -37.072
-       }
-      }
-     }
-     {
-      coords -191.6 9.905 145.814
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B44956027}" {
-        StartPoint 0 0 0
-        EndPoint 47.66 -0.007 -36.226
-       }
-      }
-     }
-     {
-      coords -239.313 10.024 181.812
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B44955C2D}" {
-        StartPoint 0 0 0
-        EndPoint 47.713 -0.118 -35.998
-       }
-      }
-     }
-     {
-      coords -287.264 10.754 218.301
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B4495497D}" {
-        StartPoint 0 0 0
-        EndPoint 47.951 -0.73 -36.49
-       }
-      }
-     }
-     {
-      coords -335.052 9.699 254.662
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B4495A6A2}" {
-        StartPoint 0 0 0
-        EndPoint 47.789 1.055 -36.361
-       }
-      }
-     }
-     {
-      coords -382.727 9.73 290.221
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B4495957D}" {
-        StartPoint 0 0 0
-        EndPoint 47.675 -0.031 -35.559
-       }
-      }
-     }
-     {
-      coords -405.989 9.761 307.484
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B44958300}" {
-        StartPoint 0 0 0
-        EndPoint 23.262 -0.031 -17.264
-       }
-      }
-     }
-     {
-      coords -358.897 9.681 271.433
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B4495F201}" {
-        StartPoint 0 0 0
-        EndPoint -47.092 0.08 36.052
-       }
-      }
-     }
-     {
-      coords -310.862 10.754 234.506
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B4495EFBC}" {
-        StartPoint 0 0 0
-        EndPoint -48.035 -1.073 36.927
-       }
-      }
-     }
-     {
-      coords -262.856 10.608 198.54
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B4495DEE7}" {
-        StartPoint 0 0 0
-        EndPoint -48.005 0.146 35.966
-       }
-      }
-     }
-     {
-      coords -215.52 9.63 161.464
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B4495CDC6}" {
-        StartPoint 0 0 0
-        EndPoint -47.336 0.978 37.076
-       }
-      }
-     }
-     {
-      coords -167.884 9.921 125.547
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B44943C8F}" {
-        StartPoint 0 0 0
-        EndPoint -47.636 -0.29 35.917
-       }
-      }
-     }
-     {
-      coords -120.195 9.894 88.476
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B44942B3B}" {
-        StartPoint 0 0 0
-        EndPoint -47.688 0.027 37.072
-       }
-      }
-     }
-     {
-      coords -72.443 10.019 52.461
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B449419D4}" {
-        StartPoint 0 0 0
-        EndPoint -47.752 -0.126 36.014
-       }
-      }
-     }
-     {
-      coords -24.929 11.528 16.331
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B44940914}" {
-        StartPoint 0 0 0
-        EndPoint -47.514 -1.508 36.13
-       }
-      }
-     }
-     {
-      coords 23.181 15.652 -20.479
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B44946791}" {
-        StartPoint 0 0 0
-        EndPoint -48.11 -4.125 36.81
-       }
-      }
-     }
-     {
-      coords 68.307 19.461 -58.791
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B4494575F}" {
-        StartPoint 0 0 0
-        EndPoint -45.126 -3.808 38.312
-       }
-      }
-     }
-     {
-      coords 114.729 31.069 -96.76
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B4494587A}" {
-        StartPoint 0 0 0
-        EndPoint -46.421 -11.608 37.969
-       }
-      }
-     }
-     {
-      coords 145.517 31.651 -145.791
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B4494B753}" {
-        StartPoint 0 0 0
-        EndPoint -30.789 -0.583 49.031
-       }
-      }
-     }
-     {
-      coords 169.398 32.811 -200.983
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B4494B87D}" {
-        StartPoint 0 0 0
-        EndPoint -23.881 -1.16 55.192
-       }
-      }
-     }
-     {
-      coords 193.224 33.8 -256.123
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B4494A9C9}" {
-        StartPoint 0 0 0
-        EndPoint -23.825 -0.989 55.14
-       }
-      }
-     }
-     {
-      coords 215.438 34.927 -311.81
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B44949B8B}" {
-        StartPoint 0 0 0
-        EndPoint -22.215 -1.126 55.687
-       }
-      }
-     }
-     {
-      coords 237.435 34.778 -368.091
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B44948989}" {
-        StartPoint 0 0 0
-        EndPoint -21.996 0.149 56.281
-       }
-      }
-     }
-     {
-      coords 259.561 36.621 -423.222
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B4494E79F}" {
-        StartPoint 0 0 0
-        EndPoint -22.126 -1.843 55.131
-       }
-      }
-     }
-     {
-      coords 282.041 38.961 -479.3
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B4494D56A}" {
-        StartPoint 0 0 0
-        EndPoint -22.48 -2.34 56.078
-       }
-      }
-     }
-     {
-      coords 281.503 38.971 -477.966
-      Material "{0EA2F525DFA5A117}Assets/Structures/Infrastructure/Power/LightningRod_01/Data/LightningRod_01_Powerline_Wire.emat"
-      Cables {
-       Cable "{610E7D7B4494D86E}" {
-        StartPoint 0 0 0
-        EndPoint 0.538 -0.01 -1.333
-       }
-      }
+  coords 7551.734 4.522 6524.764
+  Points {
+   ShapePoint "{61189EA97686D98C}" {
+    Position 0 0.001 0
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
      }
     }
-    $grp SCR_PowerPole : "{0F4569CE231DF603}Prefabs/Structures/Infrastructure/Power/Powerlines/LightningRod_01/LightningRod_01.et" {
-     {
-      coords 0 0 0
-      angleY 307.175
+   }
+   ShapePoint "{61189EA9768125B8}" {
+    Position 4.044 -0.116 22.682
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
      }
-     {
-      coords -47.807 -2.937 36.254
-      angleX 0.167
-      angleY 307.175
-      angleZ -0.517
+    }
+   }
+   ShapePoint "{61189EA96CAD449D}" {
+    Position -19.587 -0.982 66.323
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
      }
-     {
-      coords -95.613 -3.195 72.509
-      angleX 1.733
-      angleY 307.175
-      angleZ -0.96
+    }
+   }
+   ShapePoint "{61189EA96FCC484E}" {
+    Position -37.579 -1.899 102.963
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
      }
-     {
-      coords -147.301 -3.313 111.706
-      angleX -1.013
-      angleY 307.175
-      angleZ 1.433
+    }
+   }
+   ShapePoint "{61189EA96125B52B}" {
+    Position -153.922 -1.804 188.889
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
      }
-     {
-      coords -191.226 -3.227 145.017
-      angleX -0.429
-      angleY 307.175
-      angleZ 1.723
+    }
+   }
+   ShapePoint "{61189EA963F04494}" {
+    Position -211.89 -1.741 229.976
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
      }
-     {
-      coords -239.033 -3.124 181.271
-      angleX 0.575
-      angleY 307.175
-      angleZ 1.077
+    }
+   }
+   ShapePoint "{61189EA9646D947B}" {
+    Position -235.95 -2.016 248.086
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
      }
-     {
-      coords -286.84 -2.378 217.526
-      angleX -0.547
-      angleY 307.175
-      angleZ 1.515
+    }
+   }
+   ShapePoint "{61189EA965E43CB2}" {
+    Position -258.033 -2.402 271.538
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
      }
-     {
-      coords -334.646 -3.427 253.78
-      angleX -0.765
-      angleY 307.175
-      angleZ 1.936
+    }
+   }
+   ShapePoint "{61189EA96752B6E3}" {
+    Position -270.452 -2.541 286.557
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
      }
-     {
-      coords -382.453 -3.428 290.034
-      angleX 1.525
-      angleY 307.175
-      angleZ -0.134
+    }
+   }
+   ShapePoint "{61189EA9597B1D73}" {
+    Position -293.248 -2.717 335.768
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
      }
-     {
-      coords -406.572 -3.366 308.234
-      angleX -1.038
-      angleY 127.455
-      angleZ 0.986
+    }
+   }
+   ShapePoint "{61189EA95AD649D2}" {
+    Position -312.611 -2.551 386.981
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
      }
-     {
-      coords -358.945 -3.477 271.748
-      angleX 1.967
-      angleY 127.455
-      angleZ 0.9
+    }
+   }
+   ShapePoint "{61189EA95C2CF3D7}" {
+    Position -319.621 -2.117 413.258
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
      }
-     {
-      coords -311.319 -2.378 235.261
-      angleX -0.616
-      angleY 127.455
-      angleZ 1.341
+    }
+   }
+   ShapePoint "{61189EA95DE0884F}" {
+    Position -349.844 -0.682 508.654
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
      }
-     {
-      coords -263.692 -2.525 198.775
-      angleX -0.547
-      angleY 127.455
-      angleZ -1.46
+    }
+   }
+   ShapePoint "{61189EA95F6C4AED}" {
+    Position -376.545 0.496 587.617
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
      }
-     {
-      coords -216.065 -3.494 162.289
-      angleX -1.107
-      angleY 127.455
-      angleZ 1.348
+    }
+   }
+   ShapePoint "{61189EA951A05C46}" {
+    Position -357.617 0.892 591.166
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
      }
-     {
-      coords -168.438 -3.227 125.803
-      angleX 0.372
-      angleY 127.455
-      angleZ -0.648
+    }
+   }
+   ShapePoint "{61189EA951039A09}" {
+    Position -382.289 1.766 665.722
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
      }
-     {
-      coords -120.812 -3.227 89.316
-      angleX -1.395
-      angleY 127.455
-      angleZ 1.216
+    }
+   }
+   ShapePoint "{61189EA9548E30F8}" {
+    Position -413.667 3.289 761.681
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
      }
-     {
-      coords -73.185 -3.116 52.83
-      angleX -0.577
-      angleY 127.455
-      angleZ -0.754
+    }
+   }
+   ShapePoint "{61189EA94E4CD213}" {
+    Position -416.785 3.482 773.54
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
      }
-     {
-      coords -25.558 -1.619 16.344
-      angleX 0.758
-      angleY 127.455
-      angleZ -1.684
+    }
+   }
+   ShapePoint "{61189EA94F19A8C9}" {
+    Position -421.841 3.864 797.979
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
      }
-     {
-      coords 22.069 2.542 -20.142
-      angleX -1.775
-      angleY 127.455
-      angleZ -1.845
+    }
+   }
+   ShapePoint "{61189EA94008EC3F}" {
+    Position -426.737 4.198 817.368
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
      }
-     {
-      coords 68.041 6.306 -58.472
-      angleX 1.186
-      angleY 129.601
-      angleZ 0.271
+    }
+   }
+  }
+  LineColor 0 0.498 0.831 0
+  {
+   SCR_PowerlineGeneratorEntity : "{20E4877A07D28502}Prefabs/WEGenerators/Powerline/PG_PowerLine_01_WoodenSmall.et" {
+    coords 0 0 0
+    Flags 1048579
+    {
+     $grp PowerlineEntity {
+      {
+       coords -1.73 7.781 32.876
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA7E618A}" {
+         StartPoint 0 0 0
+         EndPoint 1.837 -0.035 -32.603
+        }
+       }
+      }
+      {
+       coords -18.639 7.163 64.094
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA7E5B7F}" {
+         StartPoint 0 0 0
+         EndPoint 16.909 0.618 -31.218
+        }
+       }
+      }
+      {
+       coords -33.815 5.97 95.026
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA7E0EF0}" {
+         StartPoint 0 0 0
+         EndPoint 15.176 1.194 -30.933
+        }
+       }
+      }
+      {
+       coords -58.877 6.011 118.43
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA7EC319}" {
+         StartPoint 0 0 0
+         EndPoint 25.062 -0.041 -23.403
+        }
+       }
+      }
+      {
+       coords -86.967 6.015 139.856
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA7EB095}" {
+         StartPoint 0 0 0
+         EndPoint 28.09 -0.004 -21.427
+        }
+       }
+      }
+      {
+       coords -115.423 6.029 160.726
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA7F6A89}" {
+         StartPoint 0 0 0
+         EndPoint 28.456 -0.015 -20.869
+        }
+       }
+      }
+      {
+       coords -143.346 6.061 180.715
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA7F2304}" {
+         StartPoint 0 0 0
+         EndPoint 27.923 -0.031 -19.989
+        }
+       }
+      }
+      {
+       coords -171.336 6.132 202.092
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA7F16CB}" {
+         StartPoint 0 0 0
+         EndPoint 27.991 -0.071 -21.377
+        }
+       }
+      }
+      {
+       coords -200.08 6.201 221.309
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA7FC8BC}" {
+         StartPoint 0 0 0
+         EndPoint 28.743 -0.069 -19.217
+        }
+       }
+      }
+      {
+       coords -228.302 5.959 242.636
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA7F82BA}" {
+         StartPoint 0 0 0
+         EndPoint 28.223 0.241 -21.327
+        }
+       }
+      }
+      {
+       coords -253.453 5.562 266.326
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA7C75DC}" {
+         StartPoint 0 0 0
+         EndPoint 25.15 0.397 -23.69
+        }
+       }
+      }
+      {
+       coords -273.771 5.258 294.585
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA7C2493}" {
+         StartPoint 0 0 0
+         EndPoint 20.319 0.304 -28.259
+        }
+       }
+      }
+      {
+       coords -289.249 5.2 326.614
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA7C18B0}" {
+         StartPoint 0 0 0
+         EndPoint 15.477 0.059 -32.029
+        }
+       }
+      }
+      {
+       coords -301.492 5.23 359.48
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA7CC9EF}" {
+         StartPoint 0 0 0
+         EndPoint 12.244 -0.031 -32.866
+        }
+       }
+      }
+      {
+       coords -314.134 5.507 392.116
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA7CBBB8}" {
+         StartPoint 0 0 0
+         EndPoint 12.642 -0.276 -32.636
+        }
+       }
+      }
+      {
+       coords -322.984 5.944 425.902
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA7D6F2F}" {
+         StartPoint 0 0 0
+         EndPoint 8.85 -0.437 -33.786
+        }
+       }
+      }
+      {
+       coords -334.002 6.43 459.293
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA7D5EBD}" {
+         StartPoint 0 0 0
+         EndPoint 11.018 -0.487 -33.391
+        }
+       }
+      }
+      {
+       coords -343.995 6.93 491.945
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA7D13C8}" {
+         StartPoint 0 0 0
+         EndPoint 9.993 -0.5 -32.652
+        }
+       }
+      }
+      {
+       coords -355.099 7.467 525.527
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA7DC13D}" {
+         StartPoint 0 0 0
+         EndPoint 11.104 -0.537 -33.583
+        }
+       }
+      }
+      {
+       coords -366.43 8.085 559.091
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA7DB7B2}" {
+         StartPoint 0 0 0
+         EndPoint 11.331 -0.618 -33.563
+        }
+       }
+      }
+      {
+       coords -371.619 8.444 587.804
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA626A72}" {
+         StartPoint 0 0 0
+         EndPoint 5.188 -0.359 -28.713
+        }
+       }
+      }
+      {
+       coords -363.094 8.673 610.081
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA6222A5}" {
+         StartPoint 0 0 0
+         EndPoint -8.525 -0.229 -22.276
+        }
+       }
+      }
+      {
+       coords -374.188 9.334 643.325
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA621B88}" {
+         StartPoint 0 0 0
+         EndPoint 11.094 -0.661 -33.244
+        }
+       }
+      }
+      {
+       coords -386.174 9.836 676.845
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA62CC5A}" {
+         StartPoint 0 0 0
+         EndPoint 11.986 -0.502 -33.521
+        }
+       }
+      }
+      {
+       coords -397.092 10.357 710.184
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA628177}" {
+         StartPoint 0 0 0
+         EndPoint 10.917 -0.521 -33.338
+        }
+       }
+      }
+      {
+       coords -407.46 10.9 743.619
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA637BD2}" {
+         StartPoint 0 0 0
+         EndPoint 10.368 -0.544 -33.435
+        }
+       }
+      }
+      {
+       coords -417.521 11.436 776.938
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA632D3E}" {
+         StartPoint 0 0 0
+         EndPoint 10.061 -0.536 -33.32
+        }
+       }
+      }
+      {
+       coords -424.992 11.959 810.515
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA63E56C}" {
+         StartPoint 0 0 0
+         EndPoint 7.471 -0.523 -33.577
+        }
+       }
+      }
+      {
+       coords -427.108 11.924 816.873
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6118B02EAA63DF45}" {
+         StartPoint 0 0 0
+         EndPoint 2.117 0.035 -6.358
+        }
+       }
+      }
      }
-     {
-      coords 113.784 17.949 -96.315
-      angleX -1.439
-      angleY 129.601
-      angleZ -1.193
+     $grp SCR_PowerPole : "{17F4D13D8E2E43C1}PrefabLibrary/Infrastructure/Powerline/PowerLine_01_pole_small_hook_end.et" {
+      {
+       coords 0 0.001 0
+       angleX -2.129
+       angleY 10.109
+       angleZ 0.421
+      }
+      {
+       coords -426.737 4.199 817.368
+       angleX 2.882
+       angleY 345.828
+       angleZ -3.563
+      }
      }
-     {
-      coords 145.171 18.496 -145.572
-      angleX 1.482
-      angleY 155.994
-      angleZ -1.051
-     }
-     {
-      coords 169.579 19.665 -200.376
-      angleX 0.869
-      angleY 155.994
-      angleZ 1.735
-     }
-     {
-      coords 192.708 20.655 -255.716
-      angleX 0.487
-      angleY 158.225
-      angleZ -1.491
-     }
-     {
-      coords 214.961 21.779 -311.423
-      angleX 0.632
-      angleY 158.225
-      angleZ -1.368
-     }
-     {
-      coords 237.214 21.653 -367.13
-      angleX -1.278
-      angleY 158.225
-      angleZ 0.6
-     }
-     {
-      coords 259.466 23.465 -422.837
-      angleX 1.259
-      angleY 158.225
-      angleZ 0.179
-     }
-     {
-      coords 281.719 25.825 -478.545
-      angleX -0.61
-      angleY 158.225
-      angleZ -0.142
-     }
-     {
-      coords 281.743 25.827 -478.604
-      angleY 338.225
+     $grp SCR_PowerPole : "{62DECEC65C1043AB}PrefabLibrary/Infrastructure/Powerline/PowerLine_02_pole_small_hook.et" {
+      {
+       coords -1.65 -0.116 33.198
+       angleX 1.773
+       angleY 331.565
+       angleZ -3.437
+      }
+      {
+       coords -18.313 -0.733 63.97
+       angleX -1.913
+       angleY 331.565
+       angleZ -3.465
+      }
+      {
+       coords -33.831 -1.928 95.331
+       angleX 2.031
+       angleY 333.847
+       angleZ -2.683
+      }
+      {
+       coords -58.891 -1.889 118.703
+       angleX 1.263
+       angleY 306.448
+       angleZ -3.351
+      }
+      {
+       coords -87.045 -1.881 139.497
+       angleX -1.095
+       angleY 306.448
+       angleZ 0.625
+      }
+      {
+       coords -115.199 -1.859 160.29
+       angleX -3.185
+       angleY 306.448
+       angleZ -0.235
+      }
+      {
+       coords -143.353 -1.834 181.083
+       angleX 1.629
+       angleY 306.448
+       angleZ -3.928
+      }
+      {
+       coords -171.757 -1.741 201.53
+       angleX 0.135
+       angleY 305.329
+       angleZ 3.28
+      }
+      {
+       coords -200.312 -1.687 221.77
+       angleX 3.309
+       angleY 305.329
+       angleZ -3.563
+      }
+      {
+       coords -228.515 -1.94 242.489
+       angleX 0.59
+       angleY 306.969
+       angleZ -0.038
+      }
+      {
+       coords -253.562 -2.328 266.79
+       angleX 3.003
+       angleY 316.722
+       angleZ -3.544
+      }
+      {
+       coords -274.23 -2.631 294.714
+       angleX 2.245
+       angleY 335.145
+       angleZ 0.816
+      }
+      {
+       coords -288.942 -2.697 326.472
+       angleX -1.872
+       angleY 335.145
+       angleZ -3.401
+      }
+      {
+       coords -302.002 -2.637 358.923
+       angleX -2.48
+       angleY 339.289
+       angleZ 3.082
+      }
+      {
+       coords -313.9 -2.388 391.814
+       angleX -2.552
+       angleY 345.063
+       angleZ -2.885
+      }
+      {
+       coords -323.488 -1.932 425.462
+       angleX -1.938
+       angleY 342.421
+       angleZ 2.638
+      }
+      {
+       coords -334.057 -1.459 458.825
+       angleX -3.119
+       angleY 342.421
+       angleZ -0.407
+      }
+      {
+       coords -344.627 -0.945 492.187
+       angleX 3.063
+       angleY 342.421
+       angleZ 2.031
+      }
+      {
+       coords -355.521 -0.425 525.443
+       angleX 0.397
+       angleY 341.317
+       angleZ 1.284
+      }
+      {
+       coords -366.731 0.202 558.595
+       angleX -2.71
+       angleY 341.317
+       angleZ 1.408
+      }
+      {
+       coords -372.26 0.59 588.42
+       angleX -3.765
+       angleY 79.38
+       angleZ 3.443
+      }
+      {
+       coords -363.931 0.815 610.246
+       angleX 3.057
+       angleY 341.69
+       angleZ 3.578
+      }
+      {
+       coords -374.926 1.466 643.472
+       angleX 2.702
+       angleY 341.69
+       angleZ 2.937
+      }
+      {
+       coords -385.882 1.939 676.71
+       angleX -1.592
+       angleY 341.893
+       angleZ -3.524
+      }
+      {
+       coords -396.759 2.463 709.973
+       angleX -2.204
+       angleY 341.893
+       angleZ -3.633
+      }
+      {
+       coords -407.635 3.008 743.236
+       angleX -2.25
+       angleY 341.893
+       angleZ 0.258
+      }
+      {
+       coords -417.459 3.534 776.798
+       angleX -1.086
+       angleY 348.311
+       angleZ -2.048
+      }
+      {
+       coords -425.113 4.067 810.939
+       angleX 3.193
+       angleY 345.828
+       angleZ -1.71
+      }
      }
     }
    }
