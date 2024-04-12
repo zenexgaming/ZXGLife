@@ -12,10 +12,6 @@ $grp GenericEntity : "{0364A92598A826F3}Prefabs/Props/Furniture/BenchStadium_01.
   angleY 40.638
  }
 }
-SCR_DestructibleBuildingEntity : "{322D245123EEDC90}Prefabs/Structures/Houses/Village/House_Village_E_1I01/House_Village_E_1I01_V2.et" {
- coords 7274.073 0.964 6812.575
- angleY 154.084
-}
 GenericEntity : "{3C27BF2D94E61103}PrefabLibrary/Infrastructure/Lamps/LampStreet_E_02_doubleStraight/LampStreet_E_02_doubleStraight.et" {
  coords 7573.599 0 6729.949
 }

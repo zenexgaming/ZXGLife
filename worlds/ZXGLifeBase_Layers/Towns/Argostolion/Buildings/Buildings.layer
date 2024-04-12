@@ -10,6 +10,10 @@ SCR_DestructibleBuildingEntity : "{00FD2B4A0BDEC271}Prefabs/Structures/Commercia
  coords 7428.411 0.869 6871.232
  angleY 47.679
 }
+SCR_DestructibleBuildingEntity : "{07465627D9BD8A0A}Prefabs/Structures/Houses/Prefrabricated/House_Prefab_2I02/House_Prefab_2I02t_base.et" {
+ coords 7315.705 0.179 6875.257
+ angleY 63.074
+}
 SCR_DestructibleBuildingEntity : "{151CFDB2968ADB77}Prefabs/Structures/Houses/Villa/Villa_E_2I01/Villa_E_2I01_Police.et" {
  coords 7660.458 2.576 6387.528
  angleY 43.537
@@ -21,8 +25,12 @@ SCR_DestructibleBuildingEntity : "{151CFDB2968ADB77}Prefabs/Structures/Houses/Vi
  }
 }
 SCR_DestructibleBuildingEntity : "{1D550075761179CA}PrefabLibrary/Structures/Cultural/Church_01.et" {
- coords 7363.79 0.854 6916.895
+ coords 7379.312 1.164 6890.824
  angleY 59.231
+}
+SCR_DestructibleBuildingEntity : "{1E6FF35236AFF31C}Prefabs/Structures/Houses/Village/House_Village_E_1I04/House_Village_E_1I04t_red.et" {
+ coords 7288.972 0.941 6928.915
+ angleY 66.118
 }
 $grp SCR_DestructibleBuildingEntity : "{27CC3110521583D6}Prefabs/Structures/Houses/Town/House_Town_E_2I02/House_Town_E_2I02_v2.et" {
  {
@@ -45,6 +53,18 @@ $grp SCR_DestructibleBuildingEntity : "{27CC3110521583D6}Prefabs/Structures/Hous
 SCR_DestructibleBuildingEntity : "{2F830B9B3A7D4855}Prefabs/Structures/Commercial/Shops/ShopHouse_E_2I01t_foodstore.et" {
  coords 7458.912 0.42 6831.375
  angleY 45.011
+}
+SCR_DestructibleBuildingEntity : "{325991D9993FA95B}Prefabs/Structures/Houses/Village/HouseAddon_Shed_E_01/HouseAddon_Shed_E_01.et" {
+ coords 7213.725 -0.019 6907.846
+ angleY 66.383
+}
+SCR_DestructibleBuildingEntity : "{34D88C9132A17F8F}Prefabs/Structures/Houses/Prefrabricated/House_Prefab_2I01/House_Prefab_2I01_v2.et" {
+ coords 7328.078 -0.107 6852.444
+ angleY -117.375
+}
+SCR_DestructibleBuildingEntity : "{366759CF520BC4CA}Prefabs/Structures/Houses/Village/House_Village_E_1I03/House_Village_E_1I03_Furniture.et" {
+ coords 7253.102 -0.368 6816.413
+ angleY 156.469
 }
 $grp SCR_DestructibleBuildingEntity : "{38A5F3E4578087AB}Prefabs/Structures/Houses/Town/House_Town_E_2I01/House_Town_E_2I01.et" {
  {
@@ -94,6 +114,14 @@ $grp SCR_DestructibleBuildingEntity : "{54F1C704EB440885}Prefabs/Structures/Hous
   angleY 46.599
  }
 }
+SCR_DestructibleBuildingEntity : "{58A839659867372C}Prefabs/Structures/Houses/Village/House_Village_E_1L02/House_Village_E_1L02_Base.et" {
+ coords 7217.2 -0.009 6896.223
+ angleY 68.058
+}
+SCR_DestructibleBuildingEntity : "{5CADC96916FF1CC4}Prefabs/Structures/Houses/Villa/Villa_E_2I01/Villa_E_2I01.et" {
+ coords 7328.938 3.121 6991.912
+ angleY 66.087
+}
 $grp SCR_DestructibleBuildingEntity : "{5D91774D9139FF87}Prefabs/Structures/Houses/Village/House_Village_E_1I04/House_Village_E_1I04sr_green.et" {
  {
   coords 7528.608 0.263 6699.004
@@ -103,6 +131,14 @@ $grp SCR_DestructibleBuildingEntity : "{5D91774D9139FF87}Prefabs/Structures/Hous
   coords 7435.278 0.153 6725.693
   angleY 44.274
  }
+ {
+  coords 7287.713 0.798 6859.717
+  angleY 65.434
+ }
+}
+SCR_DestructibleBuildingEntity : "{60333F74EE12B52F}Prefabs/Structures/Houses/Village/House_Village_E_1I05/House_Village_E_1I05s.et" {
+ coords 7245.49 4.1 6961.573
+ angleY 72.918
 }
 SCR_DestructibleBuildingEntity : "{65ED02B8B05842F8}Prefabs/Structures/Commercial/FuelStations/FuelStation_E_01/FuelStation_E_01_platform.et" {
  coords 7438.055 -0.123 6870.944
@@ -114,6 +150,14 @@ GenericEntity : "{66F9B70496CD89C2}PrefabLibrary/Infrastructure/Sings/SignNoPark
  angleY 40.017
  angleZ 0.578
 }
+SCR_DestructibleBuildingEntity : "{6A14F65DCEBC58E9}Prefabs/Structures/Houses/Village/House_Village_E_1I06/House_Village_E_1I06_brown.et" {
+ coords 7188.083 0.952 6883.27
+ angleY -101.131
+}
+SCR_DestructibleBuildingEntity : "{751E011171780C2E}Prefabs/Structures/Houses/Village/House_Village_E_1I04/House_Village_E_1I04sr.et" {
+ coords 7301.607 -0.032 6901.612
+ angleY 64.5
+}
 $grp GenericEntity : "{777E723C6902DB47}Prefabs/Structures/Civilian/SportGrounds/GoalPost_01.et" {
  {
   coords 7616.673 4.406 6636.272
@@ -124,9 +168,15 @@ $grp GenericEntity : "{777E723C6902DB47}Prefabs/Structures/Civilian/SportGrounds
   angleY 132.534
  }
 }
-SCR_DestructibleBuildingEntity : "{81E83A74C5FF26DF}Prefabs/Structures/Houses/Village/House_Village_E_1I02/House_Village_E_1I02.et" {
- coords 7512.157 -0.067 6660.212
- angleY -50.205
+$grp SCR_DestructibleBuildingEntity : "{81E83A74C5FF26DF}Prefabs/Structures/Houses/Village/House_Village_E_1I02/House_Village_E_1I02.et" {
+ {
+  coords 7512.157 -0.067 6660.212
+  angleY -50.205
+ }
+ {
+  coords 7260.545 -0.029 6920.198
+  angleY -22.241
+ }
 }
 $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
  {
@@ -178,6 +228,18 @@ SCR_DestructibleBuildingEntity : "{AD57E850A575A54F}Prefabs/Structures/Houses/Vi
  coords 7462.105 1.355 6702.683
  angleY 38.162
 }
+SCR_DestructibleBuildingEntity : "{B2172573ED15AA82}Prefabs/Structures/Houses/Village/House_Village_E_1L03/House_Village_E_1L03t.et" {
+ coords 7233.799 0.339 6857.267
+ angleY 67.613
+}
+SCR_DestructibleBuildingEntity : "{B27AF198E146D70D}Prefabs/Structures/Houses/Village/House_Village_E_1I01/House_Village_E_1I01_beige.et" {
+ coords 7298.641 0.088 6835.115
+ angleY -26.827
+}
+SCR_DestructibleBuildingEntity : "{BEF9077AF9F93AE7}Prefabs/Structures/Houses/Village/House_Mountain_E_1I01/House_Mountain_E_1I01.et" {
+ coords 7196.667 1.577 6831.536
+ angleY 74.415
+}
 $grp SCR_DestructibleBuildingEntity : "{C50CF821412A2E0F}Prefabs/Structures/Houses/Town/House_Town_E_2I01/House_Town_E_2I01_orange.et" {
  {
   coords 7360.553 0.877 6723.414
@@ -199,6 +261,10 @@ GenericEntity : "{CDD0712FD6215F03}Prefabs/Compositions/Slotted/SlotFlatMedium/F
 SCR_DestructibleBuildingEntity : "{CFE8511B2B7E8AAA}Prefabs/Structures/Commercial/Shops/ShopModern_E_01.et" {
  coords 7574.813 1.295 6696.111
  angleY 40.264
+}
+SCR_DestructibleBuildingEntity : "{D424A3CD07F7A6F0}Prefabs/Structures/Houses/Village/House_Village_E_1I08/House_Village_E_1I08t.et" {
+ coords 7274.548 -0.044 6888.797
+ angleY 66.411
 }
 SCR_DestructibleBuildingEntity : "{E9F0814557EC3DA9}Prefabs/Structures/Commercial/FuelStations/FuelStation_E_01/FuelStation_E_01_roof.et" {
  coords 7437.189 0.24 6869.799
