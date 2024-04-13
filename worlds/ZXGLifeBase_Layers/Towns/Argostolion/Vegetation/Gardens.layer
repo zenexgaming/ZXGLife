@@ -307,8 +307,8 @@ SplineShapeEntity {
  }
 }
 Vehicle S105_darkred1 : "{8000A0F649FB4B0D}Prefabs/Vehicles/Wheeled/S105/S105_darkred.et" {
- coords 7751.292 16.28 6446.685
- angleX -1.851
- angleY -48.896
- angleZ 0.76
+ coords 11220.814 72.007 5019.054
+ angleX -1.954
+ angleY -39.018
+ angleZ 0.431
 }

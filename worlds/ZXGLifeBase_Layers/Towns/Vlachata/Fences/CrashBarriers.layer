@@ -1,0 +1,865 @@
+$grp PolylineShapeEntity {
+ {
+  coords 11594.479 51.006 4779.182
+  Points {
+   ShapePoint "{611A33DC31DA8180}" {
+    Position -1.999 -0.869 -0.423
+   }
+   ShapePoint "{611A33DC31DAB129}" {
+    Position 5.976 2.508 5.525
+   }
+   ShapePoint "{611A33DC33BCA3F6}" {
+    Position 23.871 8.36 16.422
+   }
+   ShapePoint "{611A33DC3322DEB7}" {
+    Position 43.38 14.106 29.598
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{D6BDCB7A8BDCB610}Prefabs/WEGenerators/Walls/Crashbarrier/WG_CrashBarrier_01A.et" {
+    coords 0 0 0
+    Flags 1048579
+    {
+     $grp SCR_DestructibleEntity : "{04A36304123DADEF}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_8m_V1.et" {
+      {
+       coords -1.816 -0.792 -0.287
+       angleY -36.721
+      }
+      {
+       coords 10.752 3.959 8.276
+       angleY -31.838
+      }
+      {
+       coords 30.184 10.217 20.689
+       angleY -34.024
+      }
+      {
+       coords 36.585 12.103 25.01
+       angleY -34.024
+      }
+     }
+     $grp SCR_DestructibleEntity : "{68F757E4AEF922C1}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_8m_V2.et" {
+      {
+       coords 4.256 1.78 4.243
+       angleY -31.838
+      }
+      {
+       coords 17.247 6.138 12.309
+       angleY -31.838
+      }
+      {
+       coords 23.783 8.33 16.368
+       angleY -34.024
+      }
+     }
+     SCR_DestructibleEntity : "{979B717B2D7DE4F3}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_Start.et" {
+      coords -1.999 -0.869 -0.423
+      angleY -36.721
+     }
+     SCR_DestructibleEntity : "{B62582848252DF2B}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_End.et" {
+      coords 43.026 14.002 29.359
+      angleY -34.024
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 11352.651 70.479 4863.62
+  Points {
+   ShapePoint "{611A33DC1A88E88E}" {
+    Position 0 0.001 0
+   }
+   ShapePoint "{611A33DC1A881BA2}" {
+    Position 14.125 0.097 -3.184
+   }
+   ShapePoint "{611A33DC1EC6F872}" {
+    Position 35.884 -0.441 -8.314
+   }
+   ShapePoint "{611A33DC1F7AAFAA}" {
+    Position 56.268 -1.113 -14.366
+   }
+   ShapePoint "{611A33DC135D1C23}" {
+    Position 75.82 -2.094 -21.5
+   }
+   ShapePoint "{611A33DC1587FE51}" {
+    Position 92.5 -3.249 -27.946
+   }
+   ShapePoint "{611A33DC1785C4DB}" {
+    Position 106.771 -5.33 -37.398
+   }
+   ShapePoint "{611A33DC098FB1EB}" {
+    Position 119.669 -8.821 -51.134
+   }
+   ShapePoint "{611A33DC0A0F47A6}" {
+    Position 135.646 -15.152 -81.375
+   }
+   ShapePoint "{611A33DC0D6C0443}" {
+    Position 157.261 -23.763 -116.156
+   }
+   ShapePoint "{611A33DC00AF9101}" {
+    Position 168.27 -26.018 -129.052
+   }
+   ShapePoint "{611A33DC002F53DB}" {
+    Position 181.975 -28.428 -140.43
+   }
+   ShapePoint "{611A33DC01483319}" {
+    Position 212.019 -30.864 -152.541
+   }
+   ShapePoint "{611A33DC033C6DFE}" {
+    Position 262.59 -32.986 -166.641
+   }
+   ShapePoint "{611A33DC04F18F9F}" {
+    Position 278.568 -33.709 -172.43
+   }
+   ShapePoint "{611A33DC054747AF}" {
+    Position 296.573 -36.538 -184.478
+   }
+   ShapePoint "{611A33DC0629CA4E}" {
+    Position 301.629 -39.227 -199.404
+   }
+   ShapePoint "{611A33DFF9192D31}" {
+    Position 304.448 -41.361 -213.775
+   }
+   ShapePoint "{611A33DFFAFDAAA5}" {
+    Position 313.094 -42.871 -229.656
+   }
+   ShapePoint "{611A33DFFBBD7846}" {
+    Position 327.584 -43.583 -242.595
+   }
+   ShapePoint "{611A33DFFDB7A76A}" {
+    Position 356.045 -43.27 -254.86
+   }
+   ShapePoint "{611A33DFFE5A9966}" {
+    Position 429.137 -41.041 -280.069
+   }
+   ShapePoint "{611A33DFFF67CF36}" {
+    Position 466.377 -40.214 -296.364
+   }
+   ShapePoint "{611A33DFF11FB066}" {
+    Position 472.717 -41.325 -310.393
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{BAE9FF9A3718393E}Prefabs/WEGenerators/Walls/Crashbarrier/WG_CrashBarrier_01B.et" {
+    coords 0 0 0
+    Flags 1048579
+    {
+     SCR_DestructibleEntity : "{02985B6E455AD79C}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_End2.et" {
+      coords 471.264 -41.073 -307.196
+      angleY 65.56
+     }
+     $grp SCR_DestructibleEntity : "{04A36304123DADEF}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_8m_V1.et" {
+      {
+       coords 11.534 0.079 -2.6
+       angleY 13.207
+      }
+      {
+       coords 19.272 -0.086 -4.416
+       angleY 13.207
+      }
+      {
+       coords 34.797 -0.418 -8.059
+       angleY 16.37
+      }
+      {
+       coords 42.421 -0.665 -10.298
+       angleY 16.37
+      }
+      {
+       coords 53.882 -1.036 -13.665
+       angleY 19.654
+      }
+      {
+       coords 80.017 -2.427 -23.181
+       angleY 20.892
+      }
+      {
+       coords 97.816 -4.085 -31.682
+       angleY 32.549
+      }
+      {
+       coords 129.627 -12.833 -70.389
+       angleY 61.284
+      }
+      {
+       coords 135.273 -15.009 -80.695
+       angleY 58.199
+      }
+      {
+       coords 139.373 -16.641 -87.307
+       angleY 58.199
+      }
+      {
+       coords 147.573 -19.906 -100.533
+       angleY 58.199
+      }
+      {
+       coords 151.673 -21.538 -107.145
+       angleY 58.199
+      }
+      {
+       coords 155.799 -23.181 -113.799
+       angleY 50.732
+      }
+      {
+       coords 160.78 -24.314 -119.891
+       angleY 50.732
+      }
+      {
+       coords 168.267 -26.017 -129.049
+       angleY 39.702
+      }
+      {
+       coords 180.428 -28.156 -139.146
+       angleY 22.978
+      }
+      {
+       coords 195.021 -29.407 -145.334
+       angleY 22.978
+      }
+      {
+       coords 217.298 -30.997 -153.72
+       angleY 15.922
+      }
+      {
+       coords 224.936 -31.332 -155.899
+       angleY 15.922
+      }
+      {
+       coords 232.574 -31.668 -158.078
+       angleY 15.922
+      }
+      {
+       coords 240.212 -32.003 -160.257
+       angleY 15.922
+      }
+      {
+       coords 266.831 -33.181 -168.33
+       angleY 19.252
+      }
+      {
+       coords 297.691 -37.555 -190.341
+       angleY 66.516
+      }
+      {
+       coords 302.547 -40.06 -205.25
+       angleY 77.425
+      }
+      {
+       coords 304.269 -41.239 -212.973
+       angleY 62.124
+      }
+      {
+       coords 307.973 -41.923 -219.975
+       angleY 62.124
+      }
+      {
+       coords 325.895 -43.48 -240.939
+       angleY 24.784
+      }
+      {
+       coords 333.113 -43.43 -244.272
+       angleY 24.784
+      }
+      {
+       coords 362.319 -43.053 -256.895
+       angleY 19.128
+      }
+      {
+       coords 369.827 -42.827 -259.499
+       angleY 19.128
+      }
+      {
+       coords 399.86 -41.923 -269.915
+       angleY 19.128
+      }
+      {
+       coords 414.876 -41.47 -275.123
+       angleY 19.128
+      }
+      {
+       coords 426.161 -41.131 -279.037
+       angleY 23.308
+      }
+      {
+       coords 466.332 -40.215 -296.345
+       angleY 65.56
+      }
+     }
+     $grp SCR_DestructibleEntity : "{264B9F9E83A58187}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_4m_V2.et" {
+      {
+       coords 50.045 -0.912 -12.538
+       angleY 16.37
+      }
+      {
+       coords 165.761 -25.447 -125.983
+       angleY 50.732
+      }
+      {
+       coords 255.489 -32.674 -164.615
+       angleY 15.922
+      }
+      {
+       coords 469.613 -40.786 -303.563
+       angleY 65.56
+      }
+     }
+     SCR_DestructibleEntity : "{32E1B4D5E24832D1}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_start2.et" {
+      coords 0.003 0.001 0.015
+      angleY 12.701
+     }
+     $grp SCR_DestructibleEntity : "{4A1FAB7E3F610EA9}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_4m_V1.et" {
+      {
+       coords 68.84 -1.757 -19.007
+       angleY 19.654
+      }
+      {
+       coords 87.43 -2.915 -26.01
+       angleY 20.892
+      }
+      {
+       coords 115.576 -7.793 -47.035
+       angleY 45.04
+      }
+      {
+       coords 133.383 -14.281 -77.245
+       angleY 61.284
+      }
+      {
+       coords 274.33 -33.519 -170.949
+       angleY 19.252
+      }
+      {
+       coords 291.258 -35.718 -180.964
+       angleY 33.468
+      }
+      {
+       coords 323.042 -43.306 -238.141
+       angleY 44.436
+      }
+      {
+       coords 422.384 -41.244 -277.727
+       angleY 19.128
+      }
+      {
+       coords 462.66 -40.299 -294.762
+       angleY 23.308
+      }
+     }
+     $grp SCR_DestructibleEntity : "{68F757E4AEF922C1}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_8m_V2.et" {
+      {
+       coords 3.73 0.026 -0.841
+       angleY 12.701
+      }
+      {
+       coords 27.01 -0.252 -6.232
+       angleY 13.207
+      }
+      {
+       coords 61.361 -1.397 -16.336
+       angleY 19.654
+      }
+      {
+       coords 72.603 -1.939 -20.351
+       angleY 20.892
+      }
+      {
+       coords 91.16 -3.16 -27.434
+       angleY 32.549
+      }
+      {
+       coords 104.513 -5.016 -35.957
+       angleY 45.04
+      }
+      {
+       coords 110.045 -6.405 -41.496
+       angleY 45.04
+      }
+      {
+       coords 118.359 -8.492 -49.822
+       angleY 61.284
+      }
+      {
+       coords 122.115 -9.939 -56.678
+       angleY 61.284
+      }
+      {
+       coords 125.871 -11.386 -63.534
+       angleY 61.284
+      }
+      {
+       coords 143.473 -18.273 -93.92
+       angleY 58.199
+      }
+      {
+       coords 174.328 -27.083 -134.081
+       angleY 39.702
+      }
+      {
+       coords 187.724 -28.781 -142.24
+       angleY 22.978
+      }
+      {
+       coords 202.317 -30.032 -148.427
+       angleY 22.978
+      }
+      {
+       coords 209.66 -30.661 -151.541
+       angleY 15.922
+      }
+      {
+       coords 247.851 -32.339 -162.436
+       angleY 15.922
+      }
+      {
+       coords 259.332 -32.843 -165.711
+       angleY 19.252
+      }
+      {
+       coords 278.103 -33.688 -172.267
+       angleY 33.468
+      }
+      {
+       coords 284.68 -34.703 -176.615
+       angleY 33.468
+      }
+      {
+       coords 294.568 -36.228 -183.152
+       angleY 66.516
+      }
+      {
+       coords 300.835 -38.889 -197.576
+       angleY 77.425
+      }
+      {
+       coords 311.699 -42.613 -227.02
+       angleY 44.436
+      }
+      {
+       coords 317.37 -42.959 -232.581
+       angleY 44.436
+      }
+      {
+       coords 340.33 -43.379 -247.604
+       angleY 24.784
+      }
+      {
+       coords 347.548 -43.329 -250.937
+       angleY 24.784
+      }
+      {
+       coords 354.811 -43.279 -254.291
+       angleY 19.128
+      }
+      {
+       coords 377.335 -42.601 -262.103
+       angleY 19.128
+      }
+      {
+       coords 384.843 -42.375 -264.707
+       angleY 19.128
+      }
+      {
+       coords 392.351 -42.149 -267.311
+       angleY 19.128
+      }
+      {
+       coords 407.368 -41.697 -272.519
+       angleY 19.128
+      }
+      {
+       coords 433.461 -40.964 -282.182
+       angleY 23.308
+      }
+      {
+       coords 440.761 -40.798 -285.327
+       angleY 23.308
+      }
+      {
+       coords 448.06 -40.632 -288.472
+       angleY 23.308
+      }
+      {
+       coords 455.36 -40.465 -291.617
+       angleY 23.308
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 11811.941 25.734 4527.106
+  Points {
+   ShapePoint "{611A33DFDB0CBF67}" {
+    Position 0 -0 0
+   }
+   ShapePoint "{611A33DFDB0CAA4D}" {
+    Position -9.66 -1.721 -8.624
+   }
+   ShapePoint "{611A33DFDDE6548E}" {
+    Position -24.951 -4.625 -14.32
+   }
+   ShapePoint "{611A33DFDEB9DD95}" {
+    Position -32.949 -6.352 -12.227
+   }
+   ShapePoint "{611A33DFDFC6FE16}" {
+    Position -46.859 -9.061 -4.17
+   }
+   ShapePoint "{611A33DFD10955B1}" {
+    Position -68.478 -12.953 13.059
+   }
+   ShapePoint "{611A33DFD594DCAF}" {
+    Position -101.757 -17.422 39.157
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{BAE9FF9A3718393E}Prefabs/WEGenerators/Walls/Crashbarrier/WG_CrashBarrier_01B.et" {
+    coords 0 0 0
+    Flags 1048579
+    {
+     SCR_DestructibleEntity : "{02985B6E455AD79C}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_End2.et" {
+      coords -97.895 -16.894 36.13
+      angleY -141.912
+     }
+     $grp SCR_DestructibleEntity : "{04A36304123DADEF}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_8m_V1.et" {
+      {
+       coords -8.744 -1.558 -7.806
+       angleY -201.896
+      }
+      {
+       coords -16.009 -2.933 -10.726
+       angleY -201.896
+      }
+      {
+       coords -44.961 -8.687 -5.172
+       angleY -142.215
+      }
+      {
+       coords -57.4 -10.944 4.471
+       angleY -142.215
+      }
+      {
+       coords -66.749 -12.64 11.719
+       angleY -141.912
+      }
+      {
+       coords -79.192 -14.339 21.471
+       angleY -141.912
+      }
+      {
+       coords -85.413 -15.189 26.347
+       angleY -141.912
+      }
+     }
+     SCR_DestructibleEntity : "{264B9F9E83A58187}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_4m_V2.et" {
+      coords -63.62 -12.072 9.293
+      angleY -142.215
+     }
+     SCR_DestructibleEntity : "{32E1B4D5E24832D1}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_start2.et" {
+      coords 0.01 -0 -0.011
+      angleY -221.757
+     }
+     $grp SCR_DestructibleEntity : "{68F757E4AEF922C1}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_8m_V2.et" {
+      {
+       coords -2.828 -0.504 -2.524
+       angleY -221.757
+      }
+      {
+       coords -23.32 -4.317 -13.664
+       angleY -171.512
+      }
+      {
+       coords -31.065 -5.954 -12.508
+       angleY -152.169
+      }
+      {
+       coords -37.991 -7.316 -8.852
+       angleY -152.169
+      }
+      {
+       coords -51.181 -9.815 -0.35
+       angleY -142.215
+      }
+      {
+       coords -72.971 -13.489 16.595
+       angleY -141.912
+      }
+      {
+       coords -91.635 -16.039 31.223
+       angleY -141.912
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 11706.659 8.547 4558.073
+  Points {
+   ShapePoint "{611A33DFCC229FF4}" {
+    Position 0 0 0
+   }
+   ShapePoint "{611A33DFCC228507}" {
+    Position 16.589 2.084 -14.113
+   }
+   ShapePoint "{611A33DFCE4ADA0E}" {
+    Position 43.873 6.472 -36.328
+   }
+   ShapePoint "{611A33DFCFCDE61F}" {
+    Position 59.727 9.322 -47.155
+   }
+   ShapePoint "{611A33DFC17E5713}" {
+    Position 69.485 11.01 -52.487
+   }
+   ShapePoint "{611A33DFC2DBCFA3}" {
+    Position 82.068 12.791 -54.894
+   }
+   ShapePoint "{611A33DFC31DFCD4}" {
+    Position 92.36 14.162 -52.51
+   }
+   ShapePoint "{611A33DFC4F962A8}" {
+    Position 103.269 15.701 -47.159
+   }
+   ShapePoint "{611A33DFC7085025}" {
+    Position 113.462 17.291 -37.743
+   }
+   ShapePoint "{611A33DFB8975F44}" {
+    Position 122.729 18.873 -24.551
+   }
+   ShapePoint "{611A33DFBBD557FA}" {
+    Position 127.341 20.172 -10.879
+   }
+   ShapePoint "{611A33DFBB6EBC86}" {
+    Position 127.075 21.112 2.403
+   }
+   ShapePoint "{611A33DFBC2A65FE}" {
+    Position 123.514 21.608 12.353
+   }
+   ShapePoint "{611A33DFBD9CC288}" {
+    Position 116.924 21.846 18.876
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{BAE9FF9A3718393E}Prefabs/WEGenerators/Walls/Crashbarrier/WG_CrashBarrier_01B.et" {
+    coords 0 0 0
+    Flags 1048579
+    {
+     SCR_DestructibleEntity : "{02985B6E455AD79C}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_End2.et" {
+      coords 118.291 21.789 17.41
+      angleY -132.985
+     }
+     $grp SCR_DestructibleEntity : "{04A36304123DADEF}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_8m_V1.et" {
+      {
+       coords 21.105 2.855 -17.744
+       angleY 39.223
+      }
+      {
+       coords 33.331 4.797 -27.723
+       angleY 39.223
+      }
+      {
+       coords 42.519 6.257 -35.223
+       angleY 34.738
+      }
+      {
+       coords 48.984 7.409 -39.705
+       angleY 34.738
+      }
+      {
+       coords 69.008 10.928 -52.22
+       angleY 11.57
+      }
+      {
+       coords 111.706 17.018 -39.34
+       angleY -53.302
+      }
+      {
+       coords 116.433 17.814 -32.997
+       angleY -53.302
+      }
+      {
+       coords 121.19 18.614 -26.615
+       angleY -68.65
+      }
+      {
+       coords 124.072 19.344 -19.242
+       angleY -68.65
+      }
+      {
+       coords 123.743 21.565 11.56
+       angleY -132.985
+      }
+     }
+     $grp SCR_DestructibleEntity : "{264B9F9E83A58187}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_4m_V2.et" {
+      {
+       coords 39.443 5.769 -32.713
+       angleY 39.223
+      }
+      {
+       coords 55.448 8.56 -44.188
+       angleY 34.738
+      }
+      {
+       coords 76.721 12.028 -53.799
+       angleY 11.57
+      }
+      {
+       coords 88.363 13.625 -53.218
+       angleY -10.048
+      }
+      {
+       coords 99.356 15.15 -49.068
+       angleY -26.009
+      }
+      {
+       coords 108.766 16.561 -42.014
+       angleY -42.287
+      }
+     }
+     SCR_DestructibleEntity : "{32E1B4D5E24832D1}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_start2.et" {
+      coords 0.01 0 0.011
+      angleY 40.389
+     }
+     $grp SCR_DestructibleEntity : "{4A1FAB7E3F610EA9}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_4m_V1.et" {
+      {
+       coords 65.558 10.329 -50.286
+       angleY 29.267
+      }
+      {
+       coords 127.03 20.654 -3.893
+       angleY -89.585
+      }
+      {
+       coords 124.853 21.357 7.723
+       angleY -106.13
+      }
+     }
+     $grp SCR_DestructibleEntity : "{68F757E4AEF922C1}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_8m_V2.et" {
+      {
+       coords 2.899 0.364 -2.466
+       angleY 40.389
+      }
+      {
+       coords 8.927 1.122 -7.595
+       angleY 40.389
+      }
+      {
+       coords 14.993 1.883 -12.755
+       angleY 39.223
+      }
+      {
+       coords 27.218 3.826 -22.734
+       angleY 39.223
+      }
+      {
+       coords 58.7 9.14 -46.443
+       angleY 29.267
+      }
+      {
+       coords 80.603 12.581 -54.593
+       angleY -10.048
+      }
+      {
+       coords 92.268 14.15 -52.527
+       angleY -26.009
+      }
+      {
+       coords 102.923 15.653 -47.328
+       angleY -42.287
+      }
+      {
+       coords 126.972 20.078 -11.822
+       angleY -89.585
+      }
+      {
+       coords 127.058 20.944 0.096
+       angleY -106.13
+      }
+     }
+    }
+   }
+  }
+ }
+}
+SplineShapeEntity {
+ coords 11583.454 41.82 4745.784
+ Points {
+  ShapePoint "{611A33DA7F752864}" {
+   Position 0.559 0 0
+  }
+  ShapePoint "{611A33DA7F7554FC}" {
+   Position -1.234 1.534 12.513
+  }
+  ShapePoint "{611A33DA3C6B7B5B}" {
+   Position -1.409 2.372 17.403
+  }
+  ShapePoint "{611A33DA3EC192B8}" {
+   Position -0.569 3.801 25.333
+  }
+  ShapePoint "{611A33DA714463A6}" {
+   Position 0.606 5.665 29.362
+  }
+  ShapePoint "{611A33DA757DE30E}" {
+   Position 4.915 9.171 38.112
+  }
+ }
+ LineColor 0 0 0 0
+ {
+  WallGeneratorEntity : "{D6BDCB7A8BDCB610}Prefabs/WEGenerators/Walls/Crashbarrier/WG_CrashBarrier_01A.et" {
+   coords 0 0 0
+   Flags 1048579
+   {
+    $grp SCR_DestructibleEntity : "{04A36304123DADEF}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_8m_V1.et" {
+     {
+      _layer 41
+      coords 0.525 0.029 0.237
+      angleY -98.155
+     }
+     {
+      _layer 41
+      coords -1.341 2.125 15.922
+      angleY -85.315
+     }
+     {
+      _layer 41
+      coords 0.154 4.922 27.422
+      angleY -65.993
+     }
+    }
+    SCR_DestructibleEntity : "{264B9F9E83A58187}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_4m_V2.et" {
+     _layer 41
+     coords -0.697 3.524 23.772
+     angleY -76.872
+    }
+    $grp SCR_DestructibleEntity : "{4A1FAB7E3F610EA9}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_4m_V1.et" {
+     {
+      _layer 41
+      coords -0.595 0.987 8.049
+      angleY -98.155
+     }
+     {
+      _layer 41
+      coords -1.158 1.469 11.98
+      angleY -92.651
+     }
+    }
+    SCR_DestructibleEntity : "{979B717B2D7DE4F3}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_Start.et" {
+     _layer 41
+     coords 0.559 0 0
+     angleY -98.155
+    }
+    SCR_DestructibleEntity : "{B62582848252DF2B}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_End.et" {
+     _layer 41
+     coords 3.213 7.652 34.292
+     angleY -65.993
+    }
+   }
+  }
+ }
+}

@@ -64,4 +64,30 @@ $grp GenericEntity : "{D264909385904B79}Prefabs/ScenarioFramework/MapMarker.et" 
   }
   coords 10615.799 77.924 5384.57
  }
+ TrapezakiBeach {
+  components {
+   SCR_EditableCommentComponent "{610963C3BE38F2BE}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{610963C3FBF3BBD6}" {
+     Name "TrapezakiBeach"
+    }
+   }
+   SCR_MapDescriptorComponent "{610963C3C8866D7E}" {
+    DisplayName "TrapezakiBeach"
+   }
+  }
+  coords 10657.172 28.555 4746.798
+ }
+ Quarry {
+  components {
+   SCR_EditableCommentComponent "{610963C3BE38F2BE}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{610963C3FBF3BBD6}" {
+     Name "Quarry"
+    }
+   }
+   SCR_MapDescriptorComponent "{610963C3C8866D7E}" {
+    DisplayName "Quarry"
+   }
+  }
+  coords 10837.277 107.314 5370.273
+ }
 }
