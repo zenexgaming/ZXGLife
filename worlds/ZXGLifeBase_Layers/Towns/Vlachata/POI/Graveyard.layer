@@ -1,0 +1,52 @@
+SCR_DestructibleBuildingEntity : "{2FD3DE12489E839C}Prefabs/Structures/Cultural/Cemeteries/Tombstones/GraveStone_E_02_Base.et" {
+ coords 11419.881 0.001 5011.933
+}
+SCR_DestructibleBuildingEntity : "{39D2958B7511D5DC}Prefabs/Structures/Cultural/Cemeteries/Tombstones/GraveStone_E_01_Base.et" {
+ coords 11429.097 -0 5002.151
+}
+SCR_DestructibleBuildingEntity : "{617D7CE9A6B13AD8}Prefabs/Structures/Cultural/Cemeteries/Graves/Grave_E_01_CoveredDouble.et" {
+ coords 11418.48 0.001 4998.209
+}
+SCR_DestructibleBuildingEntity : "{6BA249AB4559ACBE}Prefabs/Structures/Cultural/Cemeteries/Graves/Grave_E_01_Base.et" {
+ coords 11436.382 0 5006.926
+}
+SCR_DestructibleBuildingEntity : "{7A4C59C309001978}Prefabs/Structures/Cultural/Cemeteries/Tombstones/GraveStone_E_02_D.et" {
+ coords 11424.942 -0 5005.745
+}
+SCR_DestructibleBuildingEntity : "{7F56600080DA1A25}Prefabs/Structures/Cultural/Cemeteries/Graves/Grave_E_01_Frame_V1.et" {
+ coords 11423.797 0 4995.013
+}
+SCR_DestructibleBuildingEntity : "{90582DA173C00605}Prefabs/Structures/Cultural/Cemeteries/Tombstones/GraveStone_E_01_A.et" {
+ coords 11425.06 0 5021.154
+}
+StaticModelEntity : "{C01F4E10982254F3}Prefabs/Structures/Cultural/Cemeteries/Tombstones/CrossSmall_E_01.et" {
+ coords 11413.86 0 5019.472
+}
+$grp SCR_DestructibleBuildingEntity : "{CEB004E2CC4D880A}Prefabs/Structures/Cultural/Cemeteries/Tombstones/GraveStone_E_02_A.et" {
+ {
+  coords 11427.404 0.001 5016.376
+ }
+ {
+  coords 11421.213 0 4997.796
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{E17539BAD367C48C}Prefabs/Structures/Cultural/Cemeteries/Graves/Grave_E_01_Covered.et" {
+ {
+  coords 11423.154 0 5011.441
+ }
+ {
+  coords 11418.876 0 5026.505
+ }
+ {
+  coords 11426.507 0 5002.45
+ }
+}
+SCR_DestructibleBuildingEntity : "{E608836E239F9AF8}Prefabs/Structures/Cultural/Cemeteries/Graves/Grave_E_01_FrameSquare_V1.et" {
+ coords 11429.941 0.001 4997.251
+}
+SCR_DestructibleBuildingEntity : "{F384732A9336CBAF}Prefabs/Structures/Cultural/Cemeteries/Graves/GraveFence_E_02.et" {
+ coords 11417.059 -0 5011.195
+}
+SCR_DestructibleBuildingEntity : "{FC0C1941CF04892B}Prefabs/Structures/Cultural/Cemeteries/Tombstones/GraveStone_E_01_B.et" {
+ coords 11418.193 0.001 5004.431
+}

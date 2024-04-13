@@ -1,4 +1,123 @@
+PolylineShapeEntity {
+ coords 11250.229 71.523 4973.014
+ Points {
+  ShapePoint "{611A2020B92408DE}" {
+   Position 0 -0 0
+  }
+  ShapePoint "{611A2020B9243564}" {
+   Position -24.689 -0.413 14.388
+  }
+ }
+ LineColor 0 0 0 0
+ {
+  WallGeneratorEntity : "{5B6E89F5F31C58DE}Prefabs/WEGenerators/Walls/Pole/WG_PoleFence_01.et" {
+   coords 0 0 0
+   Flags 1048579
+   {
+    SCR_DestructibleEntity : "{0568EFE48849C7A8}PrefabLibrary/Walls/Pole/PoleFence_01_3m_End.et" {
+     coords -19.569 -0.327 11.404
+     angleY -149.769
+    }
+    $grp SCR_DestructibleEntity : "{66A81F198B1F2D11}PrefabLibrary/Walls/Pole/PoleFence_01_D.et" {
+     {
+      coords -5.14 -0.086 2.995
+      angleY -149.769
+     }
+     {
+      coords -9.724 -0.163 5.667
+      angleY -149.769
+     }
+    }
+    $grp SCR_DestructibleEntity : "{79BB355CA784598B}PrefabLibrary/Walls/Pole/PoleFence_01_6m.et" {
+     {
+      coords 0.072 0.001 -0.042
+      angleY -149.769
+     }
+     {
+      coords -14.309 -0.239 8.338
+      angleY -149.769
+     }
+    }
+   }
+  }
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{00FD2B4A0BDEC271}Prefabs/Structures/Commercial/FuelStations/FuelStation_E_01/FuelStation_E_01_building.et" {
+ {
+  coords 11255.091 0.228 4976.734
+  angleY -61.6
+  {
+   GenericEntity {
+    ID "5B20ACED1D206A6F"
+    {
+     GenericEntity {
+      ID "5B18BE720DF26EFF"
+      coords 1.703 0.1 -0.983
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 10754.21 0.657 5300.422
+  angleY -175.521
+ }
+}
+SCR_DestructibleBuildingEntity : "{2F830B9B3A7D4855}Prefabs/Structures/Commercial/Shops/ShopHouse_E_2I01t_foodstore.et" {
+ coords 10618.81 1.366 5394.294
+ angleY 27.347
+}
+SCR_DestructibleBuildingEntity : "{65ED02B8B05842F8}Prefabs/Structures/Commercial/FuelStations/FuelStation_E_01/FuelStation_E_01_platform.et" {
+ coords 11240.656 0.124 4983.807
+ angleY 29.542
+}
+$grp SCR_DestructibleBuildingEntity : "{A4D0B331414901A5}Prefabs/Structures/Commercial/FuelStations/FuelStation_E_01/FuelStation_E_01_tankpistol.et" {
+ {
+  coords 11241.819 0.324 4985.986
+  angleY 27.505
+ }
+ {
+  coords 11239.6 0.307 4987.212
+  angleY 27.505
+ }
+}
 SCR_DestructibleBuildingEntity : "{C7B11EF2ABFDF49F}Prefabs/Structures/Commercial/Pubs/PubVillage_E_2L01/PubVillage_E_2L01_V2.et" {
- coords 11592.118 0.737 4655.45
+ coords 11646.308 0.593 4622.863
  angleY 30.433
+}
+SCR_DestructibleBuildingEntity : "{CFE8511B2B7E8AAA}Prefabs/Structures/Commercial/Shops/ShopModern_E_01.et" {
+ coords 11302.711 5.896 4874.654
+ angleY -176.304
+}
+$grp GenericEntity : "{D264909385904B79}Prefabs/ScenarioFramework/MapMarker.et" {
+ TrapezakiBeach {
+  components {
+   SCR_EditableCommentComponent "{610963C3BE38F2BE}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{610963C3FBF3BBD6}" {
+     Name "TrapezakiBeach"
+    }
+   }
+   SCR_MapDescriptorComponent "{610963C3C8866D7E}" {
+    DisplayName "TrapezakiBeach"
+   }
+  }
+  coords 10657.172 28.555 4746.798
+ }
+ Quarry {
+  components {
+   SCR_EditableCommentComponent "{610963C3BE38F2BE}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{610963C3FBF3BBD6}" {
+     Name "Quarry"
+    }
+   }
+   SCR_MapDescriptorComponent "{610963C3C8866D7E}" {
+    DisplayName "Quarry"
+   }
+  }
+  coords 10837.277 107.314 5370.273
+ }
+}
+SCR_DestructibleBuildingEntity : "{E9F0814557EC3DA9}Prefabs/Structures/Commercial/FuelStations/FuelStation_E_01/FuelStation_E_01_roof.et" {
+ coords 11240.613 0.356 4987.089
+ angleY 30.698
 }

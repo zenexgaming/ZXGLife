@@ -404,6 +404,9 @@ SCR_DestructibleBuildingEntity : "{965AFAD159CB0C8A}Prefabs/Structures/Commercia
  coords 7551.924 0.632 6731.135
  angleY -44.999
 }
+SCR_DestructibleBuildingEntity : "{988FF0CF4EDF72D6}Prefabs/Structures/Cultural/Churches/Church_01/Church_01_yellowdecor.et" {
+ coords 11620.188 5.837 4851.028
+}
 SCR_DestructibleBuildingEntity : "{9CFA6E8952B4E00D}Prefabs/Structures/Ruins/HouseRuins/HouseRuin_01/HouseRuin_01_Wall.et" {
  coords 7223.953 -0.017 7097.325
  angleY -14.282

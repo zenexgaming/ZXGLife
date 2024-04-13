@@ -1,0 +1,67 @@
+$grp GenericEntity : "{D264909385904B79}Prefabs/ScenarioFramework/MapMarker.et" {
+ Graveyard {
+  components {
+   SCR_EditableCommentComponent "{610963C3BE38F2BE}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{610963C3FBF3BBD6}" {
+     Name "Graveyard"
+    }
+   }
+   SCR_MapDescriptorComponent "{610963C3C8866D7E}" {
+    DisplayName "Graveyard"
+   }
+  }
+  coords 11411.527 70.532 5006.523
+ }
+ Church {
+  components {
+   SCR_EditableCommentComponent "{610963C3BE38F2BE}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{610963C3FBF3BBD6}" {
+     Name "Church"
+    }
+   }
+   SCR_MapDescriptorComponent "{610963C3C8866D7E}" {
+    DisplayName "Church"
+   }
+  }
+  coords 11612.898 72.418 4853.348
+ }
+ Pub {
+  components {
+   SCR_EditableCommentComponent "{610963C3BE38F2BE}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{610963C3FBF3BBD6}" {
+     Name "Pub"
+    }
+   }
+   SCR_MapDescriptorComponent "{610963C3C8866D7E}" {
+    DisplayName "Pub"
+   }
+  }
+  coords 11637.818 13.298 4620.025
+ }
+ Hotel {
+  components {
+   SCR_EditableCommentComponent "{610963C3BE38F2BE}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{610963C3FBF3BBD6}" {
+     Name "Hotel"
+    }
+   }
+   SCR_MapDescriptorComponent "{610963C3C8866D7E}" {
+    DisplayName "Hotel"
+   }
+  }
+  coords 10856.116 41.891 4929.295
+ }
+ Cafe {
+  components {
+   SCR_EditableCommentComponent "{610963C3BE38F2BE}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{610963C3FBF3BBD6}" {
+     Name "Cafe/Pastry"
+    }
+   }
+   SCR_MapDescriptorComponent "{610963C3C8866D7E}" {
+    DisplayName "Cafe"
+   }
+  }
+  coords 10615.799 77.924 5384.57
+ }
+}

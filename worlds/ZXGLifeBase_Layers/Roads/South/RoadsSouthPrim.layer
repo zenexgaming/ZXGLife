@@ -597,8 +597,11 @@ $grp SplineShapeEntity {
      }
     }
    }
+   ShapePoint "{611A2023C3496177}" {
+    Position 2849.354 32.927 -942.999
+   }
    ShapePoint "{6102872518849663}" {
-    Position 2875.463 35.424 -943.093
+    Position 2876.121 35.558 -938.842
    }
   }
   {
@@ -672,7 +675,10 @@ $grp SplineShapeEntity {
         }
        }
        ShapePoint "{6102872518871859}" {
-        Position 2875.463 35.424 -943.093
+        Position 2849.354 32.927 -942.999
+       }
+       ShapePoint "{611A2023C349F3D4}" {
+        Position 2876.121 35.558 -938.842
        }
       }
       IsClosedSpline 0
@@ -1482,4 +1488,62 @@ $grp SplineShapeEntity {
    }
   }
  }
+ {
+  coords 11134.807 57.925 4966.575
+  Points {
+   ShapePoint "{611A2020399E1625}" {
+    Position 0 0.003 0
+   }
+   ShapePoint "{611A2020399E3CA2}" {
+    Position -28.834 -2.857 -7.455
+   }
+   ShapePoint "{611A20203A1CBE86}" {
+    Position -64.505 -5.829 -6.279
+   }
+   ShapePoint "{611A20203BA23EA3}" {
+    Position -75.12 -8.005 -26.382
+   }
+   ShapePoint "{611A20203CCF00DE}" {
+    Position -55.682 -7.342 -45.256
+   }
+   ShapePoint "{611A20203C66C6B9}" {
+    Position -49.866 -9.57 -79.561
+   }
+  }
+  {
+   RoadGeneratorEntity : "{8E689EDC77E2A3DC}Prefabs/WEGenerators/Roads/Asphalt/RG_Road_Asphalt_E_01_Narrow.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "556C6554AF23997E"
+      SplinePoints {
+       ShapePoint "{556C6554868CB1B0}" {
+        Position 0 0.002 0
+       }
+       ShapePoint "{556C6554868CB0CE}" {
+        Position -28.834 -2.857 -7.455
+       }
+       ShapePoint "{611A202032778FBA}" {
+        Position -64.505 -5.829 -6.279
+       }
+       ShapePoint "{611A202032778E17}" {
+        Position -75.12 -8.005 -26.382
+       }
+       ShapePoint "{611A202032778EF1}" {
+        Position -55.682 -7.342 -45.256
+       }
+       ShapePoint "{611A202032778EA2}" {
+        Position -49.866 -9.57 -79.561
+       }
+      }
+      IsClosedSpline 0
+      Width 8
+     }
+    }
+   }
+  }
+ }
+}
+SCR_DestructibleBuildingEntity : "{39FC44E47347DF5D}Prefabs/Structures/Services/Hotels/MountainHotel_01/MountainHotel_01_green.et" {
+ coords 10860.553 -0.004 4942.273
 }
