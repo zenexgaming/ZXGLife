@@ -3450,7 +3450,7 @@ $grp PolylineShapeEntity {
   coords 7239.889 3.438 7020.904
   Points {
    ShapePoint "{61196417EFBAA8F4}" {
-    Position 0.727 -0 0.204
+    Position 0.727 0 0.204
    }
    ShapePoint "{61196417EFBAD00D}" {
     Position -19.684 0.053 -5.52
@@ -3464,7 +3464,7 @@ $grp PolylineShapeEntity {
     {
      $grp SCR_DestructibleEntity : "{1914585909D1984B}PrefabLibrary/Walls/Wooden/WoodenWall_01_8m.et" {
       {
-       coords 0.757 -0 0.212
+       coords 0.757 0 0.212
        angleY -195.663
       }
       {
@@ -3526,7 +3526,7 @@ $grp PolylineShapeEntity {
   coords 7233.261 3.438 7043.529
   Points {
    ShapePoint "{61196417BB7CF047}" {
-    Position 0.146 -0 0.045
+    Position 0.146 0 0.045
    }
    ShapePoint "{61196417BB7C1A8F}" {
     Position 18.035 1.268 5.615
@@ -3566,7 +3566,7 @@ $grp PolylineShapeEntity {
   coords 7242.461 3.438 7015.083
   Points {
    ShapePoint "{61196417ACE26891}" {
-    Position 0.105 -0 0.035
+    Position 0.105 0 0.035
    }
    ShapePoint "{61196417ACFD9682}" {
     Position 18.884 0.895 6.226
@@ -4041,7 +4041,7 @@ $grp PolylineShapeEntity {
      }
      $grp SCR_DestructibleEntity : "{CBB323D90F2FF29F}Prefabs/Structures/Walls/Net/NetFence_02/NetFence_02_8m.et" {
       {
-       coords -2.262 -0 5.518
+       coords -2.262 0 5.518
        angleY -30.982
       }
       {
@@ -4121,7 +4121,7 @@ $grp PolylineShapeEntity {
      }
      $grp SCR_DestructibleEntity : "{7F10A3A0528DD357}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_8m_B.et" {
       {
-       coords -0.027 -0 -0.014
+       coords -0.027 0 -0.014
        angleY -27.063
       }
       {
@@ -4193,7 +4193,7 @@ $grp PolylineShapeEntity {
     {
      $grp SCR_DestructibleEntity : "{13449740EE495C79}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_8m_A.et" {
       {
-       coords -0.028 -0 -0.012
+       coords -0.028 0 -0.012
        angleY -23.436
       }
       {
@@ -4583,7 +4583,7 @@ $grp PolylineShapeEntity {
        angleY -25.549
       }
       {
-       coords 4.92 -0 2.546
+       coords 4.92 0 2.546
        angleY -25.549
       }
       {
@@ -4649,7 +4649,7 @@ $grp PolylineShapeEntity {
   coords 7197.134 2.375 6907.328
   Points {
    ShapePoint "{61196410D3795FD5}" {
-    Position 27.187 0.026 13.359
+    Position 26.881 0.031 13.217
    }
    ShapePoint "{61196413A6B3507D}" {
     Position 37.104 -0.031 17.96
@@ -4675,80 +4675,113 @@ $grp PolylineShapeEntity {
     {
      $grp SCR_DestructibleEntity : "{358B3FF55BA04C88}PrefabLibrary/Walls/Brick/BrickWall_02_4m.et" {
       {
-       coords 38.959 -0.284 10.44
-       angleY 66.753
+       _layer 36
+       coords 39.121 -0.244 11.939
+       angleY 73.637
       }
       {
-       coords 72.869 -0.596 -74.83
-       angleY 65.838
+       _layer 36
+       coords 48.667 -0.522 -15.648
+       angleY 70.217
+      }
+      {
+       _layer 36
+       coords 49.981 -0.536 -19.3
+       angleY 70.217
+      }
+      {
+       _layer 36
+       coords 72.301 -0.596 -73.526
+       angleY 65.972
       }
      }
      $grp SCR_DestructibleEntity : "{4546AD2CC984193B}PrefabLibrary/Walls/Brick/BrickWall_02_2m.et" {
       {
-       coords 34.09 -0.014 16.561
-       angleY -24.888
+       _layer 36
+       coords 33.784 -0.011 16.42
+       angleY -24.889
       }
       {
-       coords 59.418 -0.617 -44.536
-       angleY 69.381
+       _layer 36
+       coords 35.455 -0.021 17.195
+       angleY -24.889
+      }
+      {
+       _layer 36
+       coords 40.214 -0.372 8.217
+       angleY 73.637
+      }
+      {
+       _layer 36
+       coords 73.881 -0.593 -77.071
+       angleY 65.972
       }
      }
      SCR_DestructibleEntity : "{4EF4686F9F99FE80}PrefabLibrary/Walls/Brick/BrickWall_02_Pole.et" {
-      coords 74.439 -0.592 -78.331
-      angleY 65.838
+      _layer 36
+      coords 74.614 -0.592 -78.713
+      angleY 65.972
+     }
+     SCR_DestructibleEntity : "{A86BB734C60AEF9C}PrefabLibrary/Walls/Brick/BrickWall_02_4m_D.et" {
+      _layer 36
+      coords 37.262 -0.025 18.27
+      angleY 73.637
      }
      $grp SCR_DestructibleEntity : "{D4101A467FE8E7EE}PrefabLibrary/Walls/Brick/BrickWall_02_8m.et" {
       {
-       coords 26.99 0.027 13.268
-       angleY -24.888
+       _layer 36
+       coords 26.685 0.032 13.126
+       angleY -24.889
       }
       {
-       coords 35.872 -0.017 17.627
-       angleY 66.753
+       _layer 36
+       coords 40.72 -0.439 6.447
+       angleY 70.217
       }
       {
-       coords 40.502 -0.422 6.881
-       angleY 70.112
+       _layer 36
+       coords 43.369 -0.467 -0.918
+       angleY 70.217
       }
       {
-       coords 43.164 -0.454 -0.479
-       angleY 70.112
+       _layer 36
+       coords 46.018 -0.495 -8.283
+       angleY 70.217
       }
       {
-       coords 45.827 -0.485 -7.839
-       angleY 70.112
+       _layer 36
+       coords 51.291 -0.55 -22.952
+       angleY 69.367
       }
       {
-       coords 48.49 -0.517 -15.199
-       angleY 70.112
+       _layer 36
+       coords 54.049 -0.573 -30.277
+       angleY 69.367
       }
       {
-       coords 51.149 -0.548 -22.56
-       angleY 69.381
+       _layer 36
+       coords 56.807 -0.595 -37.602
+       angleY 69.367
       }
       {
-       coords 53.906 -0.571 -29.885
-       angleY 69.381
+       _layer 36
+       coords 59.553 -0.619 -44.932
+       angleY 65.972
       }
       {
-       coords 56.662 -0.594 -37.211
-       angleY 69.381
+       _layer 36
+       coords 62.74 -0.613 -52.08
+       angleY 65.972
       }
       {
-       coords 60.054 -0.623 -46.266
-       angleY 65.838
+       _layer 36
+       coords 65.927 -0.607 -59.229
+       angleY 65.972
       }
       {
-       coords 63.258 -0.616 -53.407
-       angleY 65.838
-      }
-      {
-       coords 66.462 -0.609 -60.548
-       angleY 65.838
-      }
-      {
-       coords 69.665 -0.602 -67.689
-       angleY 65.838
+       _layer 36
+       coords 69.114 -0.602 -66.378
+       angleY 65.972
       }
      }
     }
@@ -4811,7 +4844,7 @@ SplineShapeEntity {
  angleX 0.895
  Points {
   ShapePoint "{61196416638037CF}" {
-   Position -1.255 -0 1.177
+   Position -1.255 0 1.177
   }
   ShapePoint "{6119641663805F81}" {
    Position 34.174 0.375 12.462
@@ -4877,7 +4910,7 @@ $grp StaticModelEntity : "{D7421F4E08CDDDC1}Prefabs/Structures/Walls/Brick/Brick
   angleY -104.958
  }
  {
-  coords 7218.364 0.017 6917.834
+  coords 7218.132 0.012 6917.724
   angleY -25.363
  }
  {

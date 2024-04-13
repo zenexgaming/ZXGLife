@@ -1,3 +1,82 @@
+PolylineShapeEntity {
+ coords 7145.29 6.233 7190.944
+ Points {
+  ShapePoint "{611A055816C8A30F}" {
+   Position 0 0 0
+  }
+  ShapePoint "{611A055816C8C89D}" {
+   Position -4.56 0.878 48.175
+  }
+  ShapePoint "{611A05580A8673C3}" {
+   Position 7.152 0.275 9.61
+  }
+ }
+ LineColor 0 0 0 0
+ {
+  WallGeneratorEntity : "{BAE9FF9A3718393E}Prefabs/WEGenerators/Walls/Crashbarrier/WG_CrashBarrier_01B.et" {
+   coords 0 0 0
+   Flags 1048579
+   {
+    SCR_DestructibleEntity : "{02985B6E455AD79C}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_End2.et" {
+     coords 7.24 0.271 9.324
+     angleY 72.869
+    }
+    $grp SCR_DestructibleEntity : "{04A36304123DADEF}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_8m_V1.et" {
+     {
+      coords -1.109 0.214 11.72
+      angleY -95.407
+     }
+     {
+      coords -1.858 0.358 19.633
+      angleY -95.407
+     }
+     {
+      coords -3.356 0.646 35.46
+      angleY -95.407
+     }
+     {
+      coords 2.542 0.508 24.565
+      angleY 72.869
+     }
+    }
+    SCR_DestructibleEntity : "{32E1B4D5E24832D1}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_start2.et" {
+     coords -0.015 0 -0.001
+     angleY -95.407
+    }
+    SCR_DestructibleEntity : "{4A1FAB7E3F610EA9}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_4m_V1.et" {
+     coords -4.106 0.79 43.373
+     angleY -95.407
+    }
+    $grp SCR_DestructibleEntity : "{68F757E4AEF922C1}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_8m_V2.et" {
+     {
+      coords -0.36 0.069 3.806
+      angleY -95.407
+     }
+     {
+      coords -2.607 0.502 27.546
+      angleY -95.407
+     }
+     {
+      coords -4.482 0.863 47.354
+      angleY 72.869
+     }
+     {
+      coords -2.141 0.745 39.758
+      angleY 72.869
+     }
+     {
+      coords 0.201 0.626 32.161
+      angleY 72.869
+     }
+     {
+      coords 4.884 0.39 16.968
+      angleY 72.869
+     }
+    }
+   }
+  }
+ }
+}
 $grp SplineShapeEntity {
  {
   coords 7747.569 15.817 6460.439
@@ -104,7 +183,7 @@ $grp SplineShapeEntity {
   coords 6859.057 21.704 7618.858
   Points {
    ShapePoint "{6114A623670A69AB}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{6114A623670546A8}" {
     Position -17.303 3.419 -9.972
@@ -232,7 +311,7 @@ $grp SplineShapeEntity {
       }
      }
      SCR_DestructibleEntity : "{979B717B2D7DE4F3}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_Start.et" {
-      coords 0 -0 0
+      coords 0 0 0
       angleY -209.954
      }
      SCR_DestructibleEntity : "{B62582848252DF2B}PrefabLibrary/Infrastructure/Roads/CrashBarrier_01_End.et" {

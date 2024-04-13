@@ -88,16 +88,6 @@ SCR_DestructibleBuildingEntity : "{00FD2B4A0BDEC271}Prefabs/Structures/Commercia
  coords 7426.093 0.869 6869.14
  angleY 47.679
 }
-SCR_DestructibleBuildingEntity : "{151CFDB2968ADB77}Prefabs/Structures/Houses/Villa/Villa_E_2I01/Villa_E_2I01_Police.et" {
- coords 7263.353 2.783 7198.175
- angleY 30.492
- {
-  Building {
-   ID "5572C8BE9D48840B"
-   coords 0 0 0
-  }
- }
-}
 SCR_DestructibleBuildingEntity : "{165E069CD712902F}Prefabs/Structures/Houses/Village/House_Village_E_1I01/House_Village_E_1I01_ruin.et" {
  coords 7206.102 0.404 7091.844
  angleY -16.958
@@ -139,6 +129,10 @@ $grp SCR_DestructibleBuildingEntity : "{27CC3110521583D6}Prefabs/Structures/Hous
   coords 7403.007 0.279 6772.436
   angleY 46.599
  }
+ {
+  coords 7379.769 -0.023 6837.313
+  angleY 50.383
+ }
 }
 SCR_DestructibleBuildingEntity : "{2A0D72C46FDCD368}Prefabs/Structures/Houses/Village/House_Village_E_1I04/House_Village_E_1I04t.et" {
  coords 7257.865 -0.001 7003.434
@@ -168,9 +162,15 @@ $grp SCR_DestructibleBuildingEntity : "{3299E6F34CE40185}Prefabs/Structures/Agri
   angleY 80.999
  }
 }
-SCR_DestructibleBuildingEntity : "{34D88C9132A17F8F}Prefabs/Structures/Houses/Prefrabricated/House_Prefab_2I01/House_Prefab_2I01_v2.et" {
- coords 7328.078 0.608 6852.444
- angleY -117.375
+$grp SCR_DestructibleBuildingEntity : "{34D88C9132A17F8F}Prefabs/Structures/Houses/Prefrabricated/House_Prefab_2I01/House_Prefab_2I01_v2.et" {
+ {
+  coords 7328.078 0.608 6852.444
+  angleY -117.375
+ }
+ {
+  coords 7398.739 0.887 6851.167
+  angleY 50.254
+ }
 }
 SCR_DestructibleBuildingEntity : "{363A616E6C64BB7F}Prefabs/Structures/Services/Government/MunicipalOffice_E_01/MunicipalOffice_E_01.et" {
  coords 7474.032 0 6738.653
@@ -265,10 +265,6 @@ $grp SCR_DestructibleBuildingEntity : "{54F1C704EB440885}Prefabs/Structures/Hous
   angleY 69.319
  }
 }
-SCR_DestructibleBuildingEntity : "{56073EA03FCF2043}Prefabs/Structures/Military/Houses/Barracks_01/Barracks_01_military_white.et" {
- coords 7292.91 1.282 7175.915
- angleY -49.913
-}
 SCR_DestructibleBuildingEntity : "{58A839659867372C}Prefabs/Structures/Houses/Village/House_Village_E_1L02/House_Village_E_1L02_Base.et" {
  coords 7221.653 -0.036 6886.039
  angleY 68.058
@@ -330,6 +326,10 @@ SCR_DestructibleBuildingEntity : "{6A5434912CBD0296}Prefabs/Structures/Houses/Vi
 GenericEntity : "{6E1D4B04802CB5E5}PrefabLibrary/Props/Garbage/TrashBin_02/TrashBin_02.et" {
  coords 7457.772 3.679 6842.577
  angleY -32.246
+}
+SCR_DestructibleBuildingEntity : "{748640C90A664E29}Prefabs/Structures/Houses/Wooden/House_Wooden_E_1I01/House_Wooden_E_1I01_panels.et" {
+ coords 7452.433 0 6795.421
+ angleY 50.426
 }
 SCR_DestructibleBuildingEntity : "{751E011171780C2E}Prefabs/Structures/Houses/Village/House_Village_E_1I04/House_Village_E_1I04sr.et" {
  coords 7301.607 -0.032 6901.612
@@ -404,10 +404,6 @@ SCR_DestructibleBuildingEntity : "{965AFAD159CB0C8A}Prefabs/Structures/Commercia
  coords 7551.924 0.632 6731.135
  angleY -44.999
 }
-GenericEntity : "{995BAB8356FF42D2}Prefabs/MP/Campaign/Bases/Campaign_ArmoryDepot_USSR.et" {
- coords 7402.43 2.719 6830.938
- angleY 0
-}
 SCR_DestructibleBuildingEntity : "{9CFA6E8952B4E00D}Prefabs/Structures/Ruins/HouseRuins/HouseRuin_01/HouseRuin_01_Wall.et" {
  coords 7223.953 -0.017 7097.325
  angleY -14.282
@@ -452,9 +448,17 @@ SCR_DestructibleBuildingEntity : "{B514DD5B90A27E78}Prefabs/Structures/Services/
  coords 7353.805 1.516 6940.776
  angleY 60.752
 }
+SCR_DestructibleBuildingEntity : "{BBCEDBF2C4E3E896}Prefabs/Structures/Industrial/Houses/Warehouse_01/Warehouse_01_Office.et" {
+ coords 7417.385 0.938 6812.576
+ angleY 48.582
+}
 SCR_DestructibleBuildingEntity : "{BEF9077AF9F93AE7}Prefabs/Structures/Houses/Village/House_Mountain_E_1I01/House_Mountain_E_1I01.et" {
  coords 7196.667 1.577 6831.536
- angleY 74.415
+ angleY -102.897
+}
+SCR_DestructibleBuildingEntity : "{C212C8AC6001F002}Prefabs/Structures/Houses/Wooden/House_Wooden_E_1I01/House_Wooden_E_1I01.et" {
+ coords 7434.241 -0.595 6775.186
+ angleY -132.455
 }
 $grp SCR_DestructibleBuildingEntity : "{C50CF821412A2E0F}Prefabs/Structures/Houses/Town/House_Town_E_2I01/House_Town_E_2I01_orange.et" {
  {
@@ -519,10 +523,6 @@ SCR_DestructibleBuildingEntity : "{E8C14F26268A4D6D}Prefabs/Structures/Services/
 SCR_DestructibleBuildingEntity : "{E9F0814557EC3DA9}Prefabs/Structures/Commercial/FuelStations/FuelStation_E_01/FuelStation_E_01_roof.et" {
  coords 7434.872 0.293 6867.707
  angleY 47.926
-}
-SCR_DestructibleBuildingEntity : "{F16324CB8CB07C00}Prefabs/Structures/Military/Houses/GarageMilitary_E_01/GarageMilitary_E_01.et" {
- coords 7227.294 1.241 7235.403
- angleY 78.709
 }
 SCR_DestructibleBuildingEntity : "{F7919E01B9B17B3E}Prefabs/Structures/Ruins/HouseRuins/HouseRuin_01/HouseRuin_01_BrickPile_Small.et" {
  coords 7229.477 0.124 7092.167
