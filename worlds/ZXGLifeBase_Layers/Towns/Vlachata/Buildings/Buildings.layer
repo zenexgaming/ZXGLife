@@ -125,8 +125,8 @@ SCR_DestructibleBuildingEntity : "{CD370ECB385DE67A}Prefabs/Structures/Houses/Fa
  angleY -108.372
 }
 SCR_DestructibleBuildingEntity : "{CFE8511B2B7E8AAA}Prefabs/Structures/Commercial/Shops/ShopModern_E_01.et" {
- coords 11301.579 2.071 4894.626
- angleY -178.996
+ coords 11317.221 1.606 4886.542
+ angleY -163.29
 }
 SCR_DestructibleBuildingEntity : "{E9F0814557EC3DA9}Prefabs/Structures/Commercial/FuelStations/FuelStation_E_01/FuelStation_E_01_roof.et" {
  coords 11240.613 0.356 4987.089

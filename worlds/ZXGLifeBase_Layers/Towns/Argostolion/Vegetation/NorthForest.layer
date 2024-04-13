@@ -1511,7 +1511,7 @@ $grp Tree : "{1CE46A53F513E951}PrefabLibrary/Vegetation/Plants/p_artemisia_vulga
   scale 0.902
  }
  {
-  coords 6977.276 0 7584.701
+  coords 6978.992 0.001 7580.847
   angleX 3.63
   angleY 155.989
   angleZ 4.459
@@ -1665,7 +1665,7 @@ $grp Tree : "{1CE46A53F513E951}PrefabLibrary/Vegetation/Plants/p_artemisia_vulga
   scale 1.069
  }
  {
-  coords 7013.822 0 7564.027
+  coords 7012.885 0.226 7560.98
   angleX 4.135
   angleY 197.09
   angleZ 0.32
@@ -9066,7 +9066,7 @@ $grp Tree : "{68C5231808D63103}PrefabLibrary/Vegetation/Trees/t_betula_pendula_2
   scale 1.001
  }
  {
-  coords 7004.712 0 7569.915
+  coords 7004.123 -0.046 7567.463
   angleX 2.158
   angleY 13.514
   angleZ -2.242
@@ -11524,7 +11524,7 @@ $grp Tree : "{AC43B039B67361F6}PrefabLibrary/Vegetation/Trees/t_betula_pendula_3
   scale 0.98
  }
  {
-  coords 6936.348 0 7599.1
+  coords 6935.893 -0.038 7598.462
   angleX -2.263
   angleY 125.435
   angleZ 1.962
@@ -11727,14 +11727,14 @@ $grp Tree : "{AC43B039B67361F6}PrefabLibrary/Vegetation/Trees/t_betula_pendula_3
   scale 1.046
  }
  {
-  coords 6963.779 0 7588.751
+  coords 6961.836 -0.878 7581.927
   angleX -2.232
   angleY 285.862
   angleZ 0.528
   scale 0.847
  }
  {
-  coords 6967.264 0 7586.025
+  coords 6968.566 -0.145 7583.073
   angleX -0.1
   angleY 156.197
   angleZ -1.974
@@ -11769,7 +11769,7 @@ $grp Tree : "{AC43B039B67361F6}PrefabLibrary/Vegetation/Trees/t_betula_pendula_3
   scale 0.899
  }
  {
-  coords 7012.376 0 7565.477
+  coords 7010.531 -0.049 7562.219
   angleX -0.644
   angleY 209.527
   angleZ 3.202
@@ -14584,7 +14584,7 @@ $grp Tree : "{B1062DFA6850D829}PrefabLibrary/Vegetation/Bushes/b_juniperus_commu
   scale 1.201
  }
  {
-  coords 6971.033 0 7586.65
+  coords 6974.888 0 7580.552
   angleX 14.833
   angleY 147.694
   angleZ -12.214
@@ -17741,14 +17741,14 @@ $grp Tree : "{B3453920EE605F13}PrefabLibrary/Vegetation/Trees/t_carpinus_betulus
   scale 0.915
  }
  {
-  coords 7002.831 0 7570.735
+  coords 7004.596 0.346 7565.887
   angleX 1.459
   angleY 159.999
   angleZ 2.422
   scale 1.129
  }
  {
-  coords 7003.192 0 7572.807
+  coords 6996.533 -2.823 7567.495
   angleX -2.475
   angleY 321.349
   angleZ 1.627

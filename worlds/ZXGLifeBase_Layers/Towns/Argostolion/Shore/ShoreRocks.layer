@@ -91,10 +91,10 @@ SplineShapeEntity {
   ForestGeneratorEntity : "{87EEB3215391A8DE}Prefabs/WEGenerators/Stones/FG_BeachStone_Dense.et" {
    coords 0 0 0
    Flags 1048579
+   m_bAvoidRoads 1
    {
     $grp GenericEntity : "{2A841F5C64F4BCE2}PrefabLibrary/Rocks/Granite/Granite_BeachCluster_02/Granite_BeachCluster_02.et" {
      {
-      _layer 17
       coords -72.83 -6.764 -9.544
       angleX 16.649
       angleY -7.518
@@ -102,7 +102,6 @@ SplineShapeEntity {
       scale 0.34
      }
      {
-      _layer 17
       coords -123.171 -2.613 -59.26
       angleX 2.862
       angleY -1.432
@@ -110,7 +109,6 @@ SplineShapeEntity {
       scale 0.776
      }
      {
-      _layer 17
       coords -123.958 -3.052 -62.074
       angleX -0.836
       angleY 0.222
@@ -118,7 +116,6 @@ SplineShapeEntity {
       scale 0.579
      }
      {
-      _layer 17
       coords -47.156 0.282 -92.026
       angleX 26.085
       angleY 19.668
@@ -126,7 +123,6 @@ SplineShapeEntity {
       scale 0.238
      }
      {
-      _layer 17
       coords -104.235 -9.683 -33.43
       angleX -21.155
       angleY 2.079
@@ -134,7 +130,6 @@ SplineShapeEntity {
       scale 1.118
      }
      {
-      _layer 17
       coords -108.016 -9.492 -33.879
       angleX -19.649
       angleY -1.598
@@ -142,7 +137,6 @@ SplineShapeEntity {
       scale 1.156
      }
      {
-      _layer 17
       coords -110.288 -7.384 -37.749
       angleX -33.512
       angleY -4.153
@@ -150,7 +144,6 @@ SplineShapeEntity {
       scale 1.113
      }
      {
-      _layer 17
       coords -110.757 -4.326 -42.089
       angleX -36.284
       angleY -0.657
@@ -158,7 +151,6 @@ SplineShapeEntity {
       scale 0.316
      }
      {
-      _layer 17
       coords 10.877 11.779 -78.561
       angleX 8.923
       angleY -3.939
@@ -166,7 +158,6 @@ SplineShapeEntity {
       scale 1.075
      }
      {
-      _layer 17
       coords 16.787 13.601 -81.924
       angleX -0.849
       angleY 0.199
@@ -174,7 +165,6 @@ SplineShapeEntity {
       scale 0.247
      }
      {
-      _layer 17
       coords 9.48 11.225 -78.257
       angleX 8.923
       angleY -3.939
@@ -182,7 +172,6 @@ SplineShapeEntity {
       scale 0.733
      }
      {
-      _layer 17
       coords 5.164 7.818 -84.107
       angleX 6.54
       angleY -4.623
@@ -190,7 +179,6 @@ SplineShapeEntity {
       scale 0.674
      }
      {
-      _layer 17
       coords -34.481 -3.084 10.397
       angleX -38.415
       angleY 9.99
@@ -198,7 +186,6 @@ SplineShapeEntity {
       scale 0.72
      }
      {
-      _layer 17
       coords -41.604 -8.292 15.313
       angleX -25.692
       angleY 2.154
@@ -206,7 +193,6 @@ SplineShapeEntity {
       scale 0.285
      }
      {
-      _layer 17
       coords -103.177 -8.992 -34.936
       angleX -25.626
       angleY 2.577
@@ -214,15 +200,12 @@ SplineShapeEntity {
       scale 0.67
      }
      {
-      _layer 17
       coords -112.516 -4.954 -41.212
       angleX -34.476
       angleY 1.23
       angleZ -2.171
       scale 0.357
      }
-    }
-    $grp GenericEntity : "{2A841F5C64F4BCE2}PrefabLibrary/Rocks/Granite/Granite_BeachCluster_02/Granite_BeachCluster_02.et" {
      {
       coords -90.586 8.296 -51.084
       angleX -29.354
@@ -364,7 +347,8 @@ SplineShapeEntity {
       scale 0.894
      }
      {
-      coords 19.082 15.043 -36.948
+      coords 13.156 14.291 -36.948
+      angleZ -13.733
       scale 0.82
      }
      {
@@ -2226,7 +2210,6 @@ SplineShapeEntity {
     }
     $grp GenericEntity : "{46D02BBCD83033CC}PrefabLibrary/Rocks/Granite/Granite_BeachCluster_01/Granite_BeachCluster_01.et" {
      {
-      _layer 17
       coords -126.294 -3.728 -63.3
       angleX -3.341
       angleY 0.888
@@ -2234,7 +2217,6 @@ SplineShapeEntity {
       scale 0.606
      }
      {
-      _layer 17
       coords -105.759 -9.538 -33.809
       angleX -17.316
       angleY 0.837
@@ -2242,7 +2224,6 @@ SplineShapeEntity {
       scale 0.743
      }
      {
-      _layer 17
       coords -106.528 -10.1 -31.641
       angleX -10.609
       angleY -0.335
@@ -2250,7 +2231,6 @@ SplineShapeEntity {
       scale 1.109
      }
      {
-      _layer 17
       coords -111.395 -4.973 -41.195
       angleX -36.284
       angleY -0.657
@@ -2258,7 +2238,6 @@ SplineShapeEntity {
       scale 1.153
      }
      {
-      _layer 17
       coords -39.926 -3.081 -92.537
       angleX 25.05
       angleY -6.71
@@ -2266,7 +2245,6 @@ SplineShapeEntity {
       scale 0.806
      }
      {
-      _layer 17
       coords -27.262 2.695 -96.425
       angleX 0.801
       angleY -0.275
@@ -2274,7 +2252,6 @@ SplineShapeEntity {
       scale 1.027
      }
      {
-      _layer 17
       coords 11.871 12.008 -80.547
       angleX 3.835
       angleY -1.56
@@ -2282,7 +2259,6 @@ SplineShapeEntity {
       scale 0.798
      }
      {
-      _layer 17
       coords 5.036 8.201 -81.595
       angleX 7.222
       angleY -4.315
@@ -2290,7 +2266,6 @@ SplineShapeEntity {
       scale 0.6
      }
      {
-      _layer 17
       coords -39.99 -7.816 14.804
       angleX -35.759
       angleY 5.165
@@ -2298,15 +2273,12 @@ SplineShapeEntity {
       scale 0.928
      }
      {
-      _layer 17
       coords -108.733 -7.726 -37.463
       angleX -32.997
       angleY -3.49
       angleZ 6.39
       scale 0.805
      }
-    }
-    $grp GenericEntity : "{46D02BBCD83033CC}PrefabLibrary/Rocks/Granite/Granite_BeachCluster_01/Granite_BeachCluster_01.et" {
      {
       coords -80.476 8.516 -47.945
       angleX 0.869
@@ -2685,7 +2657,6 @@ SplineShapeEntity {
     }
     $grp GenericEntity : "{75E7837701ADA216}PrefabLibrary/Rocks/Granite/Granite_Stone_03/Granite_BeachStone_03.et" {
      {
-      _layer 17
       coords 4.852 -0.329 1.1
       angleX -3.694
       angleY 234.488
@@ -2693,7 +2664,6 @@ SplineShapeEntity {
       scale 0.582
      }
      {
-      _layer 17
       coords 13.625 5.877 -15.16
       angleX -1.392
       angleY 298.299
@@ -2701,7 +2671,6 @@ SplineShapeEntity {
       scale 0.674
      }
      {
-      _layer 17
       coords 8.649 2.6 -7.116
       angleX -3.142
       angleY 198.881
@@ -2709,7 +2678,6 @@ SplineShapeEntity {
       scale 0.645
      }
      {
-      _layer 17
       coords -129.891 -2.161 -82.262
       angleX -3.625
       angleY 60.438
@@ -2717,7 +2685,6 @@ SplineShapeEntity {
       scale 1.032
      }
      {
-      _layer 17
       coords 4.852 -0.329 1.1
       angleX 1.453
       angleY 214.767
@@ -2725,7 +2692,6 @@ SplineShapeEntity {
       scale 0.582
      }
      {
-      _layer 17
       coords 3.76 -4.394 7.094
       angleX 4.274
       angleY 68.249
@@ -2733,7 +2699,6 @@ SplineShapeEntity {
       scale 1.057
      }
      {
-      _layer 17
       coords 13.625 5.877 -15.16
       angleX -1.344
       angleY 353.485
@@ -2741,15 +2706,12 @@ SplineShapeEntity {
       scale 0.674
      }
      {
-      _layer 17
       coords 8.649 2.6 -7.116
       angleX -1.226
       angleY 347.816
       angleZ 4.613
       scale 0.645
      }
-    }
-    $grp GenericEntity : "{75E7837701ADA216}PrefabLibrary/Rocks/Granite/Granite_Stone_03/Granite_BeachStone_03.et" {
      {
       coords -45.107 7.185 -57.33
       angleX -2.578
@@ -3005,7 +2967,6 @@ SplineShapeEntity {
     }
     $grp GenericEntity : "{907BCF8E0D48357D}PrefabLibrary/Rocks/Granite/Granite_Stone_02/Granite_BeachStone_02.et" {
      {
-      _layer 17
       coords 14.29 6.833 -17.326
       angleX 4.274
       angleY 68.249
@@ -3013,7 +2974,6 @@ SplineShapeEntity {
       scale 0.663
      }
      {
-      _layer 17
       coords -3.728 2.06 -90.262
       angleX -3.694
       angleY 234.488
@@ -3021,7 +2981,6 @@ SplineShapeEntity {
       scale 1.006
      }
      {
-      _layer 17
       coords -6.35 -7.178 5.22
       angleX 2.73
       angleY 230.885
@@ -3029,7 +2988,6 @@ SplineShapeEntity {
       scale 0.831
      }
      {
-      _layer 17
       coords 6.929 -2.681 5.924
       angleX 2.497
       angleY 350.409
@@ -3037,7 +2995,6 @@ SplineShapeEntity {
       scale 1.091
      }
      {
-      _layer 17
       coords 0.833 4.09 -85.025
       angleX -2.37
       angleY 53.153
@@ -3045,7 +3002,6 @@ SplineShapeEntity {
       scale 1.067
      }
      {
-      _layer 17
       coords 2.857 5.067 -86.035
       angleX 3.327
       angleY 73.731
@@ -3053,7 +3009,6 @@ SplineShapeEntity {
       scale 0.706
      }
      {
-      _layer 17
       coords 8.686 9.897 -85.255
       angleX -1.171
       angleY 184.235
@@ -3061,15 +3016,12 @@ SplineShapeEntity {
       scale 0.627
      }
      {
-      _layer 17
       coords 14.29 6.833 -17.326
       angleX 2.874
       angleY 57.054
       angleZ 1.421
       scale 0.663
      }
-    }
-    $grp GenericEntity : "{907BCF8E0D48357D}PrefabLibrary/Rocks/Granite/Granite_Stone_02/Granite_BeachStone_02.et" {
      {
       coords -53.661 8.815 -50.643
       angleX -4.49
@@ -3274,7 +3226,7 @@ SplineShapeEntity {
       scale 1.113
      }
      {
-      coords 15.006 14.712 -48.675
+      coords 13.508 14.649 -48.66
       angleX -1.843
       angleY 180.489
       angleZ 2.394
@@ -3402,7 +3354,6 @@ SplineShapeEntity {
     }
     $grp GenericEntity : "{FC2FFB6EB18CBA53}PrefabLibrary/Rocks/Granite/Granite_Stone_01/Granite_BeachStone_01.et" {
      {
-      _layer 17
       coords -133.393 -4.574 -79.349
       angleX 2.523
       angleY 24.973
@@ -3410,7 +3361,6 @@ SplineShapeEntity {
       scale 0.682
      }
      {
-      _layer 17
       coords -131.599 -2.855 -81.101
       angleX 3.694
       angleY 303.364
@@ -3418,15 +3368,13 @@ SplineShapeEntity {
       scale 0.398
      }
      {
-      _layer 17
-      coords 21.49 14.712 -51.266
+      coords -0.586 7.437 -48.434
       angleX 0.008
       angleY 276.194
       angleZ -3.415
       scale 0.746
      }
      {
-      _layer 17
       coords -5.848 1.785 -91.904
       angleX -2.295
       angleY 229.028
@@ -3434,7 +3382,6 @@ SplineShapeEntity {
       scale 0.814
      }
      {
-      _layer 17
       coords -2.382 2.754 -90.43
       angleX -0.278
       angleY 314.263
@@ -3442,7 +3389,6 @@ SplineShapeEntity {
       scale 0.583
      }
      {
-      _layer 17
       coords 4.121 6.348 -86.457
       angleX -4.31
       angleY 242.487
@@ -3450,7 +3396,6 @@ SplineShapeEntity {
       scale 0.588
      }
      {
-      _layer 17
       coords -5.528 2.334 -89.587
       angleX 2.151
       angleY 28.049
@@ -3458,7 +3403,6 @@ SplineShapeEntity {
       scale 0.295
      }
      {
-      _layer 17
       coords -8.412 -7.328 6.646
       angleX -0.954
       angleY 85.245
@@ -3466,7 +3410,6 @@ SplineShapeEntity {
       scale 0.836
      }
      {
-      _layer 17
       coords 8.468 -1.425 4.573
       angleX 1.345
       angleY 77.577
@@ -3474,7 +3417,6 @@ SplineShapeEntity {
       scale 1.102
      }
      {
-      _layer 17
       coords 4.513 1.092 -2.281
       angleX -1.392
       angleY 298.299
@@ -3482,7 +3424,6 @@ SplineShapeEntity {
       scale 0.357
      }
      {
-      _layer 17
       coords 5.458 -4.189 8.231
       angleX -3.142
       angleY 198.881
@@ -3490,7 +3431,6 @@ SplineShapeEntity {
       scale 0.51
      }
      {
-      _layer 17
       coords 13.822 12.444 -80.98
       angleX -1.715
       angleY 201.166
@@ -3498,7 +3438,6 @@ SplineShapeEntity {
       scale 1.171
      }
      {
-      _layer 17
       coords -2.341 2.606 -85.601
       angleX 2.052
       angleY 311.867
@@ -3506,7 +3445,6 @@ SplineShapeEntity {
       scale 1.046
      }
      {
-      _layer 17
       coords 11.435 12.561 -76.766
       angleX -1.558
       angleY 281.116
@@ -3514,7 +3452,6 @@ SplineShapeEntity {
       scale 0.243
      }
      {
-      _layer 17
       coords 10.625 2.757 -5.047
       angleX -2.052
       angleY 134.488
@@ -3522,15 +3459,12 @@ SplineShapeEntity {
       scale 0.224
      }
      {
-      _layer 17
       coords 18.659 9.373 -20.206
       angleX -1.762
       angleY 105.186
       angleZ 1.09
       scale 0.371
      }
-    }
-    $grp GenericEntity : "{FC2FFB6EB18CBA53}PrefabLibrary/Rocks/Granite/Granite_Stone_01/Granite_BeachStone_01.et" {
      {
       coords -41.145 5.713 -55.707
       angleX 1.879
